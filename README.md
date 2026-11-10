@@ -1,29 +1,24 @@
 # Rollout 数据可视化
 
-图生、参考生各 10 组，每组 4 个 seed，共 80 条视频。
+[统一可视化首页](https://zjyao36.github.io/rollout-visualization/)
 
-- 图生模型：`vidu34_img2video_20260912`
-- 参考生模型：`vidu34_character2video_20261106`
-- Seeds：`42`、`123`、`2026`、`3407`
-- 同组使用相同条件、原始 prompt 和 PE caption，只改变 seed。
+全部批次在同一页面浏览，支持批次、图生/参考生、生成状态筛选，场景/prompt/PE 搜索及分页。
 
-打开 `index.html` 可浏览全部 case，筛选模型、搜索文本、放大条件图、展开完整 PE，并同步播放四个 seed 的视频。
+| 批次 | 结果组 | 视频计划 | 随机数种子 |
+| --- | ---: | ---: | --- |
+| 四 seed 对比 | 20 | 80 | 42、123、2026、3407 |
+| 长视频 | 20 | 20 | 42 |
+| 复杂运动与切镜 | 6 | 6 | 42 |
+| 480p 对照 | 6 | 6 | 42 |
 
-## GitHub Pages
+共 52 组、112 条视频计划；实际完成状态以首页为准。尚未完成的任务明确显示状态。
 
-将本目录推送到 GitHub 仓库后，打开 **Settings → Pages → Build and deployment**，
-选择 **Deploy from a branch**、`main` 分支和 `/ (root)`，保存。
-部署完成后，GitHub 会在同一页面给出可公开访问的网址。
+每组保留条件图、原始 user prompt、完整 PE、生成配置和原始 MP4。四 seed 可同步播放；480p 可与原分辨率在同页并排对照。
+480p 测试复用原条件、PE 与 seed，仅改变采样分辨率；实际输出尺寸在视频下方标注。改变分辨率也可能改变构图和动作细节。
 
-所有视频、图片和缩略图均包含在仓库内，使用相对链接；页面不需要内网服务或 API。
-`.nojekyll` 用于直接发布静态文件，无需安装或构建依赖。
+固定模型：
 
-每组目录包含 `conditions/`、`prompt.txt`、`pe.txt`、`config.json` 和四个 `seed_*.mp4`。
-全部 80 条视频通过完整解码及参数核对；20 组内共 120 对 seed 的解码画面均不同。
+- 图生：`vidu34_img2video_20260912`
+- 参考生：`vidu34_character2video_20261106`
 
-发布说明：[GitHub Pages 文档](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)。
-
-## 480p 对照测试
-
-图生、参考生各 3 条，时长 12–16 秒，seed 42。复用原 case 的条件、prompt 和 PE，仅修改实际采样分辨率，原生生成 480 像素短边视频，未对视频进行缩放转码。
-[查看 480p 对照](480p/)
+旧的长视频、复杂运动和 480p 入口会跳转到统一首页对应分组。原媒体文件路径保持可用。
