@@ -1,0 +1,30 @@
+# Style and Tone
+A premium bathroom product commercial rendered in photorealistic CGI, with a calm, warm, minimalist atmosphere and a pervading sense of quiet comfort.
+
+# Subject and Scene
+<Subject1>: Matte black circular rain showerhead mounted on a straight black wall arm and round wall flange; its underside carries a dense radial array of fine nozzles, and its top rim has a small circular sensor dot beside a digital temperature display reading 【38°】 in light digits.
+<Subject2>: Frosted taupe sandalwood shampoo bottle with a black pump dispenser and a light grey label reading 【SANDALWOOD】 above 【SHAMPOO】, resting on a low round grey stone tray.
+<Subject3>: Neatly folded stack of white terry-cloth towels with visible loop texture, rolled into a compact rectangular pile.
+<Subject4>: Lit candle in a clear glass holder with cream wax and a small white rectangular label, its flame standing upright with a warm yellow glow.
+<Scene1>: Minimalist modern bathroom interior with a smooth matte warm-grey concrete wall, a recessed rectangular wall niche lit by soft warm accent light, and a pale wall surface at the right edge carrying a soft blurred shadow of foliage; even warm diffused lighting combines with the candle glow and a gentle sunbeam-like highlight on the right wall.
+
+# Overlays
+Minimalist white sans-serif copy appears in two stages: first a two-line phrase 【38° 恒温 · 每一滴，刚刚好】 fades in over the left negative space of the wall, then a centered brand lockup 【SHOWER · 回归此刻】 holds over the final wide composition before fading to black.
+
+# Summary
+In the calm concrete bathroom <Scene1>, water streams from the black rain showerhead <Subject1> while the candle flame <Subject4> flickers; the camera pushes in past the sandalwood shampoo <Subject2>, folded white towels <Subject3>, and glass candle <Subject4>, then pans to a close view of the showerhead and its 【38°】 display, cuts to a side medium shot where minimalist copy appears, and finally settles on a wide brand lockup before fading to black.
+
+# Complete Description
+At 0.0 seconds, [a soft ambient electronic score with warm piano tones begins]. A locked-off eye-level medium shot frames the recessed niche and upper showerhead of <Scene1>: <Subject1> extends from the wall at upper center-right with its digital display reading 【38°】, while <Subject2> sits on its round stone tray at the left of the niche, <Subject3> lies folded in the center of the shelf, and <Subject4> glows at the right of the niche with a small upright flame; the warm-grey concrete wall fills the background and a soft foliage shadow rests on the pale wall at the far right. Fine transparent water streams immediately begin falling vertically from the dense nozzle array beneath <Subject1>, individual droplets catching light as they descend, and the flame of <Subject4> sways gently with a small rhythmic wobble while its warm light pools across the niche shelf <soft steady rainfall patter layered under the score, with a faint candle crackle>. The camera begins a slow push-in toward the niche, keeping <Subject1> in the upper portion of frame while the shelf items grow in size; first the frosted taupe bottle and its 【SANDALWOOD】 / 【SHAMPOO】 label fill the left foreground, then the folded terry texture of <Subject3> slides through center frame, and finally the clear glass holder and swaying flame of <Subject4> come into close view as the camera eases past the right edge of the niche.
+
+At 5.2 seconds, [the soft ambient electronic score continues]. The camera continues its forward motion and then pans gently upward and right into a close-up of <Subject1>, framing the matte black circular disc from a slightly low angle; the dense radial nozzles fill the lower half of the disc while countless fine vertical water streams fall straight downward, individual droplets glistening as they pass through the light and small highlights refract across the matte black surface <the rainfall patter grows more present in the mix>. The small circular sensor dot sits to the left of the digital display, and the light digits 【38°】 remain clearly legible on the top rim, pulsing with a subtle breathing brightness as the close view holds on the falling water and the dark disc.
+
+At 8.4 seconds, [the soft ambient electronic score continues]. A hard cut lands on a locked-off eye-level medium side shot that shows the full concrete wall of <Scene1> in profile: <Subject1> projects outward from the wall at upper center with water still streaming straight down, the recessed niche sits below it with <Subject2>, <Subject3>, and <Subject4> visible in warm light, and a wide expanse of plain warm-grey wall occupies the left side of frame. Over this left negative space, minimalist white sans-serif text fades in character by character until the two-line copy 【38° 恒温 · 每一滴，刚刚好】 stands clearly against the concrete, while the candle flame continues its small sway and the rainfall patter holds steady; finally the text rests at full brightness against the wall.
+
+At 11.4 seconds, [the soft ambient electronic score softens to a held piano chord]. A hard cut shifts to a static wide shot that frames the entire wall composition frontally, with <Subject1> centered in the upper half, water falling in a soft transparent curtain, and the niche with <Subject2>, <Subject3>, and <Subject4> glowing below it; centered over the middle of the frame, the brand lockup 【SHOWER · 回归此刻】 fades in crisp white sans-serif type and holds steady while the water continues to fall and the candle flame keeps its gentle sway. Around 13.0 seconds the entire image begins a slow fade to black, the white brand text, the 【38°】 display glow, the candlelight, and the falling water all dimming together until the screen reaches uniform black; finally the black frame holds for the last beat as the score and rainfall fade out completely.
+
+# Additional Information
+## Duration
+14.0 seconds
+## Aspect Ratio
+16:9

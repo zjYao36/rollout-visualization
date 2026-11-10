@@ -1,0 +1,26 @@
+# Style and Tone
+A playful household goods commercial short video, rendered in bright photoreal CGI, carries a light, whimsical and cheerful atmosphere with a pervading sense of everyday fun.
+
+# Subject and Scene
+<Subject1>: A blue FRAKTA-style woven polypropylene shopping bag viewed from inside its open mouth, with crinkled bright blue grid-textured walls, a reinforced stitched top rim, and two blue woven carry handles printed with reversed yellow IKEA lettering; the top handle hangs from the upper center and the bottom handle rests on the lower folded rim.
+<Subject2>: A yellow-and-white horizontally striped cotton sock, soft knit texture with a rounded toe and a ribbed cuff, clipped by a dark green plastic clothespin to a white clothesline that stretches horizontally across the opening of <Subject1>.
+<Subject3>: A taut white clothesline strung across the clear sky, carrying a row of dark green and grey plastic clothespins spaced along its length, with one pin holding <Subject2> and the rest empty.
+<Subject4>: A bright red round latex balloon with a glossy highlight, a small tied neck, and a thin white string trailing beneath it.
+<Scene1>: The interior view looking out from inside <Subject1> toward a clear, cloudless bright blue sky, framed on all four sides by the bag's crinkled blue walls and handles; bright clear daylight illuminates the scene evenly, with the sky filling the rectangular opening.
+
+# Overlays
+White sans-serif product copy sits in the lower-left area of the frame, reading 【FRAKTA】 on the top line, 【Laundry Bag】 on the middle line, and a large 【9:-】 price mark beneath it; the text remains fixed and legible throughout the video.
+
+# Summary
+Inside the bright blue shopping bag <Scene1>, a red balloon <Subject4> drifts in from the side, playfully bumps the striped sock <Subject2> hanging on the clothesline <Subject3>, and sends the sock swinging while the FRAKTA Laundry Bag price copy stays anchored in the corner, ending on a light, cheeky product reveal.
+
+# Complete Description
+At 0.0 seconds, [a bouncy, light ukulele-and-whistle commercial tune begins]. A locked-off eye-level interior shot frames the rectangular opening of <Subject1> against the clear blue sky of <Scene1>, with the top blue handle hanging reversed at the upper center, the bottom blue handle resting on the lower crinkled rim, and the white overlay text 【FRAKTA】 / 【Laundry Bag】 / 【9:-】 fixed in the lower-left. The white clothesline <Subject3> stretches horizontally across the sky opening, a line of dark green and grey clothespins spaced along it from frame left to frame right, and <Subject2> hangs from one green clothespin slightly right of center, its toe pointing down and left, gently still. After a brief hold, <Subject4> enters from the upper right edge of the sky opening, its glossy red surface catching a bright highlight as it drifts diagonally down and left on its trailing white string <a soft whoosh of moving air>; the balloon sways slightly as it crosses behind the clothesline, its round form passing in front of the empty clothespins and growing larger as it approaches the hanging sock.
+
+At 5.8 seconds, [the bouncy ukulele-and-whistle tune continues with a light xylophone accent]. The same locked-off interior shot holds as <Subject4> makes contact with <Subject2>, nudging the striped sock from the side; <Subject2> swings away on its clipped cuff, the toe arcing left then right while the green clothespin stays fastened to <Subject3>, and the balloon bounces gently off the knit fabric with a small rebound <a light rubbery bump and a soft fabric rustle>. The trailing white string of <Subject4> loops loosely around the section of clothesline just beside the clothespin, and the balloon bobs up and down in place, its glossy red surface contrasting against the blue sky and the yellow-white sock. <Subject2> continues to swing in smaller arcs, its striped pattern rotating with each pass, while the other empty clothespins along the line rock faintly from the transmitted vibration; finally the balloon settles floating beside the sock, the sock's swing reduces to a small sway, and the frame holds on the playful arrangement of red balloon, striped sock, blue bag handles, and the fixed white 【FRAKTA】 / 【Laundry Bag】 / 【9:-】 copy in the lower-left as the cheerful tune carries to the end.
+
+# Additional Information
+## Duration
+15.0 seconds
+## Aspect Ratio
+1200:799

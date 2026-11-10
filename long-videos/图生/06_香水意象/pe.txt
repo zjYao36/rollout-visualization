@@ -1,0 +1,30 @@
+# Style and Tone
+A minimalist fragrance consciousness-stream commercial, rendered in photoreal CGI with a cool, restrained palette, carries a languid, serene, quietly awakened atmosphere with a pervading sense of stillness.
+
+# Subject and Scene
+<Subject1>: A frosted clear-glass Calvin Klein CK one perfume bottle with a rounded rectangular body, brushed silver spray cap and collar, a large dark grey "CK" monogram above the word "one", the printed name "Calvin Klein" lower on the front, and a small grey printed batch strip near the base; the glass is matte-frosted with soft light diffusion and a faint liquid level visible inside.
+<Scene1>: A sunlit bedroom corner in early morning, with rumpled white cotton bed sheets and a plump white pillow, soft folds and woven texture catching cool daylight, a pale white curtain at frame left, and a cool blue out-of-focus background band at the top; cool diffused morning light falls from the upper left, casting soft-edged shadows.
+<Scene2>: A clean white ceramic sink basin with a smooth glossy surface, a brushed silver faucet spout above, and a shallow pool of clear still water in the bowl; cool neutral daylight reflects off the ceramic and water.
+<Scene3>: A pale sheer white curtain hanging in vertical folds beside a window, with soft diffused daylight filtering through the fabric and a faint blue exterior glow beyond; the fabric moves in slow, weightless waves.
+<Scene4>: A close-up plane of pale skin on a forearm and wrist, smooth and lit by cool morning light, with fine natural texture and a faint blue vein visible beneath the surface.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+Across a sequence of clean minimalist scenes <Scene1>, <Scene2>, <Scene3>, and <Scene4>, the frosted CK one perfume bottle <Subject1> rests on white bed linen, sits beside still water in a sink, and is echoed by sheer curtain light and a close brush of skin, while cool morning light slowly sweeps across its frosted glass as if gently waking everything it touches.
+
+# Complete Description
+At 0.0 seconds, [a sparse ambient piano score with soft sustained high notes and slow reverb begins]. A locked-off eye-level close shot frames <Subject1> lying diagonally across the rumpled white sheets of <Scene1>, its silver spray cap pointing toward the upper right and its printed base toward the lower left; the large dark grey "CK" monogram, the word "one", the printed "Calvin Klein" name, and the small grey batch strip near the base all face the camera, and a soft shadow falls to the bottle's right on the woven cotton. The white pillow fills the upper background, the pale curtain edge stands at frame left, and the cool blue out-of-focus band glows at the top of frame. Cool morning light slowly drifts across the frosted glass from upper left toward lower right, brightening the curved shoulder of the bottle, sliding along the silver collar, and making the matte surface glow faintly while the shadow edge softens and shifts; finally the light rests across the center of the monogram as the bottle stays motionless on the sheets.
+
+At 4.8 seconds, [the sparse ambient piano score continues with a single held note]. A hard cut lands on a locked-off overhead close shot in <Scene2>: <Subject1> stands upright just outside the glossy white ceramic basin at frame left, its frosted body catching the cool light while the brushed silver faucet rises above the bowl at frame right and a shallow pool of clear still water lies in the center of the sink with a faint reflection of the faucet. A single slow ripple spreads outward from the center of the water, its concentric rings widening and flattening as the reflection of the bottle shivers across the surface; the light on the frosted glass brightens a fraction as the ripple reaches the edge of the pool, and finally the water returns to glassy stillness with the bottle reflected cleanly beside the faucet.
+
+At 8.2 seconds, [the sparse ambient piano score continues with a soft ascending phrase]. A hard cut shifts to a side-lit medium close shot in <Scene3>: the pale sheer white curtain fills the frame in soft vertical folds, cool diffused daylight filtering through from behind so that the fabric glows with a pale blue-white luminance. The curtain lifts in a slow wave from frame left toward frame right, its sheer layers separating and falling back with a weightless drift, and through the translucent fabric a blurred silhouette of <Subject1> becomes briefly visible against the window light before the fabric settles again; finally the curtain hangs nearly still, its folds catching thin vertical streaks of morning light.
+
+At 11.6 seconds, [the sparse ambient piano score resolves into a quiet sustained chord]. A hard cut moves to an intimate macro close shot in <Scene4>: a section of smooth pale forearm and wrist lies diagonally across the frame, lit by cool morning light that traces a faint blue vein beneath the skin and leaves a soft highlight along the wrist bone. <Subject1> enters from frame right as a blurred frosted shape, its silver cap catching a pinpoint of light, and the rounded glass shoulder approaches the wrist until it rests lightly against the skin; the cool light sweeps once more across the frosted surface and onto the adjacent skin, brightening the fine texture and the edge of the bottle in a single clean highlight, and finally the frame holds on the bottle pressed gently against the wrist as the piano chord sustains into stillness.
+
+# Additional Information
+## Duration
+15.0 seconds
+## Aspect Ratio
+2657:4723
