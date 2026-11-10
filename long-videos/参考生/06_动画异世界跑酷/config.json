@@ -1,0 +1,41 @@
+{
+  "key": "R06",
+  "kind": "r2v",
+  "title": "动画异世界跑酷",
+  "source_id": "refprod_cd22fe65afcdcc6c",
+  "folder": "参考生/06_动画异世界跑酷",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "生成一段《蜘蛛侠平行宇宙》效果的动画，赛博朋克风格、涂鸦、色差边缘效果。剧情为图1女孩不小心坠入一个异空间，不断下坠，最后来到上海，在上海的街道上开始跑酷，街边都是标志性高楼和建筑物，全程动态跟随她的背影穿梭前进",
+  "original_seed": 517053613,
+  "duration": 15.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/06_动画异世界跑酷/conditions/image_01.jpg",
+      "sha256": "e2a74dc60de49a45239cc7bad6159889467483ab98f915921121caf04476c951",
+      "width": 507,
+      "height": 1023
+    },
+    {
+      "slot": 2,
+      "path": "参考生/06_动画异世界跑酷/conditions/image_02.jpg",
+      "sha256": "193d7372e4bed98fe5432dcb290a33edd5080761822de25e7c12f4a9616dc5aa",
+      "width": 5504,
+      "height": 3072
+    }
+  ],
+  "seeds": [
+    42
+  ],
+  "params": {
+    "video": {
+      "duration": 15.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion"
+}

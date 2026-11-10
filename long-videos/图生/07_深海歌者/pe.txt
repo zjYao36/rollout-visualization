@@ -1,0 +1,26 @@
+# Style and Tone
+The ethereal deep-sea music video, rendered in photorealistic CGI, carries a dreamy, serene, and otherworldly atmosphere with a pervading sense of weightless tranquility.
+
+# Subject and Scene
+<Subject1>: A young adult woman with fair skin, long wavy light-brown hair that fans freely underwater, and a serene expression with eyes closed and lips parted in song. She wears a flowing white gown constructed from layered sheer tulle and chiffon with thin spaghetti straps, a fitted embroidered bodice, and an extremely long, billowing skirt that trails and swirls in the water. She holds a black handheld dynamic microphone close to her mouth.
+<Subject2>: A school of small, colorful tropical fish with iridescent scales that catch the light, shimmering in hues of silver, blue, and faint orange as they move in synchronized, fluid formations.
+<Scene1>: A deep underwater seascape filled with clear, deep cerulean blue water. The surface far above glows with bright sunlight that pierces downwards in distinct, hazy Tyndall light beams. Tiny, delicate air bubbles drift slowly upward. The seabed below is dark and textured with rugged, moss-covered rocks and coral formations that fade into the deep blue distance.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+In a sun-dappled deep-sea environment <Scene1>, a woman in a white gown <Subject1> floats weightlessly while singing into a microphone, as a school of shimmering fish <Subject2> swims in to orbit around her, and the camera slowly pushes in before pulling back to reveal the vast, ethereal ocean expanse.
+
+# Complete Description
+At 0.0 seconds, [an ethereal, ambient music track featuring soft, sustained vocal harmonies and gentle reverb begins]. A static wide shot frames <Subject1> suspended weightlessly in the center of <Scene1>, tilted slightly backward with her head lifted toward the surface light. Her right arm is bent, holding the black microphone to her lips as she sings with her eyes closed, while her left arm extends gracefully outward to her side with an open palm. Her long brown hair and the voluminous layers of her white tulle gown drift and billow outward in slow, sweeping arcs around her body, caught by gentle underwater currents. Sharp, volumetric sunbeams stream down from the rippling surface above, cutting diagonally through the deep blue water and illuminating tiny suspended particles and slowly rising bubbles, while the dark, rocky seabed lies far below her. The camera begins a very slow, smooth dolly push-in toward her, gradually tightening the framing from a wide shot to a medium-full shot.
+
+At 4.5 seconds, [the ethereal vocal harmonies continue, layering with a delicate piano melody]. The slow push-in continues as <Subject2> appears in the distant deep blue background, first as a faint, shimmering cloud of movement before resolving into a dense school of small tropical fish. The fish swim in a coordinated, swirling formation, moving from the background toward <Subject1>; their silvery scales catch the descending sunbeams, creating fleeting glints of light as they navigate the water. They begin to orbit around her, weaving gracefully through the open space around her outstretched arm and between the flowing folds of her white gown without touching her. Dappled light from the surface ripples across the fabric of her dress, her hair, and the bodies of the passing fish, while bubbles continue their unhurried ascent toward the surface. <Subject1> maintains her serene, singing pose, her fingers lightly gripping the microphone and her gown continuing to unfurl in the current.
+
+At 9.0 seconds, [the music swells into a luminous, echoing crescendo before softening into a lingering, airy tail]. The camera halts its forward push and begins a slow, smooth pull-back, gradually widening the frame. <Subject2> continues to spiral around <Subject1> in wider, more relaxed loops, the school beginning to spread out slightly as they drift. The pull-back reveals more of the vast, deep blue expanse of <Scene1>, showing the sunbeams stretching all the way down to the dark, rugged rock formations on the seabed and the glistening surface far above. <Subject1> remains the luminous focal point, her white gown glowing against the deep blue as her hair and fabric continue their gentle, weightless drift. Finally, the camera comes to a rest in a wide, static composition, holding on the dreamlike tableau of the singer surrounded by her orbiting fish within the vast, light-dappled ocean as the final reverb of the music fades out.
+
+# Additional Information
+## Duration
+12.0 seconds
+## Aspect Ratio
+30:17

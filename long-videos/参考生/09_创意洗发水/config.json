@@ -1,0 +1,48 @@
+{
+  "key": "R09",
+  "kind": "r2v",
+  "title": "创意洗发水",
+  "source_id": "refprod_9e9fb3ce2dd9c22f",
+  "folder": "参考生/09_创意洗发水",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "根据参考图1、2、3生成一支创意洗发水广告",
+  "original_seed": 827447522,
+  "duration": 16.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/09_创意洗发水/conditions/image_01.png",
+      "sha256": "b300bea05c39dee0b402f0a06b98b7b4bb145ca428ab7dd7e0d7c7b19d99000d",
+      "width": 1920,
+      "height": 1088
+    },
+    {
+      "slot": 2,
+      "path": "参考生/09_创意洗发水/conditions/image_02.png",
+      "sha256": "3cdb15e405275ae929a377e7e0f0210f2d8bb49720c4765bb4b1b72bab111684",
+      "width": 1920,
+      "height": 1088
+    },
+    {
+      "slot": 3,
+      "path": "参考生/09_创意洗发水/conditions/image_03.png",
+      "sha256": "45fb61205c4b6d8c86e292dab869d4c10476835fb32cbd561cc691ddc5d10a37",
+      "width": 1920,
+      "height": 1088
+    }
+  ],
+  "seeds": [
+    42
+  ],
+  "params": {
+    "video": {
+      "duration": 16.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion"
+}

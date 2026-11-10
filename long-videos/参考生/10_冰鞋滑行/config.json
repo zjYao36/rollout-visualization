@@ -1,0 +1,48 @@
+{
+  "key": "R10",
+  "kind": "r2v",
+  "title": "冰鞋滑行",
+  "source_id": "refprod_3f7032617d2dfbef",
+  "folder": "参考生/10_冰鞋滑行",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "视频以极近的微距跟随镜头开场，焦点紧紧锁定在那双点缀着水晶的白色冰鞋上，它们在结冰的湖面上快速平滑地滑行，冰刀在冰面上划出锋利的线条。随后镜头动态向后拉远，无缝切换为宏大的全景镜头，展现出女孩优雅身姿。她优雅地加速，完成了一个极具美感的高速旋转，随后轻盈地跃入半空。她飘逸的长发和薄如蝉翼的裙摆随着运动的惯性优美地飞舞。",
+  "original_seed": 788794491,
+  "duration": 13.0,
+  "aspect_ratio": "9:16",
+  "expected_ratio": 0.5625,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/10_冰鞋滑行/conditions/image_01.png",
+      "sha256": "c783a2103b4ef4e00a9bd05d6e0432535c8abf0a24775859c83a9d8d5c365b9d",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "slot": 2,
+      "path": "参考生/10_冰鞋滑行/conditions/image_02.png",
+      "sha256": "629022a7809e848edcbb2fa8dbc9cedd93a3dd578b2ce3abc983380d000e7e86",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "slot": 3,
+      "path": "参考生/10_冰鞋滑行/conditions/image_03.jpg",
+      "sha256": "a2d45a22db35ce8580e8465e89117da76218a986fad74d1e0e8f687f90e2eff5",
+      "width": 1920,
+      "height": 1088
+    }
+  ],
+  "seeds": [
+    42
+  ],
+  "params": {
+    "video": {
+      "duration": 13.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "9:16"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion"
+}

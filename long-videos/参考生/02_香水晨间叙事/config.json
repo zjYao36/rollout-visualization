@@ -1,0 +1,48 @@
+{
+  "key": "R02",
+  "kind": "r2v",
+  "title": "香水晨间叙事",
+  "source_id": "refprod_fccdca7bb1d35e3c",
+  "folder": "参考生/02_香水晨间叙事",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "制作一支12秒的高端香水广告片，整体风格参考韦斯·安德森电影《布达佩斯大饭店》，整体视觉采用高级、精致、对称感强的电影构图，配色优雅复古，具有奢侈品广告质感与高级时尚氛围。\n\n整体剧情具有轻微故事性：清晨，图1女主从床上醒来，开始梳妆打扮，换上图3礼服裙子，在众多香水中挑选并最终选择图2香水。随后她拿起香水轻轻喷洒，露出满意神情，最后自信优雅地走出房间。人物形象与香水瓶在全片中保持完全一致，镜头之间衔接人物动作要自然流畅，背景加入符合高端时尚广告氛围的优雅弦乐。",
+  "original_seed": 215716667,
+  "duration": 12.0,
+  "aspect_ratio": "9:16",
+  "expected_ratio": 0.5625,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/02_香水晨间叙事/conditions/image_01.png",
+      "sha256": "020df5b6ab574802895fc4900450c154170b9a77836108f84aea8c52757521db",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "slot": 2,
+      "path": "参考生/02_香水晨间叙事/conditions/image_02.png",
+      "sha256": "00c78e62801ae59a232cb0d1edc20906c403f42d6c7b2e55a1d9e0c8f466e576",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "slot": 3,
+      "path": "参考生/02_香水晨间叙事/conditions/image_03.png",
+      "sha256": "480cae9434ad4b42d19ddf241faea3b6c5daeb22d239371028b793c7e0a0be39",
+      "width": 1510,
+      "height": 843
+    }
+  ],
+  "seeds": [
+    42
+  ],
+  "params": {
+    "video": {
+      "duration": 12.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "9:16"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion"
+}

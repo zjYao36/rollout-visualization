@@ -1,0 +1,62 @@
+{
+  "key": "R05",
+  "kind": "r2v",
+  "title": "四季场景步行",
+  "source_id": "refprod_ebe02fe1c2bc2eec",
+  "folder": "参考生/05_四季场景步行",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "Using the attached character as the subject, generate a continuous walking sequence where the environment transitions seamlessly every 3 seconds: 0–3s desert dunes at sunset, 3–6s neon-soaked rainy city street, 6–9s misty alpine forest, 9–12s clean white infinity studio. Character stride, outfit, and proportions remain identical throughout. Camera tracks alongside in profile, locked focal length, 12 seconds, 16:9.",
+  "original_seed": 426074235,
+  "duration": 12.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/05_四季场景步行/conditions/image_01.png",
+      "sha256": "78403976dd55e75da2af86eabe83966ee9c119345c628082fcb0cc780a3b08be",
+      "width": 1004,
+      "height": 1398
+    },
+    {
+      "slot": 2,
+      "path": "参考生/05_四季场景步行/conditions/image_02.png",
+      "sha256": "f08b543051154214b5a6ce9badd859e5934d8728746fda35882ce88e0ffee137",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "slot": 3,
+      "path": "参考生/05_四季场景步行/conditions/image_03.png",
+      "sha256": "00a8b323a34a41b53b57bc038099896c2280d96b160d79419bc5e2ea8f0106ec",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "slot": 4,
+      "path": "参考生/05_四季场景步行/conditions/image_04.png",
+      "sha256": "cc7a7ff4ef4e0436f064fa9077cb49c6b0738dda06f142f8fd26dd5d8d0b84c8",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "slot": 5,
+      "path": "参考生/05_四季场景步行/conditions/image_05.png",
+      "sha256": "d131e47d245ebcde0f454c2fd0b21dbc64b438d481a8a30b54d3f92bbc1fc0bc",
+      "width": 1920,
+      "height": 1088
+    }
+  ],
+  "seeds": [
+    42
+  ],
+  "params": {
+    "video": {
+      "duration": 12.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion"
+}

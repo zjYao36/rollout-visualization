@@ -1,0 +1,24 @@
+# Style and Tone
+A period drama cinematic live-action short film, set in a vintage European café, carries a restrained, tense and intimate atmosphere with a pervading sense of quiet farewell.
+
+# Subject and Scene
+<Subject1>: Adult man in his thirties with a lean build, slicked-back light brown hair parted neatly, wearing a dark tailored suit jacket, a white dress shirt with crisp cuffs, and dark trousers; he sits with his back partially to the camera in the opening over-the-shoulder view, holding a short tumbler glass.
+<Subject2>: Adult woman in her late twenties with a slim build, light brown wavy bobbed hair pinned with a small green jeweled hair clip on her right side, fair skin, defined brows and dark eyes, wearing a sleeveless 1920s-style dress with a grey lace yoke, red floral patterns on a muted ground and ruffled red trim at the neckline; she sits facing the man across the table, holding a stemmed wine glass.
+<Scene1>: Interior of a vintage European café booth beside a large curved dark wood-framed window with stained-glass panels in red, yellow and blue Art Nouveau patterns; a small round marble-top table is set with gold-rimmed white plates, polished silver cutlery, folded white napkins, a short tumbler, two tall etched wine glasses, and a small brass lighter. Outside the window, a pale stone building facade, blurred outdoor café chairs with red upholstery, and passing pedestrians are visible under cool overcast daylight; warm dim interior light mixes with cool window light, and shallow depth of field keeps the foreground speaker softly blurred while the opposite face stays sharp.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+Across a marble café table in <Scene1>, the man <Subject1> and the woman <Subject2> exchange a quiet, restrained farewell over drinks in a classic shot-reverse-shot pattern: <Subject1> tells <Subject2> she can no longer stay after tonight, and <Subject2> asks whether he will leave with her, only for him to pause and look away.
+
+# Complete Description
+At 0.0 seconds, <low café ambience of distant murmured conversation, faint cutlery clinks and soft chair movement fills the room>. A locked-off over-the-shoulder medium shot frames <Subject1> from behind at frame left in <Scene1>, his dark-suited shoulder and the back of his slicked light-brown head softly blurred in the foreground, while <Subject2> sits clearly in focus across the small marble table at frame right; the stained-glass panels curve behind her, the set plates, cutlery, tumbler and two etched wine glasses sit between them, and the cool window light catches the lace yoke of her dress and the green clip in her bobbed hair. <Subject1> holds the short tumbler with both hands near the table edge and speaks in a low, steady male voice {After tonight, you can't stay here anymore.}, his fingers tightening faintly around the glass <a faint glass clink as his thumb brushes the rim>. <Subject2> has her wine glass lifted halfway to her lips, the amber liquid catching the light; at the line her hand stops mid-motion, her gaze drops from his face toward the glass and the tabletop, her lips part slightly, and she holds the pause without drinking, the shallow depth of field keeping her lowered eyes and still fingers sharp while his blurred shoulder anchors the left foreground; finally she remains frozen with the glass raised, eyes down, as the beat closes.
+
+At 6.2 seconds, <the low café ambience of murmured conversation and distant tableware sounds continues>. A hard cut lands on a matching reverse over-the-shoulder medium shot from behind <Subject2> at frame right, her bobbed hair and lace-dressed shoulder softly blurred in the right foreground while <Subject1> sits clearly in focus across the table at frame left; the tabletop orientation stays consistent, with the gold-rimmed plates, folded napkin, brass lighter and etched wine glasses now reading from the reversed angle and the curved stained-glass window falling behind his shoulder. <Subject2> lowers her wine glass until its base rests near the other stemware, then asks in a soft, restrained female voice {And you? Are you leaving with me?}, her fingers still curled around the stem <a light glass-on-table chink as the base settles>. <Subject1> holds the short tumbler in front of him on the table, his face turned toward her; he holds eye contact for a beat, his jaw tightening faintly, then his gaze drifts away from her toward the window and the blurred street beyond, his fingers loosening on the tumbler without lifting it to drink, the shallow depth of field keeping his averted eyes and still hands sharp while her blurred shoulder anchors the right foreground; finally the frame holds on his turned-away face and the quiet table between them as the clip ends.
+
+# Additional Information
+## Duration
+12.0 seconds
+## Aspect Ratio
+24:13

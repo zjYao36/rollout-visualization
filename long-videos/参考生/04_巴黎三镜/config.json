@@ -1,0 +1,55 @@
+{
+  "key": "R04",
+  "kind": "r2v",
+  "title": "巴黎三镜",
+  "source_id": "refprod_b3cba18f2490308b",
+  "folder": "参考生/04_巴黎三镜",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "The attached image is the main character. Generate three connected shots, same person in all three, identical face, hair, and wardrobe throughout:\n1) 0–4s: Wide shot, she walks out of a Parisian apartment building into morning light, holding a paper coffee cup, slow dolly-back\n2) 4–8s: Medium shot, she stops at a flower stall, smiles at the vendor, picks up a bouquet, soft sidelight\n3) 8–12s: Close-up, she sits on a bench by the Seine, looks off-camera contemplatively, gentle breeze in hair\nCinematic 35mm look throughout, consistent color grade, no cuts to other characters.",
+  "original_seed": 675556341,
+  "duration": 12.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/04_巴黎三镜/conditions/image_01.png",
+      "sha256": "7c4b0bf15903d6d199fbd210cc8a379592892ddc91d0eb40fe3f13e22090d071",
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "slot": 2,
+      "path": "参考生/04_巴黎三镜/conditions/image_02.png",
+      "sha256": "39781c955aeb9b3ded268698b547cfbbf875849287f1b240da857d5a50a34ce6",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "slot": 3,
+      "path": "参考生/04_巴黎三镜/conditions/image_03.png",
+      "sha256": "ca546527270ad974c937a227f19975a71cdac6109d0faf1fdcd091eb174d4a23",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "slot": 4,
+      "path": "参考生/04_巴黎三镜/conditions/image_04.png",
+      "sha256": "9f5743c451ab68d7a83316b2db74cf933a78d622f709aa07d72b2f6e01c198ca",
+      "width": 1920,
+      "height": 1088
+    }
+  ],
+  "seeds": [
+    42
+  ],
+  "params": {
+    "video": {
+      "duration": 12.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion"
+}
