@@ -22,3 +22,8 @@
 全部 80 条视频通过完整解码及参数核对；20 组内共 120 对 seed 的解码画面均不同。
 
 发布说明：[GitHub Pages 文档](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)。
+
+## 480p 对照测试
+
+图生、参考生各 3 条，时长 12–16 秒，seed 42。复用原 case 的条件、prompt 和 PE，仅修改实际采样分辨率，原生生成 480 像素短边视频，未对视频进行缩放转码。
+[查看 480p 对照](480p/)

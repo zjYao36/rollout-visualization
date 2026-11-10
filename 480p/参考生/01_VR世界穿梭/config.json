@@ -1,0 +1,61 @@
+{
+  "key": "R01",
+  "kind": "r2v",
+  "title": "VR世界穿梭",
+  "source_id": "refprod_fa0b8b22b1410ff1",
+  "folder": "参考生/01_VR世界穿梭",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "以图片1为首帧，人物带上虚拟科幻眼镜，由远及近的环绕镜头，从第三人称视角变成人物的主观视角，在AI虚拟眼镜中穿梭，来到图片2的深邃的蓝色宇宙，出现几架飞船穿梭向远方，镜头跟随飞船穿梭到图片3的像素世界，镜头低空飞过像素的山林世界，里面的树木生长形式出现（植物生长细碎声），随后视角仰拍，急速穿梭到图片4的浅绿色纹理的星球，镜头穿梭并掠过星球表面",
+  "original_seed": 178925326,
+  "duration": 16.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/01_VR世界穿梭/conditions/image_01.png",
+      "sha256": "c26d862a27df2c25d35e0aaa44f1a42a6e7225491dc4728016f5dae577233fc3",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "slot": 2,
+      "path": "参考生/01_VR世界穿梭/conditions/image_02.png",
+      "sha256": "4118bf2b7833cd574c9955b7bea84f4d76cf5a4fa6f5017594376d0a57febe83",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "slot": 3,
+      "path": "参考生/01_VR世界穿梭/conditions/image_03.png",
+      "sha256": "a16ec5b4df371bf6a4783b54c0cc2fe5526d12a60daeb8cff1ff6b9853a3face",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "slot": 4,
+      "path": "参考生/01_VR世界穿梭/conditions/image_04.png",
+      "sha256": "7aec438b0969177b079f988daaa92a08d77c5ee9fc36f3ab0a3f02798620371e",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "seeds": [
+    42
+  ],
+  "params": {
+    "video": {
+      "duration": 16.0,
+      "resolution": "max:854",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "source_run": "long-rollout20-20261110",
+  "source_key": "R01",
+  "source_folder": "参考生/01_VR世界穿梭",
+  "pe_sha256": "8355e33c8c1df763bbade302d6c86b328f28c28255455769b1db341587c88d5e",
+  "requested_short_edge": 480,
+  "comparison": "same conditions, raw prompt, PE, model, seed, duration and sampler; resolution only"
+}
