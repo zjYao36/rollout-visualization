@@ -1,0 +1,51 @@
+{
+  "key": "R05",
+  "kind": "r2v",
+  "title": "竹林女侠",
+  "source_id": "refprod_8af6cba38b6c18f3",
+  "folder": "参考生/05_竹林女侠",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "邵氏武侠风格，图1女人拔出剑，准备开始打斗，摆出武打动作，气势紧张，镜头360度逆时针旋转，开始缓慢向后拉远，再旋转到女主角背后，逐渐升高，俯视角拍摄站在竹林的女侠。",
+  "original_seed": 163540043,
+  "duration": 5.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/05_竹林女侠/conditions/image_01.png",
+      "sha256": "eb51a74c2d5a6d2825c44c166434579da2b3f57b27601b766f590ccc8cebcde9",
+      "width": 1440,
+      "height": 2560
+    },
+    {
+      "slot": 2,
+      "path": "参考生/05_竹林女侠/conditions/image_02.png",
+      "sha256": "0360050833e71594b6a74fd2325cf66b1a8042eef4136653fc450e295e7b09e1",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "slot": 3,
+      "path": "参考生/05_竹林女侠/conditions/image_03.png",
+      "sha256": "a06cd06cce6d6a81ca789f35e41e9f4d0cf3a8bbf6220f86aba9090f7f606ca0",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 5.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion"
+}

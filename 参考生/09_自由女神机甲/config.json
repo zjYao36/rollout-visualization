@@ -1,0 +1,44 @@
+{
+  "key": "R09",
+  "kind": "r2v",
+  "title": "自由女神机甲",
+  "source_id": "refprod_5b831e6ef0238b90",
+  "folder": "参考生/09_自由女神机甲",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "低角度电影镜头，图1自由女神像在图2阴天背景下高高耸立，火炬上闪烁着真实的火焰。图1雕像开始机械变形——铜板分裂，齿轮和液压装置显露——变形成一名巨大的机甲战士，一手挥舞巨型长剑，一手持石板作为盾牌，胸口的橙色核心发光，身后可见纽约天际线。（音效：火焰声、铜板分裂声、机械组装声）",
+  "original_seed": 181678752,
+  "duration": 8.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/09_自由女神机甲/conditions/image_01.png",
+      "sha256": "0fba433b3e20a15ddbb231516930a9d5daf85f34320539f208bb5c5bb968e410",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "slot": 2,
+      "path": "参考生/09_自由女神机甲/conditions/image_02.png",
+      "sha256": "41eefe6bba63dcaf6fef6312c41062e264220e088292350c307b565bdbc9abd2",
+      "width": 1666,
+      "height": 944
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 8.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion"
+}

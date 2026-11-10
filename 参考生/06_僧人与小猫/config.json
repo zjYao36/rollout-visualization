@@ -1,0 +1,51 @@
+{
+  "key": "R06",
+  "kind": "r2v",
+  "title": "僧人与小猫",
+  "source_id": "refprod_1bf9568c4f66dccf",
+  "folder": "参考生/06_僧人与小猫",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "仰拍低角度丝滑跟随图1僧人和尚的脚步。随着他在图3潮湿的落叶土路上缓慢穿行，镜头逐渐从仰拍变为平视，视野中不断掠过两侧小草和树木。画面保持在和尚后方半米处。在他经过一个树下躺着非常孱弱的小猫时，镜头小幅晃动并随之停住脚步，展现出一种充满神秘苍凉且极具临场感的流浪视角。",
+  "original_seed": 793163363,
+  "duration": 8.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/06_僧人与小猫/conditions/image_01.png",
+      "sha256": "f440fe6d3f3dbb641b648f7dc437ef170557d409f364a4ec1dedfe38f3a82691",
+      "width": 1440,
+      "height": 2560
+    },
+    {
+      "slot": 2,
+      "path": "参考生/06_僧人与小猫/conditions/image_02.png",
+      "sha256": "d78c9ce7d53c813fa8e967bb35c569f98fcdfadfd31e01c2a31e71d633f3ad0c",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "slot": 3,
+      "path": "参考生/06_僧人与小猫/conditions/image_03.png",
+      "sha256": "bc9fa40df01292db503e01e7f3642901e23f6f23857a8630d150af909185b680",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 8.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion"
+}

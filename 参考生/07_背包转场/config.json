@@ -1,0 +1,44 @@
+{
+  "key": "R07",
+  "kind": "r2v",
+  "title": "背包转场",
+  "source_id": "refprod_0c1c97ab4646d45a",
+  "folder": "参考生/07_背包转场",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "环绕运镜，一个背着包着急上班的女生@图1，从远处小跑到公司楼下@图2，然后从镜头前面转弯走过，跟随环绕运镜，女生突然停下来在包里翻找什么，镜头推进到寻找包里物品的动作特写，然后镜头丝滑推进到背包内部，再推进到皮包细节，有一种镜头穿越的感觉",
+  "original_seed": 510767970,
+  "duration": 8.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/07_背包转场/conditions/image_01.png",
+      "sha256": "7de0ae977a3522b81487820470f916dd3a9796c0c6869f1bb054d36316239fab",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "slot": 2,
+      "path": "参考生/07_背包转场/conditions/image_02.png",
+      "sha256": "373b4a621693c55e49f65758b10bc2dd0e43d523cefe2c781dca2c242edbe74e",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 8.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion"
+}

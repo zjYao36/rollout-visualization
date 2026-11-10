@@ -1,0 +1,24 @@
+# Style and Tone
+A desert road drama cinematic live-action short video carries a lonely, resolute atmosphere with a pervading sense of isolation.
+
+# Subject and Scene
+<Subject1>: Adult man in his thirties with a sturdy build, thick dark curly hair, full dark beard and furrowed brows, wearing a worn brown leather jacket over a muted grey button-up shirt and dark blue denim jeans; he holds a large folded paper road map printed with colored route lines and pale cartographic panels.
+<Subject2>: Large folded paper road map printed with tan, green and pale blue cartographic panels, red and black route lines, and a white border with small legend blocks; after being crumpled it becomes a compressed paper ball with creased, wrinkled surfaces.
+<Scene1>: Straight cracked asphalt desert highway stretching from the foreground to a distant vanishing point, with a faded yellow centerline, deep irregular black cracks across the grey pavement, low sandy shoulders dotted with dry tan scrub bushes and small rocks, and a long range of arid brown mountains under a clear pale blue sky with faint high clouds; warm late-afternoon sunlight casts long shadows and a dry wind moves across the open landscape.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+On a cracked desert highway <Scene1>, a lost man <Subject1> studies his paper road map <Subject2>, then crumples it in his hand, hurls it aside, and walks off the asphalt into the open scrub while the discarded map bounces, rolls, and drifts slowly in the dry wind.
+
+# Complete Description
+At 0.0 seconds, <dry wind brushes across scrub and asphalt with a faint, open-air hiss>. A locked-off eye-level full shot frames <Subject1> standing centered on the cracked asphalt of <Scene1>, the faded yellow centerline running beneath his boots toward the distant mountains; he holds <Subject2> open wide at chest height with both hands, right hand gripping the left edge and left hand gripping the right edge, head bowed and eyes fixed on the printed panels while the map edges lift slightly in the wind and three tiny distant figures stand far down the road at the right horizon. The camera begins a slow handheld push-in toward him, the framing tightening from full shot to medium shot as his brow stays furrowed; then his right hand releases its edge and folds the map inward, both hands gathering the paper into a tight bundle at waist height, knuckles tightening as the printed panels crumple inward with <dry paper crinkles rising sharply over the wind>. He draws the crumpled ball back beside his right shoulder, twists his torso toward frame right, and hurls it away with a full arm follow-through; the paper ball arcs out over the right shoulder, shrinking against the desert scrub, and <Subject1> lowers his empty hands, lifts his gaze from the road, and turns his body toward the right shoulder of the highway.
+
+At 3.4 seconds, <dry wind continues over the open desert>. A hard cut jumps to a low-angle close-up tracking the discarded <Subject2> on the ground: the crumpled paper ball lands on the cracked asphalt near the right shoulder with <a light papery bounce>, skips once across a black crack, and rolls off the pavement onto the sandy shoulder where loose grains shift around it; the camera follows at ground level as the ball tumbles over small pebbles and past a dry tan scrub bush, its creased surfaces catching the warm sunlight, and finally comes to rest against the base of a low sand dune at the edge of the road. In the background at frame left, <Subject1> is visible from the knees down stepping off the asphalt onto the sand, his denim jeans and dark boots moving away from the highway with <crunching footfalls over gravel and dry earth>; the paper ball stirs again in the wind, rotating slowly on the spot with one corner fluttering, and finally the frame holds on the crumpled map resting against the dune while <Subject1>'s boots continue out of the foreground into the open desert.
+
+# Additional Information
+## Duration
+6.0 seconds
+## Aspect Ratio
+639:347

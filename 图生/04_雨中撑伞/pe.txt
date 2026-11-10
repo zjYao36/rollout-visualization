@@ -1,0 +1,21 @@
+# Style and Tone
+A Victorian rainy-street cinematic live-action short video carries a quiet, melancholic atmosphere with a pervading sense of parting.
+
+# Subject and Scene
+<Subject1>: Young woman in her late teens with pale skin, platinum-blonde hair gathered into a low bun with loose strands framing her face, blue eyes, and a calm distant expression; wearing a tall black top hat, a long tailored black coat trimmed with white lace along the collar, lapels and cuffs, a white ruffled cravat fastened with a silver brooch, a black waistcoat with silver buttons, and a large black bow at the back; holding a black umbrella with a curved black handle in her left hand and carrying a brown leather suitcase with dark leather straps, metal rivets and corner protectors in her right hand.
+<Scene1>: Narrow cobblestone street in a historic European city during steady rain, flanked by tall weathered stone buildings with ornate cornices and chimneys; wet black cast-iron street lamps with glowing warm-yellow glass lanterns line both sides, a clock tower with a circular face rises in the misty background, and the dark wet pavement reflects the lamp glow in long shimmering streaks beneath a heavy overcast grey sky filled with fine continuous rain.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+On a rain-soaked historic city street <Scene1>, the young woman <Subject1> walks forward holding her black umbrella and brown leather suitcase while the camera tracks alongside her, raindrops bead and slide off the umbrella canopy, and the wet cobblestones reflect the warm glow of the street lamps.
+
+# Complete Description
+At 0.0 seconds, <steady rainfall patter fills the air, distant city hum softened by wet stone>. A low-angle three-quarter medium shot frames <Subject1> at the center of <Scene1>, her body angled toward frame right with her head turned to look over her right shoulder into the distance; her left hand grips the curved black handle of the open black umbrella above her, its canopy dotted with clear raindrops and a few droplets hanging from the ribs, while her right hand curls around the top handle of the brown leather suitcase held low at her side, the wet leather glistening with rain. The glowing street lamps recede into the mist along both sides of the cobblestone street, the clock tower stands blurred in the grey background, and reflections of warm lamp light stretch across the dark wet pavement beneath her. The camera begins a smooth lateral dolly move traveling with her toward frame right, keeping pace as she starts walking forward; fine vertical rain lines cut through the air, raindrops strike the taut black canopy in a continuous patter, beads of water swell along the fabric and ribs and then slide down the sloped surface, gathering at the edges before dropping off in thin trails that splash faintly against the wet cobblestones below. With each step the umbrella sways gently in her grip, tilting a fraction forward and back, and the suitcase swings slightly at her side while her lace cuffs and the hem of her long black coat catch small flecks of rain; her gaze remains directed ahead and slightly to the right, expression calm and distant, as the stone facades and glowing lamps drift past in soft parallax. Finally the lateral tracking continues to the end of the clip, holding <Subject1> centered against the receding rainy street, the black umbrella canopy still catching continuous rain and the wet pavement reflections shimmering beneath her steady stride.
+
+# Additional Information
+## Duration
+6.0 seconds
+## Aspect Ratio
+17:30

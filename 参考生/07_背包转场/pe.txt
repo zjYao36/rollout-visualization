@@ -1,0 +1,23 @@
+# Style and Tone
+Cinematic live-action corporate short with smooth, fluid camera motion, warm golden-hour lighting, a brisk and slightly anxious tone, presented in 16:9 framing.
+
+# Subject and Scene
+<Subject1>: References the young office woman in <Image1>, but not the plain white studio backdrop of <Image1>. A young East Asian woman in her late twenties with dark brown hair pulled back with a few loose face-framing strands, fair skin, dark eyes, a soft jawline, and a gentle natural smile baseline; she wears a cream collared blouse with the top button undone and sleeves rolled to the forearms, high-waisted taupe straight-leg tailored trousers ending at the ankle, taupe low-heeled pumps, and carries a smooth black leather shoulder bag over her right shoulder with a matching black strap.
+<Scene1>: References the office-building plaza at golden hour in <Image2>. A modern corporate plaza paved with large grey stone tiles in a grid, fronting a glass-and-steel office tower with polished stainless-steel revolving doors under a wide metallic canopy; potted dark-green shrubs sit beside the entrance, cylindrical stainless-steel bollards line the walkway, a long low stone bench runs along frame right with planters of green foliage behind it, tall glass skyscrapers recede down the street, and a leafy tree at frame right filters warm golden late-afternoon sunlight that casts long shadows across the pavement; the colour grade is warm and slightly desaturated with bright sun highlights and soft shadow detail.
+
+# Overlays
+None.
+
+# Summary
+References the young office woman in <Image1> as <Subject1> (woman); does not take the plain white studio backdrop of <Image1>. References the office-building plaza at golden hour in <Image2> as <Scene1> (office plaza). <Subject1> (woman) hurries across <Scene1> (office plaza) toward the office entrance, rounds in front of the camera as it orbits her, suddenly stops to rummage in her shoulder bag, and the camera pushes through the bag opening into a close-up of her hand searching inside and finally onto the leather texture of the bag.
+
+# Complete Description
+0.0–2.0 seconds, Wide shot at eye level on <Scene1> (office plaza), camera on a smooth circling dolly beginning near frame right and arcing left. <Subject1> (woman) enters from the far background at frame centre, small in frame, jogging briskly toward the camera with her black shoulder bag bouncing at her right hip, her right hand gripping the bag strap; distant pedestrians cross the plaza near the revolving doors and golden sunlight glints off the glass tower. <light footsteps on stone pavement> [subtle rhythmic underscore with a light pulse, tempo matching the jog]
+
+2.0–4.0 seconds, As <Subject1> (woman) reaches the foreground the camera continues its orbit, now at a medium-full shot tracking around her from her left side to her front as she turns to walk across frame from frame left to frame right, passing close in front of the lens; her expression shifts from focused hurry to a flicker of concern, her head tilts down, and her pace begins to falter. <soft rustle of clothing, bag strap creaking>
+
+4.0–5.5 seconds, Medium shot, the orbit resolves into a forward push as <Subject1> (woman) stops abruptly just past centre frame, plants her feet shoulder-width apart, and brings the black shoulder bag around to her front with her right hand while her left hand yanks the top opening wider; her brow knits and her eyes dart down into the bag as she begins rummaging. <bag hardware clinking, fabric shifting> [underscore tightens with a soft rising note]
+
+5.5–7.0 seconds, Close-up, the camera pushes in smoothly toward the bag opening; <Subject1> (woman)'s left hand plunges inside, fingers sifting and pushing past unseen items, her wrist rotating as she searches, knuckles brushing the inner lining while her right hand steadies the bag from outside; her lips part slightly and her shoulders tense. <leather scraping, faint rustle of papers inside the bag>
+
+7.0–8.0 seconds, Extreme close-up with a seamless continuation of the push-in that creates a through-the-opening sensation: the lens travels past <Subject1> (woman)'s searching fingers into the dimmer interior of the bag, then settles on a macro detail of the black leather—fine grain, a subtle sheen from the outside light, the edge of a stitched seam—filling the frame as the motion comes to rest. [underscore resolves into a single held warm tone] <faint whoosh of the camera's forward motion>

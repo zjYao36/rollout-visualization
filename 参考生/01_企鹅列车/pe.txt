@@ -1,0 +1,19 @@
+# Style and Tone
+Claymation (stop-motion clay animation) with a tactile, hand-moulded look, warm and gently whimsical in tone, presented in 16:9 framing.
+
+# Subject and Scene
+<Subject1>: References the clay penguin wearing black sunglasses in <Image1>, but not the plain light-grey studio backdrop of <Image1>. A plump clay penguin with a black head and back, a textured cream-white belly, a smooth orange beak and orange three-toed webbed feet; black rounded flippers; black thick-framed sunglasses with opaque black lenses covering its eyes; a subtle closed-mouth smile.
+<Scene1>: References the clay subway car interior with purple seats and seated passengers in <Image2>. The interior of a clay subway car, with beige walls, rows of purple upholstered benches on both sides separated by a dark grey floor, grey metal stanchions and overhead handrails, rectangular windows showing blurred passing trains outside, small framed abstract art panels between the windows, a closed door at the far end, and a row of recessed white ceiling lights running down the centre; warm neutral colour grade with slightly desaturated tones, lit primarily by the overhead ceiling fixtures; four clay passengers remain seated on the benches (a man in a dark blue jacket reading a book at frame left, a woman in a rust-red top further back on the left, a man in a dark blue jacket on the right facing forward, and a woman in a green dress with a brown purse at frame right).
+
+# Overlays
+None.
+
+# Summary
+References the clay penguin wearing black sunglasses in <Image1> as <Subject1> (penguin); does not take the plain light-grey studio backdrop of <Image1>. References the clay subway car interior with purple seats and seated passengers in <Image2> as <Scene1> (subway car). A clay penguin wearing black sunglasses rides a swaying, intermittently flickering clay subway car, turning its head toward the camera and nodding while seated among the other passengers.
+
+# Complete Description
+0.0–2.0 seconds, Wide static shot from the central aisle of <Scene1> (subway car), showing the rows of purple benches, stanchions, seated passengers and the far-end door; <Subject1> (penguin) sits upright on a purple bench at centre frame facing forward, both flippers resting at its sides, as the entire car sways gently side to side and a soft <rhythmic clatter of subway wheels on rails> plays beneath a low [warm claymation-style ambient hum].
+
+2.0–4.0 seconds, The camera holds the same wide framing as <Subject1> (penguin) slowly rotates its head from facing forward toward the lens, its beak pointing directly at the viewer, while the car continues its front-to-back rocking motion and the overhead ceiling lights begin to flicker in quick on–off pulses, briefly dimming the carriage before brightening again; the other passengers remain in their seats, the reader at frame left still holding his book and the woman at frame right still resting her hands on her brown purse.
+
+4.0–6.0 seconds, Still in the same wide aisle shot, <Subject1> (penguin) faces the camera fully and gives two clear, slow nods, tipping its head downward and back up each time in time with the car's sway, while the ceiling lights continue to flicker intermittently and the subway's <clatter and rattle> rises slightly as the car appears to move forward; the shot ends with <Subject1> (penguin) holding its head up toward the lens, sunglasses in place, as the lights settle into a steady glow and the carriage keeps rocking.

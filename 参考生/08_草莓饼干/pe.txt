@@ -1,0 +1,25 @@
+# Style and Tone
+A playful, high-energy product commercial in photorealistic CGI with a saturated candy-pink palette, smooth one-take camera flow, and a bright, appetising tone, presented in 16:9 framing.
+
+# Subject and Scene
+<Subject1>: References the strawberry-flavoured Oreo cookie with pink cream in <Image1>, but not the plain white studio backdrop of <Image1>. A full-sized round sandwich cookie made of two dark chocolate-brown embossed wafers with ridged scalloped edges and a raised central "OREO" medallion surrounded by decorative dots and floral shapes, sandwiching a thick, smooth, bright pink cream layer with tiny flecks.
+<Subject2>: References the miniature strawberry-flavoured Oreo cookies with pink cream in <Image1>. A large, stemless whole strawberry with glossy bright red skin, tiny yellow-green seeds set in shallow pits, and a plump conical form.
+<Subject3>: A light-skinned human hand with clean, short nails, appearing only at the close-up moment to twist the cookie open.
+<Scene1>: A seamless, uniform pastel-pink studio void with no horizon line, lit by soft, even product-advertising light that keeps colours vivid and shadows minimal.
+
+# Overlays
+One central overlay layer: bold rounded sans-serif Chinese advertising copy in white with a subtle soft-pink outline, sized to dominate the middle of the frame, popping in from a small scale to full size and holding centered.
+
+# Summary
+References the strawberry-flavoured Oreo cookie with pink cream in <Image1> as <Subject1> (cookie); does not take the plain white studio backdrop of <Image1>. References the miniature strawberry-flavoured Oreo cookies with pink cream from <Image1> for <Subject2> (strawberry). Loosely references the embossed OREO wafer pattern and ridged edge in <Image1>. In a seamless pastel-pink studio, a giant stemless strawberry explodes into a shower of miniature pink-cream Oreos, one of which spins and assembles mid-air into a full-sized cookie that is then twisted open by a hand to reveal its bright pink filling, ending with the launch slogan appearing at centre.
+
+# Complete Description
+0.0–1.2 seconds, The shot opens in a top-down overhead view inside <Scene1> (pink void), with <Subject2> (strawberry) centred and filling most of the frame, its glossy red surface dotted with sunken yellow-green seeds; the camera pushes straight down toward the fruit in a smooth dolly-in, tightening on a cluster of seeds as tiny surface highlights glint. <soft whoosh of the camera's forward motion>
+
+1.2–3.0 seconds, As the camera nears the strawberry's skin, <Subject2> (strawberry) inflates rapidly with a visible bulge, then bursts outward in an explosive pop; instead of juice, countless <Subject1> (cookie)-style miniature cookies (each a tiny dark chocolate wafer pair with bright pink cream) spray radially from the centre, tumbling through the pink space at different depths, some close to the lens and others receding. <deep resonant pop followed by crisp tinkling as tiny cookies scatter through the air> [playful upbeat orchestral sting with sparkling chimes kicks in]
+
+3.0–5.2 seconds, The camera tracks one of the miniature cookies at frame centre, following it as it spins rapidly in mid-air; around it, nearby wafer halves and pink cream fragments converge in smooth motion, locking together into a single, perfectly assembled full-sized <Subject1> (cookie) that continues a slow, graceful rotation, its embossed "OREO" top wafer and ridged edge catching the light as the camera circles slightly to keep it centred. <snapping clicks as wafer and cream snap together, soft whoosh of rotation>
+
+5.2–7.0 seconds, The camera pushes in tightly on <Subject1> (cookie) now stationary at frame centre; <Subject3> (hand) enters from frame right, thumb and index finger gripping the top wafer while the other fingers steady the bottom wafer, then twists the two wafers in opposite directions in a smooth quarter-turn, pulling them slightly apart so the thick bright pink cream stretches cleanly between them, revealing its smooth texture and tiny flecks. <subtle crunch of chocolate wafers, soft creamy stretch sound>
+
+7.0–8.0 seconds, The camera holds on the twisted-open <Subject1> (cookie) with the pink cream exposed between the separated wafers, <Subject3> (hand) keeping the halves slightly apart; at the centre of the frame, the advertising copy 【草莓味，全新上市】 pops in with a quick scale-up bounce and settles crisply over the cookie, while the background pink tone glows slightly brighter for the final product hero moment. [music swells to a bright finish with a final chime] <gentle pop of the text appearing>

@@ -1,0 +1,22 @@
+# Style and Tone
+A whimsical live-action magical-realism short film, bathed in warm golden-hour sunset light, carries a dreamy, uplifting, gently nostalgic atmosphere with a pervading sense of wonder.
+
+# Subject and Scene
+<Subject1>: A small vintage boxy compact car in pale cream-yellow, with a silver metal roof rack, black rubber tires on silver hubcaps, a chrome rear bumper with red taillights, a small black circular fuel cap on the left rear flank, two side doors with simple silver handles, clear glass side windows, and a slightly worn matte paint finish; a driver is visible inside the front cabin with hands on the steering wheel.
+<Subject2>: A dense cluster of pastel latex balloons in soft pink, peach, coral, lavender, sky blue, butter yellow, off-white, and dusty rose, each tied with thin white strings that converge and knot together to fasten to the car's roof rack, forming a large rounded bouquet that rises high above the vehicle.
+<Scene1>: A quiet suburban residential street at golden-hour sunset, with curved dark asphalt scattered with dry brown leaves, a brick-paved sidewalk on the left, neatly trimmed green hedges and leafy trees, two-storey brown brick houses with dark tiled roofs, white-framed windows, and brick chimneys, a tall curved street lamp, two parked bicycles with silver frames and black tires leaning against the right curb, and a low warm sun near the treeline casting long soft shadows and a pale peach glow across a hazy sky streaked with thin clouds.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+On a quiet sunlit suburban street <Scene1>, the cream-yellow vintage compact car <Subject1>, tethered to a huge pastel balloon bouquet <Subject2>, lifts off the asphalt and rises slowly into the golden-hour sky while the camera cranes upward with it, carrying a dreamy sense of flight.
+
+# Complete Description
+At 0.0 seconds, [a soft, warm orchestral score with gentle strings, celesta, and a light piano melody begins]. A locked-off eye-level wide shot frames <Scene1> at sunset: <Subject1> hovers just above the curved asphalt at center frame, tilted slightly nose-down with its rear lifted higher than its front, all four black tires a short distance off the road while a small cloud of fine dust and kicked-up dry leaves swirls beneath the undercarriage; <Subject2> towers above the roof rack, its pastel balloons packed into a rounded multicolored mass with white strings pulled taut down to the rack, and the low sun at frame left behind the treeline rims the balloons and brick houses with warm golden light. A few pedestrians stand on the left sidewalk in the mid-distance looking toward the car, two silver bicycles rest against the right curb beside a large brown brick house, and the street lamp rises at the left curve of the road. The camera then begins a slow, smooth crane upward, keeping <Subject1> and <Subject2> centered as the car continues to rise: the dust and leaves beneath the wheels disperse, the gap between the tires and the asphalt widens steadily, the car's nose gradually levels out, and the taut strings remain straight under the balloon lift while the pastel cluster sways gently with the ascent. As the climb continues, the rooftops, treetops, and chimneys of the surrounding houses slip lower in the frame, the long shadows across the road shorten from the camera's rising viewpoint, and the warm peach sky fills more of the upper frame; finally the crane settles with <Subject1> suspended well above the street, <Subject2> glowing against the sunset sky, and the quiet neighborhood laid out below as the gentle score sustains.
+
+# Additional Information
+## Duration
+6.0 seconds
+## Aspect Ratio
+3:2

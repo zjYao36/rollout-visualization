@@ -1,0 +1,25 @@
+# Style and Tone
+A quiet natural-history cinematic live-action short film carries a warm, intimate, and gently suspenseful atmosphere with a pervading sense of stillness before sudden motion.
+
+# Subject and Scene
+<Subject1>: A western honeybee with a fuzzy golden-brown thorax, banded amber-and-black striped abdomen, translucent veined wings, large dark compound eyes, thin black antennae, and six dark segmented legs ending in small hooked feet.
+<Scene1>: An interior residential stairwell with a worn dark-brown wooden handrail showing deep grain, scuffs, and a polished highlight where sunlight strikes it, pale off-white turned wooden balusters with chipped paint at their collars, warm medium-brown wooden stair treads receding diagonally upward, a plain plaster wall in muted beige, and a multi-pane window with a light-colored frame at the upper right admitting bright daylight; hazy sunbeams slant across the stairs and handrail, casting sharp-edged shadows and catching fine dust in the air.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+On a sunlit wooden stairwell <Scene1>, a honeybee <Subject1> resting on the handrail launches into flight, is followed in close-up as it circles through the sunbeams and turns toward the bright window, accelerates, and finally strikes the glass and bounces away.
+
+# Complete Description
+At 0.0 seconds, <soft indoor stillness with faint distant outdoor daylight ambience>. A locked-off eye-level close shot frames <Subject1> on the dark wooden handrail of <Scene1>, the bee positioned slightly right of center and facing toward the lower right of the frame; its six legs grip the raised grain, its translucent wings lie folded over the banded amber-and-black abdomen, and a sharp sunbeam from the upper-right window catches the fuzz on its thorax and casts a small hard shadow beneath its body. The worn handrail runs diagonally from the lower right foreground up toward the upper left, pale chipped balusters stand in the lower-left foreground and midground, and the receding brown stair treads, beige plaster wall, and bright multi-pane window fill the background with slanted bars of sunlight and soft haze. The antennae twitch and the abdomen pulses subtly; then the wings begin to vibrate in a rapid blur, the legs release the wood one by one, and <Subject1> lifts off the handrail, rising a short distance above the rail while the camera pushes in tighter and begins to track with it, keeping the bee in the center of the close frame as it drifts forward into the sunbeam <a delicate, rising wing buzz>.
+
+At 2.2 seconds, <the wing buzz grows louder and steadier>. The close tracking shot follows <Subject1> as it flies through the sunlit air of <Scene1>, the handrail and balusters sliding out of focus and the stair treads and plaster wall blurring into warm brown and beige streaks behind it; the bee arcs in a small circling path, first moving toward the upper left of the frame with its legs tucked beneath the thorax, then banking so that its striped abdomen and veined wings turn in profile, fine dust motes catching the daylight around its wingtips. It completes the loop and then straightens its trajectory toward the bright multi-pane window in the background, the camera pulling back just enough to keep the window frame and slanted sunbeams in view as the bee accelerates along the beam of light, its wings beating faster and its body growing smaller against the bright glass <a rising, tightening buzz>.
+
+At 6.1 seconds, <the wing buzz peaks>. The camera holds a medium close tracking shot as <Subject1> races toward the window, the bright overexposed panes filling the background and the wooden stairwell falling into softer blur at the edges; the bee's body stretches into slight forward motion blur, antennae aimed straight ahead, until it strikes the transparent glass head-on with a sharp contact, its body compressing for an instant and its wings folding against the pane <a crisp, light impact tick against glass>. Immediately after contact <Subject1> bounces backward away from the window, tumbling a short distance through the air with legs splayed and wings briefly disordered, while the camera jolts minutely with the impact and then settles; finally the bee hangs dazed a short distance from the glass, wings beginning to beat again as the bright window and sunlit stairwell remain behind it.
+
+# Additional Information
+## Duration
+8.0 seconds
+## Aspect Ratio
+17:30

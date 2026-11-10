@@ -1,0 +1,19 @@
+# Style and Tone
+Live-action photorealistic short with cinematic soft lighting, a comedic fish-out-of-water tone, and 9:16 framing.
+
+# Subject and Scene
+<Subject1>: References the Roman soldier in <Image1>, but not the plain white studio backdrop of <Image1>. A middle-aged Roman soldier with a short grey beard, weathered skin and a surprised, furrowed-brow expression, wearing a bronze helmet topped with a tall red horsehair plume, a dark brown muscled cuirass with brass rosette studs on the shoulders, a red short-sleeved tunic beneath, a red neck scarf, layered brown leather shoulder guards, a wide brown leather belt with brass fittings, a brown leather pteruges skirt studded with brass rivets over a red tunic hem, embossed brown leather bracers on both forearms, embossed brown leather greaves on both shins, brown strappy leather sandals, a red cloak hanging behind him, and a sword hilt visible at his left hip.
+<Scene1>: References the empty shopping mall corridor in <Image2>. A long, symmetrical indoor shopping mall corridor with a polished light-grey tiled floor, glass-fronted storefronts on both sides bearing illuminated signs, potted green plants spaced along the walkway, cream-coloured wall panels with moulded trim, and a high gabled glass skylight running down the centre ceiling admitting soft diffused daylight; the overall lighting is bright, even and slightly cool, with recessed ceiling lights adding warm accents.
+
+# Overlays
+None.
+
+# Summary
+References the Roman soldier in <Image1> as <Subject1> (soldier); does not take the plain white studio backdrop of <Image1>. References the empty shopping mall corridor in <Image2> as <Scene1> (shopping mall corridor). A Roman soldier, <Subject1> (soldier), suddenly appears in a modern shopping mall corridor, <Scene1> (shopping mall corridor),, looks around in confusion as the camera pulls back, and modern pedestrians walk past in the foreground and background.
+
+# Complete Description
+0.0–1.2 seconds, The shot opens on a medium shot at eye level in <Scene1> (shopping mall corridor), the walkway empty and still under soft skylight. With a quick, abrupt pop-in, <Subject1> (soldier) appears standing at centre frame facing forward, feet planted on the polished tile, his armour and red plume fully visible. He freezes for a beat, eyes wide and mouth slightly open. <soft whoosh of air as he materializes>
+
+1.2–3.0 seconds, The camera begins a smooth dolly backward, widening the frame while keeping <Subject1> (soldier) centred. <Subject1> (soldier) slowly turns his head to his left (frame left), then sweeps his gaze across to his right (frame right), eyebrows drawn together in clear confusion; his right hand twitches slightly at his side and his shoulders tense as he takes in the glass storefronts and the illuminated signs around him. <faint ambient mall hum, distant footsteps>
+
+3.0–5.0 seconds, The camera continues pulling back to a wider full-body shot, revealing more of the long corridor and the gabled skylight above. Modern casually dressed pedestrians enter from both sides and walk through the frame: a man in a jacket crosses from frame left to right in the near foreground passing in front of <Subject1> (soldier), a woman with a shopping bag walks from frame right to left further back, and additional shoppers stroll in the distant background along the mall. <Subject1> (soldier) remains at centre, head turning again to track the passers-by, his expression staying puzzled and disoriented as people move around him without stopping. <footsteps on tile, soft chatter of passers-by, a distant store door chime>

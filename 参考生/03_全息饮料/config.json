@@ -1,0 +1,44 @@
+{
+  "key": "R03",
+  "kind": "r2v",
+  "title": "全息饮料",
+  "source_id": "refprod_01d3d37939364d64",
+  "folder": "参考生/03_全息饮料",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "在图2场景内，第一人称视角，真实的人类双手将图1饮料靠近摄像头，饮料瓶立刻被多层全息增强现实界面环绕，显示营养数据，包括卡路里、含糖量、咖啡因水平、新鲜度指示器、过期日期和推荐饮用方式等。用户界面元素根据观看者的注视方向平稳移动和重新组织，仿佛动态响应用户焦点。在左侧周边视野中，可见一份竖直半透明购物清单，其中已勾选的商品列表里，芬达被突出显示为当前活跃选项。超逼真混合现实，洁净未来感AR设计，玻璃质感UI面板，柔和环境光，逼真光影，自然景深，沉浸式第一人称界面，展示下一代零售技术。",
+  "original_seed": 747599426,
+  "duration": 8.0,
+  "aspect_ratio": "9:16",
+  "expected_ratio": 0.5625,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/03_全息饮料/conditions/image_01.png",
+      "sha256": "19b7ae468b1bc3fbc52db11297fcdd07cc4f7d791f32b64f2eff10923620cb10",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "slot": 2,
+      "path": "参考生/03_全息饮料/conditions/image_02.png",
+      "sha256": "f7722e0d4992250505e996b6a6ec992c035f1ef38ee7d6881d83304a8ba535ef",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 8.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "9:16"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion"
+}

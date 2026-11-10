@@ -1,0 +1,19 @@
+# Style and Tone
+A surreal live-action fantasy shot in photorealistic CGI, 9:16 framing, with high detail, natural daylight, atmospheric perspective and a dreamlike, serene tone.
+
+# Subject and Scene
+<Subject1>: References the humpback whale in <Image1>, but not the plain pale-blue backdrop of <Image1>. A large humpback whale with a dark slate-blue back and head covered in small tubercles, a white underside marked by deep parallel throat pleats, long pectoral fins that are mostly white with dark mottling and bumpy leading edges, and a broad dark tail fluke with pale patches; skin appears wet and naturally textured.
+<Scene1>: References the low-angle city canyon of glass skyscrapers under a blue sky with clouds in <Image2>. A low-angle view looking straight up between tall modern skyscrapers whose facades are made of reflective blue glass panels in a metallic grid; the sky above is bright blue with scattered white cumulus clouds and a soft sun glow behind the clouds, the glass mirrors the sky and clouds, lighting is bright natural daylight with gentle air perspective softening the tops of the buildings, and the overall colour grade is cool and clear.
+
+# Overlays
+None.
+
+# Summary
+References the humpback whale in <Image1> as <Subject1> (whale); does not take the plain pale-blue backdrop of <Image1>. References the low-angle city canyon of glass skyscrapers under a blue sky with clouds in <Image2> as <Scene1> (city canyon). In <Scene1> (city canyon), <Subject1> (whale) glides slowly through the sky between the glass towers as clouds drift, its shadow softens across the facades, its reflection appears on the mirrored glass, and the camera tilts gently upward to follow it in a calm, dreamlike pass.
+
+# Complete Description
+0.0–2.0 seconds, The shot opens in <Scene1> (city canyon) with a static low-angle upward view from between the skyscrapers; the glass facades on both sides reflect the bright blue sky and drifting white cumulus clouds, and sunlight glows softly behind a patch of clouds near the upper centre. Clouds move slowly across the sky with a gentle drift. At the top edge of frame, the snout of <Subject1> (whale) enters from above, distant at first, its dark back and white throat pleats visible as it begins to swim forward through the air. <soft wind-like whoosh, very quiet>
+
+2.0–4.0 seconds, The camera holds the low upward angle and begins a smooth, very slight upward pan following <Subject1> (whale). <Subject1> (whale) advances slowly down into the centre of the frame, its body angled diagonally with its head toward the upper left and tail toward the lower right; its long pectoral fins undulate gracefully in a slow swimming motion and its tail fluke sways rhythmically as if propelling it through water. A soft, diffused shadow from <Subject1> (whale)'s body falls across the glass facades below, and the mirrored panels begin to show a faint, distorted reflection of the whale's silhouette layered with the moving clouds. <subtle airy hum>
+
+4.0–6.0 seconds, The camera continues its gentle upward tracking, keeping <Subject1> (whale) centred as it glides through the narrow strip of sky between the towers. <Subject1> (whale)'s pectoral fins sweep in a slow, elegant arc and its tail fluke pulses once more, carrying its massive body across the frame; the whale's shadow slides softly across the glass surfaces, and the reflections on the skyscraper facades sharpen to show the whale's outline, the pleats of its underside and the shifting cloud light passing over its skin. By the end of the beat, <Subject1> (whale) has passed the midpoint of the sky gap, moving toward the upper right of the frame, while clouds continue their slow drift and the glass towers remain still beneath it, preserving the calm, surreal atmosphere. <faint fading whoosh>

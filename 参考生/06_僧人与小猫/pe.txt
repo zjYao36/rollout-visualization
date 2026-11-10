@@ -1,0 +1,22 @@
+# Style and Tone
+A cinematic live-action sequence with a muted, cool, desaturated colour grade and drifting fog, evoking a mysterious, desolate, immersive wandering atmosphere in 16:9 framing.
+
+# Subject and Scene
+<Subject1>: References the young Buddhist monk in <Image1>. A young East Asian Buddhist monk in his early twenties with a shaved head, calm features, and a slender build, wearing a layered coarse linen robe in muted grey and beige tones tied with a matching sash, simple grey cloth shoes, and a long strand of dark wooden prayer beads with a tassel draped over his left wrist; he moves with slow, deliberate steps.
+<Subject2>: References the frail tabby kitten in <Image2>, but not the plain grey studio backdrop of <Image2>. A small, frail tabby kitten with messy, matted grey-brown fur, dark stripes, large pointed ears, pale yellow-green eyes with a sorrowful droop, a pinkish-brown nose, white whiskers, and a thin dark-tipped tail, lying curled and weak on the ground.
+<Scene1>: References the misty forest road in <Image3>. A damp, winding dirt path in a misty forest, flanked by tall dark tree trunks receding into thick grey fog, wet fallen brown and yellow leaves scattered across the muddy track, tufts of damp grass and low weeds along both sides, with cool diffused overcast light, low saturation, and deep shadow under the canopy.
+
+# Overlays
+None.
+
+# Summary
+References the young Buddhist monk in <Image1> as <Subject1> (monk). References the frail tabby kitten in <Image2> as <Subject2> (kitten); does not take the plain grey studio backdrop of <Image2>. References the misty forest road in <Image3> as <Scene1> (misty forest road). A low-angle tracking shot follows <Subject1> (monk) from half a meter behind as he walks slowly along <Scene1> (misty forest road), gradually leveling to eye level, until he nears <Subject2> (kitten) lying beneath a tree, where the camera sways slightly and stops, capturing a somber stray-cat perspective.
+
+# Complete Description
+0.0–2.4 seconds, The shot opens at a low upward angle close to the ground, positioned half a meter behind <Subject1> (monk) on <Scene1> (misty forest road); only his lower linen robe hem and grey cloth shoes are prominent in the foreground as he walks forward at a slow, steady pace, with wet leaves and damp grass skimming past the bottom edge of the frame and tall, fog-shrouded tree trunks rising on both sides. The camera tracks forward smoothly in sync with his steps, keeping the half-meter distance, while faint mist drifts across the path and the surface of the muddy road glistens with moisture. <soft rustle of wet leaves under cloth shoes> [low, sustained ambient drone with distant wind]
+
+2.4–5.2 seconds, The camera continues its smooth forward glide behind <Subject1> (monk) and gradually tilts upward from the low angle toward eye level, so that more of his back and sash, then the prayer beads on his left wrist, come into view; on both sides of the frame, blades of damp grass, low weeds, and dark tree trunks slip past continuously as the path curves gently ahead into thicker fog. The monk's pace remains unhurried and even, his robe swaying softly with each step. <cloth brushing against grass, faint squelch of damp earth> [ambient drone deepens subtly]
+
+5.2–6.6 seconds, As <Subject1> (monk) advances, the camera, now near eye level and still half a meter behind him, reveals <Subject2> (kitten) lying curled at the base of a tree to the right of the path, its frail body resting on wet leaves; the camera gives a small, unsteady sway, mimicking a stray creature noticing something, and begins to decelerate. The monk's steps slow in response, his robe's movement becoming more restrained as he nears the kitten. <subtle camera-movement jitter, a single dry leaf skittering on the ground> [ambient drone thins to a hush]
+
+6.6–8.0 seconds, The camera comes to a complete stop half a meter behind <Subject1> (monk), holding a steady eye-level view that frames the monk's still figure from behind in the midground and <Subject2> (kitten) curled weakly under the tree in clear view to the right, with the foggy road and receding trees stretching into the mist beyond; the monk pauses, standing quietly before the kitten, and the damp grass, fallen leaves, and drifting fog settle into a still, somber tableau. <faint distant bird call, soft settling of fabric> [single low, resonant tone fading into silence]

@@ -1,0 +1,26 @@
+# Style and Tone
+A noir cinematic live-action short film carries a smoky, tense, vintage atmosphere with a pervading sense of suspicion.
+
+# Subject and Scene
+<Subject1>: A young adult woman with platinum-blonde hair styled in a voluminous rolled updo with loose waves falling to her shoulders, fair skin, arched dark brows, dark red lipstick, and pearl stud earrings; she wears a black leather jacket and long black gloves, and holds a lit cigarette between her gloved fingers.
+<Subject2>: An adult man seen from behind, wearing a dark grey fedora with a black band and a light grey suit jacket with dark sleeve trim, seated at a desk with both hands over a typewriter keyboard; his face is not visible from the camera's position.
+<Subject3>: A black manual typewriter with a sheet of blank white paper curled in its carriage, set on the lower desk surface.
+<Subject4>: A cut-crystal decanter with a glass stopper holding dark amber liquor, paired with a short rocks glass containing a measure of the same liquor, both resting on the upper desk edge.
+<Scene1>: A dim vintage interior office lined with dark floral-patterned wallpaper in muted brown and olive tones; a large gold-framed oil portrait of a woman hangs on the wall at frame left, a small dark oval framed portrait hangs at frame right, and a dark polished mahogany partner desk with brass column supports and round brass drawer pulls fills the midground. The desk holds stacked papers, a small notepad, and a metal cigarette lighter in an open shelf; a dark metal-frame chair with a padded seat sits behind the desk, and warm directional lamplight falls from the upper left, casting deep shadows and catching rising cigarette smoke against the wallpaper.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+In a dim vintage office <Scene1>, the blonde woman <Subject1> leans on the mahogany desk holding a lit cigarette and confronts the typing man <Subject2> about his article, while vintage jazz plays under the typewriter clatter; <Subject2> stops typing, looks up, and answers that he only writes what can be published, leaving the two locked in a tense standoff across the desk.
+
+# Complete Description
+At 0.0 seconds, [muffled vintage jazz with brushed drums, upright bass and a slow trumpet line plays from a film projector in the room]. A locked-off eye-level medium shot frames the interaction across <Scene1>: <Subject1> leans on the upper edge of the mahogany desk at frame center, her black-gloved right hand raised to hold the lit cigarette while her left arm crosses beneath it, her gaze directed down toward <Subject2>, and a twisting column of pale blue smoke rises from the cigarette tip toward the upper left; at frame right <Subject2> sits with his back to the camera in the dark metal-frame chair, both hands suspended over <Subject3>'s keyboard with fingers curved, and <Subject4> sits on the desk at frame left beside the gold-framed portrait, the decanter catching the warm lamplight. <typewriter keys clack in a rapid, steady rhythm> and <cigarette tobacco sizzles softly> as <Subject2>'s fingers continue striking the keys in small alternating motions, the blank sheet in the carriage advancing a fraction with each return; <Subject1> tilts her chin slightly, parts her dark red lips, and exhales a rounded smoke ring that drifts upward and expands into the existing smoke column, then speaks in a low, smoky adult female voice: {Your article missed the key information I needed.}; finally her gloved hand lowers a little, the cigarette held level with her shoulder as she holds her gaze on him.
+
+At 4.2 seconds, [the vintage jazz continues at a low volume]. The same locked-off medium shot holds across the desk as <Subject2>'s typing stops abruptly, his fingers freezing above the keys with the last <sharp typewriter clack> cutting off mid-rhythm; he lifts his head, the brim of his fedora tilting upward as his shoulders straighten in the chair, and the jazz, the soft <cigarette sizzle>, and the faint <projector hum> become the only sound for a beat. His right hand then moves from the keyboard toward <Subject4>, fingers closing around the rocks glass, lifting it an inch and setting it back down on the polished desk top with <a crisp glass-on-wood tap>; he replies in a low, gravelly adult male voice without turning away from her: {I only write what can be published.}. Finally his hands settle just above the typewriter keys without resuming typing, <Subject1> remains leaning on the desk edge with the cigarette smouldering and smoke coiling upward between them, and the frame holds on the two figures locked in their positions across the desk as the jazz continues.
+
+# Additional Information
+## Duration
+8.0 seconds
+## Aspect Ratio
+2:3

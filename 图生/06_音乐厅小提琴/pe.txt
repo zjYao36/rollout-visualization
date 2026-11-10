@@ -1,0 +1,24 @@
+# Style and Tone
+A classical chamber performance cinematic live-action short video carries an elegant, serene and refined atmosphere with a pervading sense of musical intimacy.
+
+# Subject and Scene
+<Subject1>: Young adult woman violinist with fair skin, dark brown hair styled in a neat braided bun, small stud earrings, a delicate gold necklace, and a gold wristwatch on her right wrist; she wears a sleeveless black evening gown with an intricate open-work lace bodice and V-neckline, and plays a polished warm-brown wooden violin with a glossy amber finish, black fingerboard, silver strings, carved spiral scroll, and a horsehair bow with a dark stick and white hair.
+<Subject2>: Young adult woman violinist with fair skin, dark brown hair styled in a braided updo, small earrings, and a ring on her left hand; she wears a sleeveless pale champagne pleated evening gown with a wide ornate silver filigree belt at the waist and a bow at the back, and plays a polished warm-brown wooden violin with a glossy amber finish, black tuning pegs, silver strings, and a horsehair bow with a dark stick and white hair.
+<Scene1>: Grand ornate concert hall interior with gilded carved columns and mouldings, large classical oil paintings of women in red and blue drapery set in heavy gold frames along the curved upper wall, rows of empty red velvet seats receding into the dim lower hall, and small warm-white spotlights mounted along the gilded cornice; soft warm stage lighting wraps the performers while the painted backdrop falls into a gentle blur.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+Inside the gilded concert hall <Scene1>, two violinists <Subject1> and <Subject2> stand before the gold-framed murals and perform a classical duet as the camera slowly pushes in from a wide two-shot to a close view of their fingers and bows moving across the strings.
+
+# Complete Description
+At 0.0 seconds, [a lyrical classical violin duet for two violins begins, warm and legato, with long sustained phrases and gentle bowing]. A locked-off eye-level wide two-shot frames <Subject1> at frame left and <Subject2> at frame right standing before the gilded murals of <Scene1>, both violins raised under their chins with bows drawn across the strings. <Subject1> looks down toward her fingerboard, her right wrist curved as she draws the bow and her left hand set on the neck with fingers pressing the strings, while <Subject2> tilts her head down toward her own violin, left hand curled around the neck and right hand guiding the bow near the bridge; the gold-framed paintings, carved columns, and rows of empty red seats fill the background in soft focus, and warm stage light catches the polished amber varnish of both instruments and the sheen of the black lace and pale champagne gowns. The camera begins a slow, steady push-in toward the pair, the framing tightening gradually from a wide two-shot through a medium shot as the bows continue to travel and the left hands shift along the fingerboards in coordinated phrasing <the continuous soft friction of bow hair on strings and the faint resonance of the hall>.
+
+At 4.2 seconds, [the lyrical violin duet continues, the melody passing between the two instruments in close harmony]. The slow push resolves into a tight close-up that centers the two violins and the moving hands, with the gilded murals softening further into a blurred warm backdrop. <Subject1>'s left hand enters from the lower right of the close frame, fingers lifting and pressing the silver strings in rapid controlled motions while the ring on her finger catches the light, and her right hand guides the bow so that the white horsehair lies flat against the string near the bridge, individual hairs and rosin dust faintly visible as the stick travels back and forth; <Subject2>'s left hand works the fingerboard from the right of frame, fingers tapping and shifting positions, while her bow crosses the strings in a parallel arc, the polished wood of both instruments glowing under the soft light and the carved spiral scroll of <Subject1>'s violin anchoring the upper center of the close view. The camera holds this intimate framing as the bows continue their steady strokes and the fingers keep articulating the melody, the hall's carved gold details and painted figures dissolving into warm bokeh behind the instruments; finally the close view rests on the moving bows and dancing fingers as the duet sustains its final held phrase.
+
+# Additional Information
+## Duration
+8.0 seconds
+## Aspect Ratio
+120:67

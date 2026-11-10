@@ -1,0 +1,24 @@
+# Style and Tone
+A sci-fi whimsical 3D animated short film carries a curious, playful atmosphere with a pervading sense of gentle wonder.
+
+# Subject and Scene
+<Subject1>: A weathered waste-compactor robot with a boxy yellow torso streaked with rust and dirt, black 【WALL·E】 lettering on the lower front, a small solar-charge display panel on the chest reading 【SOLAR CHARGE LEVEL】 with a yellow sun icon and horizontal bars, rusted orange-brown articulated arms ending in blocky grey segmented metal hands, a rusted neck joint supporting a binocular-style head with two large dark purple-tinted lens eyes in worn beige-grey casings, and rugged brown treads at the base.
+<Subject2>: A worn 3x3 Rubik's cube with chipped and scuffed colored stickers in red, white, blue, green, and faded yellow, its plastic edges scuffed and slightly dirty from handling.
+<Scene1>: A dim interior of an abandoned industrial factory, with rusted metal girders, slanted walkways, blurred stacked scrap and machinery in the background, warm amber highlights catching dust in the air, and a deep cool blue shadow filling the far background.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+Inside the dim abandoned factory <Scene1>, the rusted yellow robot <Subject1> holds the scuffed Rubik's cube <Subject2> up to its binocular eyes, tilts its head in curiosity, then spins the cube rapidly with its mechanical hand until every face is solved, ending with the robot holding the completed cube up for inspection.
+
+# Complete Description
+At 0.0 seconds, <faint ambient factory hum fills the space>. A locked-off eye-level medium close-up frames <Subject1> centered in <Scene1>, its binocular head tilted slightly toward frame left and both large dark lenses fixed on <Subject2>, which is gripped in its raised right blocky hand at frame left; the cube's mixed red, white, blue, green and faded yellow stickers face the lens in a scrambled arrangement, while the left grey segmented hand rests open near the chest panel where the 【SOLAR CHARGE LEVEL】 display glows faintly, and the rusted yellow torso, treads, and blurred warm-lit factory girders fill the background. The robot's neck joint rotates slowly, tipping the binocular head first one way then the other as the lenses shift minutely in their casings <soft, high-pitched servo whirs>, the right arm holding the cube steady while the head leans closer; then the left hand lifts from the chest and its blocky fingers close around the opposite side of <Subject2>, the two hands bracing the cube between them.
+
+At 2.2 seconds, <the faint factory hum continues under crisp mechanical clicks>. The camera stays fixed on the same medium close-up as <Subject1>'s wrists rotate in rapid alternating twists, the blocky fingers repositioning between turns so that the cube's faces spin in quick successive clicks, colored sticker panels blurring into streaks of red, white, blue, yellow and green as layers snap into place <rapid, precise plastic clicks and small gear ticks from the wrist joints>; the binocular head pulls back a fraction and centers on the spinning cube, the lenses widening slightly while the neck holds steady, and rust flecks catch the warm amber light against the yellow torso. The turns slow, the fingers making one final precise rotation on the last layer, and the cube settles in the robot's hands with each face now showing a single uniform color: one fully red face toward the camera, bordered by clean white, blue, yellow and green faces on the visible sides, the scuffed edges still showing wear but the pattern solved. Finally <Subject1> lifts the solved <Subject2> a little higher in its right hand, tilts its head once more in a small curious motion, and holds the completed cube up before its lenses as the mechanical clicks fade into the low factory hum.
+
+# Additional Information
+## Duration
+6.0 seconds
+## Aspect Ratio
+16:9

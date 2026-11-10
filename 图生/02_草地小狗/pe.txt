@@ -1,0 +1,21 @@
+# Style and Tone
+A pastoral nature cinematic live-action short video carries a warm, peaceful, and gently uplifting atmosphere with a pervading sense of calm.
+
+# Subject and Scene
+<Subject1>: Adult Australian Shepherd dog with a thick medium-length tri-color merle coat; broad white blaze running down the center of the face, rich tan cheeks and brow patches, blue-merle grey-black fur across the folded ears and top of the head, a full fluffy white chest and neck ruff, tan front legs with white sock markings on the paws, and a black nose; warm amber-brown eyes, an open panting mouth showing a pink tongue and white teeth, and a soft alert expression.
+<Scene1>: Open outdoor grassy hillside under an overcast sky; lush long green grass with visible blades bending in the foreground, a gentle upward slope rising toward dense dark green leafy bushes and trees along the horizon, a pale grey-white cloudy sky overhead, and soft diffused overcast daylight that shifts as moving cloud shadows drift across the turf.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+On a breezy grassy hillside <Scene1>, a tri-color Australian Shepherd <Subject1> sits panting in the long grass while the camera completes a full 360-degree orbit around it, wind ripples through the surrounding blades, and cloud shadows sweep across the slope.
+
+# Complete Description
+At 0.0 seconds, [a soft, warm pastoral acoustic guitar score begins]. A locked-off eye-level medium shot frames <Subject1> seated upright at the center of <Scene1>, facing directly toward the camera with front legs planted in the long green grass, chest puffed, ears relaxed at the sides of the head, mouth open in a happy pant with the pink tongue hanging down; the lush grass fills the foreground with individual blades catching the diffused overcast light, the slope rises behind the dog toward dense green foliage at frame left and right, and the pale cloudy sky sits above the treeline. Immediately the camera begins a smooth, steady 360-degree orbit around <Subject1>, starting from the frontal position and arcing toward the dog's left side while keeping the dog centered in the frame at the same medium-shot distance; long grass blades in the foreground sweep past the lens as the viewpoint moves, a light wind combs through the turf so that successive waves of grass bend and ripple outward from the dog across the hillside, and soft-edged cloud shadows drift steadily across the slope, darkening patches of green and then letting them brighten again as the patches travel. As the orbit continues past the dog's left flank toward a rear three-quarter view, <Subject1> turns its head to follow the camera with warm amber eyes, ears twitching slightly in the breeze and the fluffy white chest ruff lifting in small gusts; the camera keeps moving around the dog's back, where the merle-patterned fur and the continuation of the sloping hillside come into view, then sweeps along the dog's right side while the grass ripples continue in a consistent direction and the cloud shadows keep sliding across the terrain. Finally the orbit completes its full circle and returns to the frontal eye-level medium shot, with <Subject1> still seated upright in the long grass at the center of <Scene1>, panting gently and looking straight at the camera as the wind continues to stir the surrounding blades and moving cloud shadows drift across the green hillside behind it.
+
+# Additional Information
+## Duration
+8.0 seconds
+## Aspect Ratio
+3:2
