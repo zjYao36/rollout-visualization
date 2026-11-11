@@ -328,5 +328,35 @@
     "name": "complex-motion-R01-seed-3407.mp4",
     "size": 13833044,
     "sha256": "9d262082f8dda223db824c3a82e9f1df178b4f3eba8dc1e760566102abcf8866"
+  },
+  "complex-motion-R02-seed-123": {
+    "name": "complex-motion-R02-seed-123.mp4",
+    "size": 5794504,
+    "sha256": "feb09fcd52189202012a838cb31f489f7311cc40aa64fcdff066ffc9a81b5ec7"
+  },
+  "complex-motion-R02-seed-2026": {
+    "name": "complex-motion-R02-seed-2026.mp4",
+    "size": 5335357,
+    "sha256": "4963d65f308c76d8f53851aed205ac9eda99468ee5407e9a1cecb183d5965545"
+  },
+  "complex-motion-R02-seed-3407": {
+    "name": "complex-motion-R02-seed-3407.mp4",
+    "size": 5658667,
+    "sha256": "c99154e7e499277b74ad358846834d8ce8cea03ed6e1e0bac1f7e039dd4fa453"
+  },
+  "complex-motion-R03-seed-123": {
+    "name": "complex-motion-R03-seed-123.mp4",
+    "size": 5162654,
+    "sha256": "440a61ea0b63eb2e8e0c812fd7b3003dd41dca54cde22ff1d23d8dcb2786e80a"
+  },
+  "complex-motion-R03-seed-2026": {
+    "name": "complex-motion-R03-seed-2026.mp4",
+    "size": 4925334,
+    "sha256": "29efb4ae10d94d0c03a1b9e4bd874a27a74e634fe0c47468dcc12ad100e95409"
+  },
+  "complex-motion-R03-seed-3407": {
+    "name": "complex-motion-R03-seed-3407.mp4",
+    "size": 5284421,
+    "sha256": "f3a11ece5cc784c09266a43c22a235627ff6170818803c5634d1e10ec43661df"
   }
 }
