@@ -3,7 +3,7 @@ let DATA=JSON.parse(document.querySelector('#data').textContent);
 const PAGE_SIZE=8;
 const $=s=>document.querySelector(s);
 const el=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n};
-const enc=p=>p.split('/').map(encodeURIComponent).join('/');
+const enc=p=>p.startsWith('https://')?new URL(p).href:p.split('/').map(encodeURIComponent).join('/');
 const statusNames={prepared:'等待提交',submitted:'已提交',preprocessing:'PE 改写中',queueing:'服务端排队',dequeued:'任务已调度',processing:'视频生成中',success:'已完成',failed:'生成失败',canceled:'已取消',submit_failed:'提交失败',validation_failed:'校验未通过',publishing:'结果上传中'};
 let observer=null,newData=null,searchTimer;
 function parseState(){const p=new URLSearchParams(location.search);return {collection:DATA.collections.some(c=>c.id===p.get('collection'))?p.get('collection'):'all',kind:['i2v','r2v'].includes(p.get('kind'))?p.get('kind'):'all',status:['ready','pending'].includes(p.get('status'))?p.get('status'):'all',q:p.get('q')||'',page:Math.max(1,parseInt(p.get('page'),10)||1)}}
