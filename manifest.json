@@ -383,5 +383,10 @@
     "name": "long-videos-I01-seed-123.mp4",
     "size": 15345985,
     "sha256": "923214186551fb954a13ac180d4694c12acaa07f48e4d2ea21d212e49da1ec31"
+  },
+  "long-videos-I02-seed-2026": {
+    "name": "long-videos-I02-seed-2026.mp4",
+    "size": 11434535,
+    "sha256": "e27c381b6d087e1097dcab2925c56bb0b0d816238a156e793c0bdde6a4c780a5"
   }
 }
