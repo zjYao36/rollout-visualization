@@ -13,7 +13,7 @@
     {
       "id": "long-videos",
       "title": "长视频",
-      "description": "12–16 秒，观察动作延续与场景转场。",
+      "description": "12–16 秒，观察动作延续与场景转场。 固定 PE，每组四个 seed。",
       "tag": "12–16 SEC",
       "groups": 20,
       "jobs": 80,
@@ -22,7 +22,7 @@
     {
       "id": "complex-motion",
       "title": "复杂运动",
-      "description": "对打、追逐与多机位切镜。",
+      "description": "对打、追逐与多机位切镜。 固定 PE，每组四个 seed。",
       "tag": "MOTION & CUTS",
       "groups": 6,
       "jobs": 24,
@@ -1461,7 +1461,7 @@
         {
           "seed": 42,
           "status": "success",
-          "url": "https://github.com/zjYao36/rollout-visualization/releases/download/motion-four-seeds-20261111/long-videos-I01-seed-42.mp4",
+          "url": "long-videos/图生/01_像素列车/seed_42.mp4",
           "poster": "long-videos/assets/I01_seed_42.jpg",
           "width": 1174,
           "height": 782,
@@ -1470,7 +1470,7 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1536,7 +1536,7 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2151,17 +2151,17 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 16.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2231,7 +2231,7 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2241,7 +2241,7 @@
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2304,17 +2304,17 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2391,7 +2391,7 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2401,7 +2401,7 @@
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2485,17 +2485,17 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2558,17 +2558,17 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2638,17 +2638,17 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2711,13 +2711,13 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 16.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
@@ -2791,13 +2791,13 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 16.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
@@ -2871,7 +2871,7 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2937,7 +2937,7 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3003,7 +3003,7 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3069,7 +3069,7 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3149,17 +3149,17 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3229,17 +3229,17 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 13.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3302,17 +3302,17 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3619,6 +3619,6 @@
     "jobs": 190,
     "completed": 111,
     "pending": 79,
-    "updated_at": 1794366552.8055644
+    "updated_at": 1794366930.1635778
   }
 }
