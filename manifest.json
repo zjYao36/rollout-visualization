@@ -48,5 +48,20 @@
     "name": "long-videos-R05-seed-2026.mp4",
     "size": 6208839,
     "sha256": "8bb9f7ec74b8b135bfb1dd5e9f4c243d101b2b74eccda309add33ef04b4cc4ac"
+  },
+  "long-videos-R06-seed-123": {
+    "name": "long-videos-R06-seed-123.mp4",
+    "size": 17514358,
+    "sha256": "81629d48c9a18d9240a24a7c58ec589dcb94048ea9c2110d7a501b8ae70ec5bf"
+  },
+  "long-videos-R06-seed-2026": {
+    "name": "long-videos-R06-seed-2026.mp4",
+    "size": 16845910,
+    "sha256": "ecf08a76aa48c1fe371301b2cb9f8e5207dd36ba12264b5e6b9163b1875a8030"
+  },
+  "long-videos-R07-seed-123": {
+    "name": "long-videos-R07-seed-123.mp4",
+    "size": 8561717,
+    "sha256": "53db9a9a29bf519ddde707599e958912d9b7ca613227e13913ddfa4ae43354f0"
   }
 }
