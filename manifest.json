@@ -1,0 +1,22 @@
+{
+  "long-videos-R01-seed-123": {
+    "name": "long-videos-R01-seed-123.mp4",
+    "size": 9730026,
+    "sha256": "239dd507b0c9b034d40f11cfb06a367cd27ccd9634aa27c48eb247f4ccf4590a"
+  },
+  "long-videos-R03-seed-123": {
+    "name": "long-videos-R03-seed-123.mp4",
+    "size": 13795922,
+    "sha256": "f83f2cc3cc261f8d0332df4117b0d97bfef79d0b0651818b3c6167723ae07239"
+  },
+  "long-videos-R04-seed-123": {
+    "name": "long-videos-R04-seed-123.mp4",
+    "size": 5363778,
+    "sha256": "cf86250febb56fbb322143b6119cf73a5f522fbfe41e8240acc1d04cbb2ec6e0"
+  },
+  "long-videos-R05-seed-123": {
+    "name": "long-videos-R05-seed-123.mp4",
+    "size": 5585289,
+    "sha256": "3e546fd7fe8ae6734ff9a19445d35567e4cb0413e1605979ed5b42c40d6e8472"
+  }
+}
