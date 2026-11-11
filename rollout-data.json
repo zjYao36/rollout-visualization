@@ -17,7 +17,7 @@
       "tag": "12–16 SEC",
       "groups": 20,
       "jobs": 80,
-      "completed": 32
+      "completed": 48
     },
     {
       "id": "complex-motion",
@@ -1602,33 +1602,33 @@
         },
         {
           "seed": 123,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/0a4802d158d6a4b8d41e9604e9062061427fff36/long-videos-I03-seed-123.mp4",
+          "poster": "long-videos/assets/I03_seed_123.jpg",
+          "width": 1174,
+          "height": 782,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/0a4802d158d6a4b8d41e9604e9062061427fff36/long-videos-I03-seed-2026.mp4",
+          "poster": "long-videos/assets/I03_seed_2026.jpg",
+          "width": 1174,
+          "height": 782,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/0a4802d158d6a4b8d41e9604e9062061427fff36/long-videos-I03-seed-3407.mp4",
+          "poster": "long-videos/assets/I03_seed_3407.jpg",
+          "width": 1174,
+          "height": 782,
+          "duration": 15.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -1668,33 +1668,33 @@
         },
         {
           "seed": 123,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/0a4802d158d6a4b8d41e9604e9062061427fff36/long-videos-I04-seed-123.mp4",
+          "poster": "long-videos/assets/I04_seed_123.jpg",
+          "width": 1176,
+          "height": 782,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/0a4802d158d6a4b8d41e9604e9062061427fff36/long-videos-I04-seed-2026.mp4",
+          "poster": "long-videos/assets/I04_seed_2026.jpg",
+          "width": 1176,
+          "height": 782,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/0a4802d158d6a4b8d41e9604e9062061427fff36/long-videos-I04-seed-3407.mp4",
+          "poster": "long-videos/assets/I04_seed_3407.jpg",
+          "width": 1176,
+          "height": 782,
+          "duration": 15.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -1734,19 +1734,19 @@
         },
         {
           "seed": 123,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/0a4802d158d6a4b8d41e9604e9062061427fff36/long-videos-I05-seed-123.mp4",
+          "poster": "long-videos/assets/I05_seed_123.jpg",
+          "width": 1304,
+          "height": 706,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3ded59f5143b51ae028208983698d1fc8f56d6f8/long-videos-I05-seed-2026.mp4",
+          "poster": "long-videos/assets/I05_seed_2026.jpg",
           "width": 1304,
           "height": 706,
           "duration": 12.041667,
@@ -1754,13 +1754,13 @@
         },
         {
           "seed": 3407,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/0a4802d158d6a4b8d41e9604e9062061427fff36/long-videos-I05-seed-3407.mp4",
+          "poster": "long-videos/assets/I05_seed_3407.jpg",
+          "width": 1304,
+          "height": 706,
+          "duration": 12.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -1800,23 +1800,23 @@
         },
         {
           "seed": 123,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/0a4802d158d6a4b8d41e9604e9062061427fff36/long-videos-I06-seed-123.mp4",
+          "poster": "long-videos/assets/I06_seed_123.jpg",
+          "width": 720,
+          "height": 1278,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1278,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -1866,16 +1866,6 @@
         },
         {
           "seed": 123,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
-        },
-        {
-          "seed": 2026,
           "status": "publishing",
           "url": null,
           "poster": null,
@@ -1885,14 +1875,24 @@
           "fps": 24.0
         },
         {
+          "seed": 2026,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3ded59f5143b51ae028208983698d1fc8f56d6f8/long-videos-I07-seed-2026.mp4",
+          "poster": "long-videos/assets/I07_seed_2026.jpg",
+          "width": 1274,
+          "height": 722,
+          "duration": 12.041667,
+          "fps": 24.0
+        },
+        {
           "seed": 3407,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1274,
+          "height": 722,
+          "duration": 12.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -1932,9 +1932,9 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3ded59f5143b51ae028208983698d1fc8f56d6f8/long-videos-I08-seed-123.mp4",
+          "poster": "long-videos/assets/I08_seed_123.jpg",
           "width": 1280,
           "height": 720,
           "duration": 14.041667,
@@ -1942,13 +1942,13 @@
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 14.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -1998,16 +1998,6 @@
         },
         {
           "seed": 123,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
-        },
-        {
-          "seed": 2026,
           "status": "publishing",
           "url": null,
           "poster": null,
@@ -2017,14 +2007,24 @@
           "fps": 24.0
         },
         {
+          "seed": 2026,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3ded59f5143b51ae028208983698d1fc8f56d6f8/long-videos-I09-seed-2026.mp4",
+          "poster": "long-videos/assets/I09_seed_2026.jpg",
+          "width": 1280,
+          "height": 720,
+          "duration": 12.041667,
+          "fps": 24.0
+        },
+        {
           "seed": 3407,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 12.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -2064,6 +2064,16 @@
         },
         {
           "seed": 123,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3ded59f5143b51ae028208983698d1fc8f56d6f8/long-videos-I10-seed-123.mp4",
+          "poster": "long-videos/assets/I10_seed_123.jpg",
+          "width": 678,
+          "height": 1356,
+          "duration": 13.041667,
+          "fps": 24.0
+        },
+        {
+          "seed": 2026,
           "status": "publishing",
           "url": null,
           "poster": null,
@@ -2073,24 +2083,14 @@
           "fps": 24.0
         },
         {
-          "seed": 2026,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
-        },
-        {
           "seed": 3407,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 678,
+          "height": 1356,
+          "duration": 13.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -2171,13 +2171,13 @@
         },
         {
           "seed": 3407,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 16.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -2251,13 +2251,13 @@
         },
         {
           "seed": 3407,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 12.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -2324,13 +2324,13 @@
         },
         {
           "seed": 3407,
-          "status": "queueing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 15.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -2411,13 +2411,13 @@
         },
         {
           "seed": 3407,
-          "status": "queueing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 12.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -2505,13 +2505,13 @@
         },
         {
           "seed": 3407,
-          "status": "queueing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 12.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -2578,13 +2578,13 @@
         },
         {
           "seed": 3407,
-          "status": "queueing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 15.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -2648,9 +2648,9 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3ded59f5143b51ae028208983698d1fc8f56d6f8/long-videos-R07-seed-2026.mp4",
+          "poster": "long-videos/assets/R07_seed_2026.jpg",
           "width": 720,
           "height": 1280,
           "duration": 15.041667,
@@ -2658,13 +2658,13 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 15.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -2711,9 +2711,9 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3ded59f5143b51ae028208983698d1fc8f56d6f8/long-videos-R08-seed-123.mp4",
+          "poster": "long-videos/assets/R08_seed_123.jpg",
           "width": 720,
           "height": 1280,
           "duration": 16.041667,
@@ -2731,13 +2731,13 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 16.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -2811,13 +2811,13 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 16.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -2891,13 +2891,13 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 13.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -2947,23 +2947,23 @@
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 15.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -3013,13 +3013,13 @@
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1174,
+          "height": 782,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -3069,23 +3069,23 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1274,
+          "height": 722,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1274,
+          "height": 722,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -3249,13 +3249,13 @@
         },
         {
           "seed": 3407,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 13.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -3322,13 +3322,13 @@
         },
         {
           "seed": 3407,
-          "status": "queueing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 12.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -3617,8 +3617,8 @@
   "summary": {
     "groups": 52,
     "jobs": 190,
-    "completed": 124,
-    "pending": 66,
-    "updated_at": 1794368194.7001767
+    "completed": 140,
+    "pending": 50,
+    "updated_at": 1794368989.3729427
   }
 }
