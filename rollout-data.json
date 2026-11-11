@@ -17,7 +17,7 @@
       "tag": "12–16 SEC",
       "groups": 20,
       "jobs": 80,
-      "completed": 75
+      "completed": 76
     },
     {
       "id": "complex-motion",
@@ -1526,7 +1526,7 @@
       "videos": [
         {
           "seed": 42,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1556,13 +1556,13 @@
         },
         {
           "seed": 3407,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/87dadb5e55fd4f01fa48f3447bcd09cb30b34ec2/long-videos-I02-seed-3407.mp4",
+          "poster": "long-videos/assets/I02_seed_3407.jpg",
+          "width": 1274,
+          "height": 722,
+          "duration": 16.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -3617,8 +3617,8 @@
   "summary": {
     "groups": 52,
     "jobs": 190,
-    "completed": 185,
-    "pending": 5,
-    "updated_at": 1794371443.610927
+    "completed": 186,
+    "pending": 4,
+    "updated_at": 1794372050.364374
   }
 }
