@@ -26,7 +26,7 @@
       "tag": "MOTION & CUTS",
       "groups": 6,
       "jobs": 24,
-      "completed": 14
+      "completed": 24
     },
     {
       "id": "480p",
@@ -1470,7 +1470,7 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1490,7 +1490,7 @@
         },
         {
           "seed": 3407,
-          "status": "processing",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1526,7 +1526,7 @@
       "videos": [
         {
           "seed": 42,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1546,7 +1546,7 @@
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3089,9 +3089,9 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/d3cfec891213ba7415f98b9b64493d3953059d82/complex-motion-I03-seed-3407.mp4",
+          "poster": "complex-motion/assets/I03_seed_3407.jpg",
           "width": 1274,
           "height": 722,
           "duration": 12.041667,
@@ -3149,9 +3149,9 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/d3cfec891213ba7415f98b9b64493d3953059d82/complex-motion-R01-seed-123.mp4",
+          "poster": "complex-motion/assets/R01_seed_123.jpg",
           "width": 720,
           "height": 1280,
           "duration": 15.041667,
@@ -3159,9 +3159,9 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/d3cfec891213ba7415f98b9b64493d3953059d82/complex-motion-R01-seed-2026.mp4",
+          "poster": "complex-motion/assets/R01_seed_2026.jpg",
           "width": 720,
           "height": 1280,
           "duration": 15.041667,
@@ -3169,9 +3169,9 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/d3cfec891213ba7415f98b9b64493d3953059d82/complex-motion-R01-seed-3407.mp4",
+          "poster": "complex-motion/assets/R01_seed_3407.jpg",
           "width": 720,
           "height": 1280,
           "duration": 15.041667,
@@ -3229,9 +3229,9 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/5545555f4ac717e21ffd15de4701a7376f519747/complex-motion-R02-seed-123.mp4",
+          "poster": "complex-motion/assets/R02_seed_123.jpg",
           "width": 1280,
           "height": 720,
           "duration": 13.041667,
@@ -3239,9 +3239,9 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/5545555f4ac717e21ffd15de4701a7376f519747/complex-motion-R02-seed-2026.mp4",
+          "poster": "complex-motion/assets/R02_seed_2026.jpg",
           "width": 1280,
           "height": 720,
           "duration": 13.041667,
@@ -3249,9 +3249,9 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/5545555f4ac717e21ffd15de4701a7376f519747/complex-motion-R02-seed-3407.mp4",
+          "poster": "complex-motion/assets/R02_seed_3407.jpg",
           "width": 1280,
           "height": 720,
           "duration": 13.041667,
@@ -3302,9 +3302,9 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/5545555f4ac717e21ffd15de4701a7376f519747/complex-motion-R03-seed-123.mp4",
+          "poster": "complex-motion/assets/R03_seed_123.jpg",
           "width": 720,
           "height": 1280,
           "duration": 12.041667,
@@ -3312,9 +3312,9 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/5545555f4ac717e21ffd15de4701a7376f519747/complex-motion-R03-seed-2026.mp4",
+          "poster": "complex-motion/assets/R03_seed_2026.jpg",
           "width": 720,
           "height": 1280,
           "duration": 12.041667,
@@ -3322,9 +3322,9 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/5545555f4ac717e21ffd15de4701a7376f519747/complex-motion-R03-seed-3407.mp4",
+          "poster": "complex-motion/assets/R03_seed_3407.jpg",
           "width": 720,
           "height": 1280,
           "duration": 12.041667,
@@ -3617,8 +3617,8 @@
   "summary": {
     "groups": 52,
     "jobs": 190,
-    "completed": 173,
-    "pending": 17,
-    "updated_at": 1794370224.6661048
+    "completed": 183,
+    "pending": 7,
+    "updated_at": 1794370834.9286504
   }
 }
