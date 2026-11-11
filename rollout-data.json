@@ -17,7 +17,7 @@
       "tag": "12–16 SEC",
       "groups": 20,
       "jobs": 80,
-      "completed": 73
+      "completed": 75
     },
     {
       "id": "complex-motion",
@@ -1470,16 +1470,6 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
-        },
-        {
-          "seed": 2026,
           "status": "processing",
           "url": null,
           "poster": null,
@@ -1489,8 +1479,18 @@
           "fps": null
         },
         {
+          "seed": 2026,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/2784540a89a4fd59169910825b33d5aadd7a718d/long-videos-I01-seed-2026.mp4",
+          "poster": "long-videos/assets/I01_seed_2026.jpg",
+          "width": 1174,
+          "height": 782,
+          "duration": 16.041667,
+          "fps": 24.0
+        },
+        {
           "seed": 3407,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1526,7 +1526,7 @@
       "videos": [
         {
           "seed": 42,
-          "status": "processing",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1536,17 +1536,17 @@
         },
         {
           "seed": 123,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/41de94e10ead1676df6231b13dbc22cc7f9ae471/long-videos-I02-seed-123.mp4",
+          "poster": "long-videos/assets/I02_seed_123.jpg",
+          "width": 1274,
+          "height": 722,
+          "duration": 16.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3617,8 +3617,8 @@
   "summary": {
     "groups": 52,
     "jobs": 190,
-    "completed": 183,
-    "pending": 7,
-    "updated_at": 1794370834.9286504
+    "completed": 185,
+    "pending": 5,
+    "updated_at": 1794371443.610927
   }
 }
