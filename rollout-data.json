@@ -17,7 +17,7 @@
       "tag": "12–16 SEC",
       "groups": 20,
       "jobs": 80,
-      "completed": 76
+      "completed": 79
     },
     {
       "id": "complex-motion",
@@ -1470,13 +1470,13 @@
         },
         {
           "seed": 123,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/1817ad05d6a590bbad6a9ad523d4ff95074dd928/long-videos-I01-seed-123.mp4",
+          "poster": "long-videos/assets/I01_seed_123.jpg",
+          "width": 1174,
+          "height": 782,
+          "duration": 16.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
@@ -1490,13 +1490,13 @@
         },
         {
           "seed": 3407,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/f39f064d9d2c164e687aa66d4ceb1055fe2219fb/long-videos-I01-seed-3407.mp4",
+          "poster": "long-videos/assets/I01_seed_3407.jpg",
+          "width": 1174,
+          "height": 782,
+          "duration": 16.041667,
+          "fps": 24.0
         }
       ],
       "baseline_id": null,
@@ -1546,13 +1546,13 @@
         },
         {
           "seed": 2026,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/25dd4a62f2e66a9888c676301541415aa39ad6d7/long-videos-I02-seed-2026.mp4",
+          "poster": "long-videos/assets/I02_seed_2026.jpg",
+          "width": 1274,
+          "height": 722,
+          "duration": 16.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -3617,8 +3617,8 @@
   "summary": {
     "groups": 52,
     "jobs": 190,
-    "completed": 186,
-    "pending": 4,
-    "updated_at": 1794372050.364374
+    "completed": 189,
+    "pending": 1,
+    "updated_at": 1794372657.2869253
   }
 }
