@@ -18,5 +18,35 @@
     "name": "long-videos-R05-seed-123.mp4",
     "size": 5585289,
     "sha256": "3e546fd7fe8ae6734ff9a19445d35567e4cb0413e1605979ed5b42c40d6e8472"
+  },
+  "long-videos-R01-seed-2026": {
+    "name": "long-videos-R01-seed-2026.mp4",
+    "size": 10013034,
+    "sha256": "e6d27ab513b9dcafbf35b60def85e7cf35a87c754a58a45f8ab026ed96860243"
+  },
+  "long-videos-R02-seed-123": {
+    "name": "long-videos-R02-seed-123.mp4",
+    "size": 4612727,
+    "sha256": "984a50a6ef1f4090c2f9a7b3bbecbc01e9145c9720fd43ae04981386aee541bd"
+  },
+  "long-videos-R02-seed-2026": {
+    "name": "long-videos-R02-seed-2026.mp4",
+    "size": 4473351,
+    "sha256": "6ed98ee1b895aece78570b5251e78f7148024dcb7f5ae1b82de801b74830e3c7"
+  },
+  "long-videos-R03-seed-2026": {
+    "name": "long-videos-R03-seed-2026.mp4",
+    "size": 12753319,
+    "sha256": "07c74f171c45fb0febde7ddd78072088c0c053b78cad93185342631c5724ec86"
+  },
+  "long-videos-R04-seed-2026": {
+    "name": "long-videos-R04-seed-2026.mp4",
+    "size": 5946117,
+    "sha256": "037eb8bcc46b0a40955770f43c7fa321e216c2bf36c200d33cd02e8e7415fbc3"
+  },
+  "long-videos-R05-seed-2026": {
+    "name": "long-videos-R05-seed-2026.mp4",
+    "size": 6208839,
+    "sha256": "8bb9f7ec74b8b135bfb1dd5e9f4c243d101b2b74eccda309add33ef04b4cc4ac"
   }
 }
