@@ -308,5 +308,25 @@
     "name": "complex-motion-I03-seed-2026.mp4",
     "size": 8379533,
     "sha256": "ad4803f41918f464833cf2cf605600ece7969d2248f8cea4df3897fa6af4a0b5"
+  },
+  "complex-motion-I03-seed-3407": {
+    "name": "complex-motion-I03-seed-3407.mp4",
+    "size": 7535063,
+    "sha256": "9f0b65b0498933d4ab10f35b90b5a62ef53fae275d74d2ae706228ed9c14b054"
+  },
+  "complex-motion-R01-seed-123": {
+    "name": "complex-motion-R01-seed-123.mp4",
+    "size": 13955187,
+    "sha256": "e4cd06a4de85a2ff23bd8501b78c6a9c9efd798205953ee01f95b4a294083ab0"
+  },
+  "complex-motion-R01-seed-2026": {
+    "name": "complex-motion-R01-seed-2026.mp4",
+    "size": 13830416,
+    "sha256": "3a015e09b4545797a285d1c98c3403f435f0ae15db00e1c4f399237ecd02d2d4"
+  },
+  "complex-motion-R01-seed-3407": {
+    "name": "complex-motion-R01-seed-3407.mp4",
+    "size": 13833044,
+    "sha256": "9d262082f8dda223db824c3a82e9f1df178b4f3eba8dc1e760566102abcf8866"
   }
 }
