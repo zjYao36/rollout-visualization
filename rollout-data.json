@@ -17,7 +17,7 @@
       "tag": "12–16 SEC",
       "groups": 20,
       "jobs": 80,
-      "completed": 19
+      "completed": 23
     },
     {
       "id": "complex-motion",
@@ -1490,7 +1490,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1556,7 +1556,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1602,7 +1602,7 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1612,7 +1612,7 @@
         },
         {
           "seed": 2026,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1622,7 +1622,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1668,7 +1668,7 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1678,7 +1678,7 @@
         },
         {
           "seed": 2026,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1688,7 +1688,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1744,7 +1744,7 @@
         },
         {
           "seed": 2026,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1754,7 +1754,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1800,7 +1800,7 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1810,7 +1810,7 @@
         },
         {
           "seed": 2026,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1820,7 +1820,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1876,7 +1876,7 @@
         },
         {
           "seed": 2026,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1886,7 +1886,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1932,7 +1932,7 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1942,7 +1942,7 @@
         },
         {
           "seed": 2026,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -1952,7 +1952,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2008,7 +2008,7 @@
         },
         {
           "seed": 2026,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2018,7 +2018,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2064,7 +2064,7 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2074,7 +2074,7 @@
         },
         {
           "seed": 2026,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2084,7 +2084,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2151,9 +2151,9 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/b17361c897beb744771491e5b5fd94a3fb9c0027/long-videos-R01-seed-123.mp4",
+          "poster": "long-videos/assets/R01_seed_123.jpg",
           "width": 1280,
           "height": 720,
           "duration": 16.041667,
@@ -2161,13 +2161,13 @@
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 16.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -2231,23 +2231,23 @@
         },
         {
           "seed": 123,
-          "status": "queueing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -2304,9 +2304,9 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/b17361c897beb744771491e5b5fd94a3fb9c0027/long-videos-R03-seed-123.mp4",
+          "poster": "long-videos/assets/R03_seed_123.jpg",
           "width": 720,
           "height": 1280,
           "duration": 15.041667,
@@ -2314,13 +2314,13 @@
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -2391,23 +2391,23 @@
         },
         {
           "seed": 123,
-          "status": "processing",
-          "url": null,
-          "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/b17361c897beb744771491e5b5fd94a3fb9c0027/long-videos-R04-seed-123.mp4",
+          "poster": "long-videos/assets/R04_seed_123.jpg",
+          "width": 1280,
+          "height": 720,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -2485,9 +2485,9 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
-          "poster": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/b17361c897beb744771491e5b5fd94a3fb9c0027/long-videos-R05-seed-123.mp4",
+          "poster": "long-videos/assets/R05_seed_123.jpg",
           "width": 1280,
           "height": 720,
           "duration": 12.041667,
@@ -2495,13 +2495,13 @@
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -2568,13 +2568,13 @@
         },
         {
           "seed": 2026,
-          "status": "queueing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -2648,13 +2648,13 @@
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -2721,13 +2721,13 @@
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 16.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -2801,13 +2801,13 @@
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 16.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -2871,23 +2871,23 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 13.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
-          "status": "prepared",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 13.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -2947,7 +2947,7 @@
         },
         {
           "seed": 2026,
-          "status": "queueing",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -2957,7 +2957,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3003,13 +3003,13 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1174,
+          "height": 782,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 2026,
@@ -3023,7 +3023,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3069,7 +3069,7 @@
         },
         {
           "seed": 123,
-          "status": "processing",
+          "status": "queueing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3089,7 +3089,7 @@
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3159,17 +3159,17 @@
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 15.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
-          "status": "prepared",
+          "status": "processing",
           "url": null,
           "poster": null,
           "width": null,
@@ -3239,13 +3239,13 @@
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 1280,
+          "height": 720,
+          "duration": 13.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -3312,13 +3312,13 @@
         },
         {
           "seed": 2026,
-          "status": "processing",
+          "status": "publishing",
           "url": null,
           "poster": null,
-          "width": null,
-          "height": null,
-          "duration": null,
-          "fps": null
+          "width": 720,
+          "height": 1280,
+          "duration": 12.041667,
+          "fps": 24.0
         },
         {
           "seed": 3407,
@@ -3617,8 +3617,8 @@
   "summary": {
     "groups": 52,
     "jobs": 190,
-    "completed": 111,
-    "pending": 79,
-    "updated_at": 1794366930.1635778
+    "completed": 115,
+    "pending": 75,
+    "updated_at": 1794367715.1768491
   }
 }
