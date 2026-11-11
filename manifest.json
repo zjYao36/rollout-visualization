@@ -178,5 +178,40 @@
     "name": "long-videos-I10-seed-2026.mp4",
     "size": 9095981,
     "sha256": "5bcfa1380a66bc35f2cdbb4156245523566abb297959daf454aa01be67627aae"
+  },
+  "long-videos-I06-seed-3407": {
+    "name": "long-videos-I06-seed-3407.mp4",
+    "size": 4038614,
+    "sha256": "b995661c8c9df23fbb4284c9efc77546ec749e6a2660b070f4d65d0139d5ddec"
+  },
+  "long-videos-I08-seed-3407": {
+    "name": "long-videos-I08-seed-3407.mp4",
+    "size": 5130627,
+    "sha256": "7c1be9056563bccd934cd83e13f12b89c259a12d96ecdc970f6d4e824a68e41f"
+  },
+  "long-videos-I10-seed-3407": {
+    "name": "long-videos-I10-seed-3407.mp4",
+    "size": 8536605,
+    "sha256": "48093a40aa40fce6a8a49bbabd864e9d4ad1554b3495fd57c14e643634d6bbb5"
+  },
+  "long-videos-R01-seed-3407": {
+    "name": "long-videos-R01-seed-3407.mp4",
+    "size": 9958860,
+    "sha256": "ac0c533dbf1ca89fca1cdbe416b7d1522cbb65f9857f94509829769950a1e1d2"
+  },
+  "long-videos-R02-seed-3407": {
+    "name": "long-videos-R02-seed-3407.mp4",
+    "size": 4664143,
+    "sha256": "ea1cd149aac37c57d43727ebeae4bf8d5da3794539d304082a04224ddbb45f1d"
+  },
+  "long-videos-R03-seed-3407": {
+    "name": "long-videos-R03-seed-3407.mp4",
+    "size": 12105792,
+    "sha256": "681cc9891a1784fe6c923ddb694191afcf2355756dbce6ab30ee10a44394f484"
+  },
+  "long-videos-R04-seed-3407": {
+    "name": "long-videos-R04-seed-3407.mp4",
+    "size": 5549537,
+    "sha256": "2b991ed083ff9e02b73c58d9d5f7792ba47ae465a4eef97067d4891a9c398d78"
   }
 }
