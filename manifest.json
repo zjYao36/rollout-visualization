@@ -358,5 +358,10 @@
     "name": "complex-motion-R03-seed-3407.mp4",
     "size": 5284421,
     "sha256": "f3a11ece5cc784c09266a43c22a235627ff6170818803c5634d1e10ec43661df"
+  },
+  "long-videos-I01-seed-2026": {
+    "name": "long-videos-I01-seed-2026.mp4",
+    "size": 15664429,
+    "sha256": "b6d47dc05b8995870b8ca130393d1e3cc82a8c8fa694be140f1b4f1387971075"
   }
 }
