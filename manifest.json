@@ -243,5 +243,35 @@
     "name": "long-videos-R09-seed-123.mp4",
     "size": 5048304,
     "sha256": "33a7312c9edb114e3c4e37c5ea1f12ef1bbe2ab0e63ffbd97ead60f95314b429"
+  },
+  "long-videos-R09-seed-2026": {
+    "name": "long-videos-R09-seed-2026.mp4",
+    "size": 4722080,
+    "sha256": "63c3bf01eb73ddea6cbce667ae6311c2ca822f56596fa1acd6a90867a2c0cc1d"
+  },
+  "long-videos-R09-seed-3407": {
+    "name": "long-videos-R09-seed-3407.mp4",
+    "size": 5083183,
+    "sha256": "fab43aaf1af0bd7ba96c12e07d007e59ceacebaf7fc84502f26fa0c9c06f7385"
+  },
+  "long-videos-R10-seed-123": {
+    "name": "long-videos-R10-seed-123.mp4",
+    "size": 6928158,
+    "sha256": "cc55daf805c03f14590843debd2ae666f0f55da2b9a53852021ed75ac74413a1"
+  },
+  "long-videos-R10-seed-2026": {
+    "name": "long-videos-R10-seed-2026.mp4",
+    "size": 7105299,
+    "sha256": "a07b024495ac5c95bcc0e35709d7f2e1d47473e9c83666f40d7945bf9d53b4e5"
+  },
+  "long-videos-R10-seed-3407": {
+    "name": "long-videos-R10-seed-3407.mp4",
+    "size": 8173353,
+    "sha256": "6b3aa2aea501e53fc20dbef649ec076270900aa954e92f0b9887d5514cb1a7c3"
+  },
+  "complex-motion-I01-seed-123": {
+    "name": "complex-motion-I01-seed-123.mp4",
+    "size": 14248883,
+    "sha256": "01c26fb9c6fc7c06fb132a8ead1a4dead212bb726e5fda94172da09079c7d493"
   }
 }
