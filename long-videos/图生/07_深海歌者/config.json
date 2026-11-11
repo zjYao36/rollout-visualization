@@ -1,9 +1,9 @@
 {
-  "key": "I07",
+  "key": "LI07",
   "kind": "i2v",
   "title": "深海歌者",
   "source_id": "i2vprod_62cba689e2d005cd",
-  "folder": "图生/07_深海歌者",
+  "folder": "长视频_20261110/图生/07_深海歌者",
   "model": "vidu34_img2video_20260912",
   "user_prompt": "深海空灵风音乐 MV 画面，澄澈深蓝色水下，阳光穿透海面形成丁达尔光束缓缓洒落，细碎气泡悠悠向上漂浮，海底礁石静卧深处；身着白纱长裙的女子悬浮水中，纱裙与长发顺着水流悠然舒展飘散，手持话筒抵在唇边闭目深情歌唱，手臂轻柔张开。成群彩鱼从画面远方成群游弋而来，环绕在歌手周身来回盘旋穿梭，鱼群随旋律缓缓游动，光影在鱼身与飘逸纱料上流转。镜头由远缓缓向前推进，聚焦人物与环绕鱼群，水光晃动氛围感空灵梦幻，伴着空灵尾音镜头慢慢拉远定格整片深海场景。",
   "original_seed": 20969,
@@ -13,14 +13,17 @@
   "images": [
     {
       "slot": 1,
-      "path": "图生/07_深海歌者/conditions/image_01.png",
+      "path": "长视频_20261110/图生/07_深海歌者/conditions/image_01.png",
       "sha256": "529b5aecc33030aee11f32a45586e0caa467dc6fb75ca6838c27194427560e57",
       "width": 1920,
       "height": 1088
     }
   ],
   "seeds": [
-    42
+    42,
+    123,
+    2026,
+    3407
   ],
   "params": {
     "video": {
@@ -98,5 +101,8 @@
     },
     "negative_prompt": "# Style and Tone\nOver-smoothed AI-generated look, cheap synthetic texture, greasy plastic sheen, over-beautified, over-graded, low quality.\n\n# Subject and Scene\n<Subject1>: waxy skin, plastic skin, silicone-doll skin, airbrushed skin, pores erased, skin texture wiped flat, fine hair erased, blemishes fully retouched away, over-smoothed face, blurred facial features, soft mushy edges, micro-detail erased, AI mannequin face, over-symmetrical features, oversized eyes, pointed nose, thick lips, wrong facial proportions, wrong head-to-body ratio, deformed face, distorted body, warped anatomy, malformed hands, fused fingers, extra fingers, amputated limbs, cropped subject, duplicated subject, identity drift, inconsistent appearance across frames, dead eyes, vacant stare, asymmetric eye direction, uncanny valley, frozen expression, micro-expression frozen out, mask-like face, facial muscles decoupled from each other, rubbery body, unnatural elasticity, cut-out edges, halo outline, subject-background separation, unclear overall silhouette, broken contours, low resolution, low sharpness, unclear details, blurry, out of focus.\n<Scene1>: erased material texture, uniform material across all objects, fabric weave erased, wall grain erased, surface scratches polished away, background detail erased, over-clean, sterile, cheap CG surfaces, fake reflections, noisy background, cluttered background, compression artifacts, blocky noise, color banding, crushed blacks, clipped highlights, insufficient scene depth, flat compressed space, confused foreground-midground-background layering, collapsed near-far relationship, incoherent composition. The scene is lit by flat lighting, light-shadow contrast flattened away, uniform ambient light, light from all directions at once, light source inconsistent with shadows, shadows disobeying physics, blown-out highlights, blown-out speculars, mirror-like sheen, oily specular, overexposed, underexposed, extreme contrast, oversaturated, garish color, unnatural color cast, inconsistent colors, inconsistent lighting, color shift between frames, shadow flickering.\n\n# Overlays\nsubtitles, watermark, station logo, burned-in text, letterboxing, black bars.\n\n# Summary\nGreasy over-smoothed AI-looking clip: plastic skin with pores erased, mask-like frozen face, erased material texture, flat directionless light with physics-defying shadows, a flat depthless space with collapsed layering, stiff mechanical motion drained of weight, and flat monotone audio; every fault is present from the first frame to the last.\n\n# Complete Description\nAt 0.0 seconds, and persisting unchanged until the clip ends: stiff motion, mechanical joints, robotic movement, puppet-like motion, jerky motion, stuttering motion, motion discontinuity, teleporting pose, motion arcs flattened into straight lines, follow-through cut off, weightless body, inertia-free movement, floating body, feet sliding off the ground, ground contact lost, gravity anomaly, unnatural cloth physics, unnatural fluid physics, unnatural smoke physics, unnatural flame physics, micro-motion erased, fingers locked rigid, head locked rigid, over-regular movement, exaggerated overacted motion, repeated identical motion, temporal inconsistency, ghosting, frame mismatch, edge flicker, local contour drift, texture swimming, skin texture erased mid-motion, skin-swap between frames. The camera language is mechanical and unmotivated: robotic camera move, camera starting and stopping at full speed, unnatural camera path, camera physically impossible, camera drifting off the subject of interest, abrupt camera jump, mistimed camera move, editing rhythm off, cuts too fast or too slow. Throughout, <flat monotone speech, evenly-read delivery, stress flattened out of every word, breath sounds stripped out, mechanical pauses, constant speaking rate, phrasing ignoring meaning, emotion mismatched with the picture, lip-sync drift, unstable timbre, pitch and age shifting within one speaker, mispronounced characters and numerals>, <clogged thin sound effects, washed out, high-frequency detail stripped out, out of sync with the picture>, and [flat low-bitrate music bed, off-key, cutting in and out, left unresolved].\n"
   },
-  "sampling_profile": "historical_i2v_delivery_0908_explicit_parameters"
+  "sampling_profile": "historical_i2v_delivery_0908_explicit_parameters",
+  "source_run": "long-rollout20-20261110",
+  "source_key": "I07",
+  "pe_sha256": "8011dbe200689fe7883e9552d300e607989c912ce164ecf2af7b1e965a4d3e26"
 }

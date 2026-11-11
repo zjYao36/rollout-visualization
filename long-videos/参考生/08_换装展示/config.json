@@ -1,9 +1,9 @@
 {
-  "key": "R08",
+  "key": "LR08",
   "kind": "r2v",
   "title": "换装展示",
   "source_id": "refprod_faa51af1f66b2244",
-  "folder": "参考生/08_换装展示",
+  "folder": "长视频_20261110/参考生/08_换装展示",
   "model": "vidu34_character2video_20261106",
   "user_prompt": "让图1的女孩分别换上图2的八套衣服并做模特动作展示，每次展示一套即可，要有不同景别的运镜，配乐为节奏欢快的BGM。",
   "original_seed": 69372113,
@@ -13,21 +13,24 @@
   "images": [
     {
       "slot": 1,
-      "path": "参考生/08_换装展示/conditions/image_01.png",
+      "path": "长视频_20261110/参考生/08_换装展示/conditions/image_01.png",
       "sha256": "fa17bae6d884956c09257c128d00d5ee0e7a9815828ddc9bce1ad435609a9ca5",
       "width": 987,
       "height": 1480
     },
     {
       "slot": 2,
-      "path": "参考生/08_换装展示/conditions/image_02.png",
+      "path": "长视频_20261110/参考生/08_换装展示/conditions/image_02.png",
       "sha256": "e78e11b022f3a8c2346e4fa0aa3527fb40dd067616878741dbf6520795b0a9a1",
       "width": 1920,
       "height": 1088
     }
   ],
   "seeds": [
-    42
+    42,
+    123,
+    2026,
+    3407
   ],
   "params": {
     "video": {
@@ -37,5 +40,8 @@
       "aspect_ratio": "9:16"
     }
   },
-  "sampling_profile": "model_deployment_default_diffusion"
+  "sampling_profile": "model_deployment_default_diffusion",
+  "source_run": "long-rollout20-20261110",
+  "source_key": "R08",
+  "pe_sha256": "090816c6738833122121c67c4a0cdf871075e356a1242b2327b17b77b06edcc3"
 }

@@ -1,9 +1,9 @@
 {
-  "key": "R07",
+  "key": "LR07",
   "kind": "r2v",
   "title": "敦煌飞天",
   "source_id": "refprod_02b9667b5c663bda",
-  "folder": "参考生/07_敦煌飞天",
+  "folder": "长视频_20261110/参考生/07_敦煌飞天",
   "model": "vidu34_character2video_20261106",
   "user_prompt": "15秒电影感古风历史短片。夜晚宫殿大殿内，烛火与金色灯影摇曳，空气中有细微尘埃。画面中央，一位唐代敦煌飞天舞姬缓缓旋身起舞，身穿胭脂色、石青色、月白色与浅金色交织的飘逸舞服，金线刺绣闪烁，半透明披帛随手臂在空中流动，如云雾般环绕。左侧站着一位秦代黑甲将军，皮革甲片沉重严整，铜扣反射微光，神情肃穆；右侧站着一位明代文官，身穿朱红飞鱼服，胸前飞鱼纹与海水江崖纹精致华丽，乌纱帽端正。镜头先从秦甲细节低角度推近，掠过朱红飞鱼服金线纹样，最后跟随舞姬披帛旋转到全景。氛围庄重、诗意、华丽，历史服饰细节真实",
   "original_seed": 716050175,
@@ -13,28 +13,31 @@
   "images": [
     {
       "slot": 1,
-      "path": "参考生/07_敦煌飞天/conditions/image_01.png",
+      "path": "长视频_20261110/参考生/07_敦煌飞天/conditions/image_01.png",
       "sha256": "66dd0a624bb71c74ece97970e70155ceb003fbf7d334359fa5e70b81fc645f7a",
       "width": 941,
       "height": 1603
     },
     {
       "slot": 2,
-      "path": "参考生/07_敦煌飞天/conditions/image_02.png",
+      "path": "长视频_20261110/参考生/07_敦煌飞天/conditions/image_02.png",
       "sha256": "6fff3ac776431dd14bd7b102366385487749312a7e3d6fa4cd5c0c4d00c87974",
       "width": 941,
       "height": 1672
     },
     {
       "slot": 3,
-      "path": "参考生/07_敦煌飞天/conditions/image_03.png",
+      "path": "长视频_20261110/参考生/07_敦煌飞天/conditions/image_03.png",
       "sha256": "084d8c61e6ce1a19d069171aacac968a0f283aa318cabf3d0e9b5dd65bef1105",
       "width": 941,
       "height": 1630
     }
   ],
   "seeds": [
-    42
+    42,
+    123,
+    2026,
+    3407
   ],
   "params": {
     "video": {
@@ -44,5 +47,8 @@
       "aspect_ratio": "9:16"
     }
   },
-  "sampling_profile": "model_deployment_default_diffusion"
+  "sampling_profile": "model_deployment_default_diffusion",
+  "source_run": "long-rollout20-20261110",
+  "source_key": "R07",
+  "pe_sha256": "6fc1f665124fd62906332af05bbee97105e852e7a351d57f549b6d5c73a51bb5"
 }

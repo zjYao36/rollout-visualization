@@ -1,9 +1,9 @@
 {
-  "key": "I02",
+  "key": "CI02",
   "kind": "i2v",
   "title": "竹林剑客三镜对打",
   "source_id": "i2vprod_34ea904f669e146b",
-  "folder": "图生/02_竹林剑客三镜对打",
+  "folder": "复杂运镜_20261110/图生/02_竹林剑客三镜对打",
   "model": "vidu34_img2video_20260912",
   "user_prompt": "镜头1(0-4秒)：大雨倾盆而下，两位剑客在竹林中对峙。他们握紧剑柄，白衣武士持剑竖立身前，黑衣武士刀锋斜指地面，雨水顺着刀刃滑落。两人摆出战斗姿态。\n\n镜头2(4-8秒)：镜头缓慢环绕两人。周围的竹叶在雨中飘摇。两人转头对视，眼神锐利。白衣武士冷声说道：\"你看起来还是一如既往的弱啊。\"\n\n镜头3(8-12秒)：白衣武士率先发难，一记直刺向黑衣武士。黑衣武士侧身闪避，反手一记横扫削向白衣武士腰间。白衣武士竖剑格挡，随即变招下劈，黑衣武士向后跃开。两人你来我往，剑光交错，白衣武士一记挑剑逼退对手，黑衣武士怒喝：\"那你猜猜今天究竟鹿死谁手！\"随即前冲劈砍，两剑在空中猛烈相撞，雨水被剑气劈开。\n\n音频：快节奏、强烈的中国传统打击乐(大鼓)混合着尖锐、极具侵略性的二胡旋律。",
   "original_seed": 77087,
@@ -13,14 +13,17 @@
   "images": [
     {
       "slot": 1,
-      "path": "图生/02_竹林剑客三镜对打/conditions/image_01.png",
+      "path": "复杂运镜_20261110/图生/02_竹林剑客三镜对打/conditions/image_01.png",
       "sha256": "a826d7dd132ff0d9e1a6171ce23d9be0778c186cb661cec50962b58b556cdfdf",
       "width": 1536,
       "height": 1024
     }
   ],
   "seeds": [
-    42
+    42,
+    123,
+    2026,
+    3407
   ],
   "params": {
     "video": {
@@ -98,5 +101,8 @@
     },
     "negative_prompt": "# Style and Tone\nOver-smoothed AI-generated look, cheap synthetic texture, greasy plastic sheen, over-beautified, over-graded, low quality.\n\n# Subject and Scene\n<Subject1>: waxy skin, plastic skin, silicone-doll skin, airbrushed skin, pores erased, skin texture wiped flat, fine hair erased, blemishes fully retouched away, over-smoothed face, blurred facial features, soft mushy edges, micro-detail erased, AI mannequin face, over-symmetrical features, oversized eyes, pointed nose, thick lips, wrong facial proportions, wrong head-to-body ratio, deformed face, distorted body, warped anatomy, malformed hands, fused fingers, extra fingers, amputated limbs, cropped subject, duplicated subject, identity drift, inconsistent appearance across frames, dead eyes, vacant stare, asymmetric eye direction, uncanny valley, frozen expression, micro-expression frozen out, mask-like face, facial muscles decoupled from each other, rubbery body, unnatural elasticity, cut-out edges, halo outline, subject-background separation, unclear overall silhouette, broken contours, low resolution, low sharpness, unclear details, blurry, out of focus.\n<Scene1>: erased material texture, uniform material across all objects, fabric weave erased, wall grain erased, surface scratches polished away, background detail erased, over-clean, sterile, cheap CG surfaces, fake reflections, noisy background, cluttered background, compression artifacts, blocky noise, color banding, crushed blacks, clipped highlights, insufficient scene depth, flat compressed space, confused foreground-midground-background layering, collapsed near-far relationship, incoherent composition. The scene is lit by flat lighting, light-shadow contrast flattened away, uniform ambient light, light from all directions at once, light source inconsistent with shadows, shadows disobeying physics, blown-out highlights, blown-out speculars, mirror-like sheen, oily specular, overexposed, underexposed, extreme contrast, oversaturated, garish color, unnatural color cast, inconsistent colors, inconsistent lighting, color shift between frames, shadow flickering.\n\n# Overlays\nsubtitles, watermark, station logo, burned-in text, letterboxing, black bars.\n\n# Summary\nGreasy over-smoothed AI-looking clip: plastic skin with pores erased, mask-like frozen face, erased material texture, flat directionless light with physics-defying shadows, a flat depthless space with collapsed layering, stiff mechanical motion drained of weight, and flat monotone audio; every fault is present from the first frame to the last.\n\n# Complete Description\nAt 0.0 seconds, and persisting unchanged until the clip ends: stiff motion, mechanical joints, robotic movement, puppet-like motion, jerky motion, stuttering motion, motion discontinuity, teleporting pose, motion arcs flattened into straight lines, follow-through cut off, weightless body, inertia-free movement, floating body, feet sliding off the ground, ground contact lost, gravity anomaly, unnatural cloth physics, unnatural fluid physics, unnatural smoke physics, unnatural flame physics, micro-motion erased, fingers locked rigid, head locked rigid, over-regular movement, exaggerated overacted motion, repeated identical motion, temporal inconsistency, ghosting, frame mismatch, edge flicker, local contour drift, texture swimming, skin texture erased mid-motion, skin-swap between frames. The camera language is mechanical and unmotivated: robotic camera move, camera starting and stopping at full speed, unnatural camera path, camera physically impossible, camera drifting off the subject of interest, abrupt camera jump, mistimed camera move, editing rhythm off, cuts too fast or too slow. Throughout, <flat monotone speech, evenly-read delivery, stress flattened out of every word, breath sounds stripped out, mechanical pauses, constant speaking rate, phrasing ignoring meaning, emotion mismatched with the picture, lip-sync drift, unstable timbre, pitch and age shifting within one speaker, mispronounced characters and numerals>, <clogged thin sound effects, washed out, high-frequency detail stripped out, out of sync with the picture>, and [flat low-bitrate music bed, off-key, cutting in and out, left unresolved].\n"
   },
-  "sampling_profile": "historical_i2v_delivery_0908_explicit_parameters"
+  "sampling_profile": "historical_i2v_delivery_0908_explicit_parameters",
+  "source_run": "complex-motion6-20261110",
+  "source_key": "I02",
+  "pe_sha256": "e529de586d950dab59895c2c5e14189104887ab6923c3e5f46fc31f7008cdb74"
 }

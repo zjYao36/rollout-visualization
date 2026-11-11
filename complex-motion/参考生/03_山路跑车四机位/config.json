@@ -1,9 +1,9 @@
 {
-  "key": "R03",
+  "key": "CR03",
   "kind": "r2v",
   "title": "山路跑车四机位",
   "source_id": "refprod_c637e6d9f278966f",
-  "folder": "参考生/03_山路跑车四机位",
+  "folder": "复杂运镜_20261110/参考生/03_山路跑车四机位",
   "model": "vidu34_character2video_20261106",
   "user_prompt": "顶级跑车商业广告，多机位连贯剪辑，纯视觉动作表现，禁止生成背景音乐、对白与旁白，音效需生成跑车引擎轰鸣，且需与车速、距离、镜头机位变化合理匹配。\n【总体场景与主体】：一辆极具流线型与攻击性的（图1）银色保时捷（Porsche 911 Spyder）跑车。环境是阴天、深邃崎岖的（图2）山谷盘山公路，空气中带有微凉的水汽，柏油路面湿滑。整体色调为冷峻的高级灰与暗青色。\n分镜 1（0–3秒 · 远景/航拍 Aerial WS）\n上帝视角俯瞰，（图1）跑车沿山谷蜿蜒公路单一方向匀速前行。引擎声遥远、低沉，作为空间定位。\n分镜 2（3–6秒 · 正面跟拍 Frontal Tracking MS）\n切至与（图1）跑车同向行驶的正面跟拍，距离约5米，车速与分镜1一致。车头清晰，LED大灯点亮，路面水花轻微溅起，背景（图2）山体因（图1）跑车在极速行驶时与山体的视角中而产生适度动态模糊的感觉。\n分镜 3（6–9秒 · 侧面平移 Side Panning Shot）\n（图1）跑车驶入弯道，镜头在弯道外侧做平行摇摄，（图1）车身主体保持清晰，背景树林、岩壁模糊；轮胎高速旋转，胎纹与湿地接触真实，水雾向后扬起，不遮挡整车轮廓。\n分镜 4（9–12秒 · 后方跟拍转远景 Rear Tracking → WS）\n切至（图1）跑车后方低角度跟拍，（图1）车辆沿弯道继续驶离，镜头先跟拍1.5秒后缓慢后拉并升高，（图1）跑车逐渐远去，尾灯在雾中变为两点红光后淡入（图2）山谷阴霾。引擎轰鸣随距离递减",
   "original_seed": 868741062,
@@ -13,21 +13,24 @@
   "images": [
     {
       "slot": 1,
-      "path": "参考生/03_山路跑车四机位/conditions/image_01.png",
+      "path": "复杂运镜_20261110/参考生/03_山路跑车四机位/conditions/image_01.png",
       "sha256": "c6f0a28b4cf8582eb51a110ac2ebb82105c10941104c7a401ec74bbd2238f2e7",
       "width": 2560,
       "height": 1440
     },
     {
       "slot": 2,
-      "path": "参考生/03_山路跑车四机位/conditions/image_02.png",
+      "path": "复杂运镜_20261110/参考生/03_山路跑车四机位/conditions/image_02.png",
       "sha256": "384a8442b7d24364fd18ab24ccc619efaf65020cdef005fea20b15d7bb0e8136",
       "width": 2560,
       "height": 1440
     }
   ],
   "seeds": [
-    42
+    42,
+    123,
+    2026,
+    3407
   ],
   "params": {
     "video": {
@@ -37,5 +40,8 @@
       "aspect_ratio": "9:16"
     }
   },
-  "sampling_profile": "model_deployment_default_diffusion"
+  "sampling_profile": "model_deployment_default_diffusion",
+  "source_run": "complex-motion6-20261110",
+  "source_key": "R03",
+  "pe_sha256": "36a2197b4447f755ec6630b7c18713f44dd6b3e4249c2740ae273383cfe94717"
 }

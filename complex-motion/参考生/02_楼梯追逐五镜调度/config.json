@@ -1,9 +1,9 @@
 {
-  "key": "R02",
+  "key": "CR02",
   "kind": "r2v",
   "title": "楼梯追逐五镜调度",
   "source_id": "refprod_d7679210ca67bf03",
-  "folder": "参考生/02_楼梯追逐五镜调度",
+  "folder": "复杂运镜_20261110/参考生/02_楼梯追逐五镜调度",
   "model": "vidu34_character2video_20261106",
   "user_prompt": "[@图1]是被追者，受伤缠着绷带，面部有伤痕；[@图2]是追击者，穿白T恤牛仔裤。在昏暗潮湿的楼梯间[@图3]，追逐戏开始。\n\n镜头1：被追者踉跄奔上楼梯，手撑扶手借力，身后脚步声逼近。\n\n镜头2：追击者快步跨阶追击，俯身冲刺，眼神紧锁定前方。\n\n镜头3：被追者在楼梯转折处被逼停，背靠墙壁喘息，脸上痛苦与恐惧交织。\n\n镜头4：追击者逼近，被追者突然发力，推倒垃圾桶阻挡，趁机转身继续逃。\n\n镜头5：两人在狭窄楼梯间追逐，脚步声、喘息声、扶手撞击声交织，湿滑地面溅起水花。\n\n整体节奏紧张激烈，动作连贯有力，光影在昏暗灯光下交错。",
   "original_seed": 852931829,
@@ -13,28 +13,31 @@
   "images": [
     {
       "slot": 1,
-      "path": "参考生/02_楼梯追逐五镜调度/conditions/image_01.png",
+      "path": "复杂运镜_20261110/参考生/02_楼梯追逐五镜调度/conditions/image_01.png",
       "sha256": "40e20e0578fa5a2733e035e559d43772d27a440d7812ac275f0142940e36ef8f",
       "width": 2560,
       "height": 1440
     },
     {
       "slot": 2,
-      "path": "参考生/02_楼梯追逐五镜调度/conditions/image_02.png",
+      "path": "复杂运镜_20261110/参考生/02_楼梯追逐五镜调度/conditions/image_02.png",
       "sha256": "a09be6b31381f65833690c651ddcd5b5324fa36bf851c8512ff81740b168874e",
       "width": 2560,
       "height": 1440
     },
     {
       "slot": 3,
-      "path": "参考生/02_楼梯追逐五镜调度/conditions/image_03.png",
+      "path": "复杂运镜_20261110/参考生/02_楼梯追逐五镜调度/conditions/image_03.png",
       "sha256": "1a3f754aab3d61e9cb2b1befcdcd58776c8bcace4c412be484056097d6948b99",
       "width": 2560,
       "height": 1440
     }
   ],
   "seeds": [
-    42
+    42,
+    123,
+    2026,
+    3407
   ],
   "params": {
     "video": {
@@ -44,5 +47,8 @@
       "aspect_ratio": "16:9"
     }
   },
-  "sampling_profile": "model_deployment_default_diffusion"
+  "sampling_profile": "model_deployment_default_diffusion",
+  "source_run": "complex-motion6-20261110",
+  "source_key": "R02",
+  "pe_sha256": "9825c867b92a50b7bdee6b02cd28c93da1d724c800eab03e05f649d733c9b9bd"
 }

@@ -1,9 +1,9 @@
 {
-  "key": "I09",
+  "key": "LI09",
   "kind": "i2v",
   "title": "猫条广告",
   "source_id": "i2vprod_1ab435eb784613ca",
-  "folder": "图生/09_猫条广告",
+  "folder": "长视频_20261110/图生/09_猫条广告",
   "model": "vidu34_img2video_20260912",
   "user_prompt": "女生捏着猫条在喂小猫，紧接着切近景特写，只拍猫脸小口抿食猫条、胡须轻轻颤动，女生手指不自觉微微放慢挪动猫条，温柔地轻声说到：「日常拌粮、解馋都合适」，最后镜头缓缓收至半身全景，暖阳漫进房间，猫咪吃饱后蹭蹭主人手心，画面弹出花字「鲜肉猫条，一招搞定挑食小猫咪」，写实生活化广告质感。",
   "original_seed": 43634,
@@ -13,14 +13,17 @@
   "images": [
     {
       "slot": 1,
-      "path": "图生/09_猫条广告/conditions/image_01.png",
+      "path": "长视频_20261110/图生/09_猫条广告/conditions/image_01.png",
       "sha256": "67ad9c3156d03fc6b76c7bb16ce8436201c56f16f0acb6798a1b9ccf6f3a51a4",
       "width": 2560,
       "height": 1440
     }
   ],
   "seeds": [
-    42
+    42,
+    123,
+    2026,
+    3407
   ],
   "params": {
     "video": {
@@ -98,5 +101,8 @@
     },
     "negative_prompt": "# Style and Tone\nOver-smoothed AI-generated look, cheap synthetic texture, greasy plastic sheen, over-beautified, over-graded, low quality.\n\n# Subject and Scene\n<Subject1>: waxy skin, plastic skin, silicone-doll skin, airbrushed skin, pores erased, skin texture wiped flat, fine hair erased, blemishes fully retouched away, over-smoothed face, blurred facial features, soft mushy edges, micro-detail erased, AI mannequin face, over-symmetrical features, oversized eyes, pointed nose, thick lips, wrong facial proportions, wrong head-to-body ratio, deformed face, distorted body, warped anatomy, malformed hands, fused fingers, extra fingers, amputated limbs, cropped subject, duplicated subject, identity drift, inconsistent appearance across frames, dead eyes, vacant stare, asymmetric eye direction, uncanny valley, frozen expression, micro-expression frozen out, mask-like face, facial muscles decoupled from each other, rubbery body, unnatural elasticity, cut-out edges, halo outline, subject-background separation, unclear overall silhouette, broken contours, low resolution, low sharpness, unclear details, blurry, out of focus.\n<Scene1>: erased material texture, uniform material across all objects, fabric weave erased, wall grain erased, surface scratches polished away, background detail erased, over-clean, sterile, cheap CG surfaces, fake reflections, noisy background, cluttered background, compression artifacts, blocky noise, color banding, crushed blacks, clipped highlights, insufficient scene depth, flat compressed space, confused foreground-midground-background layering, collapsed near-far relationship, incoherent composition. The scene is lit by flat lighting, light-shadow contrast flattened away, uniform ambient light, light from all directions at once, light source inconsistent with shadows, shadows disobeying physics, blown-out highlights, blown-out speculars, mirror-like sheen, oily specular, overexposed, underexposed, extreme contrast, oversaturated, garish color, unnatural color cast, inconsistent colors, inconsistent lighting, color shift between frames, shadow flickering.\n\n# Overlays\nsubtitles, watermark, station logo, burned-in text, letterboxing, black bars.\n\n# Summary\nGreasy over-smoothed AI-looking clip: plastic skin with pores erased, mask-like frozen face, erased material texture, flat directionless light with physics-defying shadows, a flat depthless space with collapsed layering, stiff mechanical motion drained of weight, and flat monotone audio; every fault is present from the first frame to the last.\n\n# Complete Description\nAt 0.0 seconds, and persisting unchanged until the clip ends: stiff motion, mechanical joints, robotic movement, puppet-like motion, jerky motion, stuttering motion, motion discontinuity, teleporting pose, motion arcs flattened into straight lines, follow-through cut off, weightless body, inertia-free movement, floating body, feet sliding off the ground, ground contact lost, gravity anomaly, unnatural cloth physics, unnatural fluid physics, unnatural smoke physics, unnatural flame physics, micro-motion erased, fingers locked rigid, head locked rigid, over-regular movement, exaggerated overacted motion, repeated identical motion, temporal inconsistency, ghosting, frame mismatch, edge flicker, local contour drift, texture swimming, skin texture erased mid-motion, skin-swap between frames. The camera language is mechanical and unmotivated: robotic camera move, camera starting and stopping at full speed, unnatural camera path, camera physically impossible, camera drifting off the subject of interest, abrupt camera jump, mistimed camera move, editing rhythm off, cuts too fast or too slow. Throughout, <flat monotone speech, evenly-read delivery, stress flattened out of every word, breath sounds stripped out, mechanical pauses, constant speaking rate, phrasing ignoring meaning, emotion mismatched with the picture, lip-sync drift, unstable timbre, pitch and age shifting within one speaker, mispronounced characters and numerals>, <clogged thin sound effects, washed out, high-frequency detail stripped out, out of sync with the picture>, and [flat low-bitrate music bed, off-key, cutting in and out, left unresolved].\n"
   },
-  "sampling_profile": "historical_i2v_delivery_0908_explicit_parameters"
+  "sampling_profile": "historical_i2v_delivery_0908_explicit_parameters",
+  "source_run": "long-rollout20-20261110",
+  "source_key": "I09",
+  "pe_sha256": "2fd8c17a9f31111e6fe0f93320914260cd234df202bad7c6bd4141da8045ad78"
 }
