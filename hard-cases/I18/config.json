@@ -112,6 +112,7 @@
   "sampling_profile": "historical_i2v_delivery_0908_explicit_parameters",
   "pe": {
     "mode": "automatic_first_seed_then_frozen",
-    "first_seed": 42
+    "first_seed": 42,
+    "caption_sha256": "02b75ad24325174c78891c27dc47951448c389241308f62d98e25f188cefedf7"
   }
 }
