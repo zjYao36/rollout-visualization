@@ -1,0 +1,66 @@
+{
+  "key": "R07",
+  "kind": "r2v",
+  "title": "换装舞蹈说唱",
+  "source_id": "refprod_a2a1ab001fc3e123",
+  "difficulty": "困难",
+  "difficulty_reason": "主体服装场景三图绑定、舞蹈与快速角度切换",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvli8Mq6gqMu",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/07_换装舞蹈说唱",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "中景，图1主体穿着图2中的服装，在图3场景中跳舞和说唱，表演充满活力的舞蹈动作，摄像机随着舞蹈节奏移动，快速角度切换",
+  "original_seed": 87518922,
+  "duration": 11.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/07_换装舞蹈说唱/conditions/image_01.png",
+      "width": 1376,
+      "height": 768,
+      "sha256": "62c3e8c51b813ed1a23cae3f060fcfc88454b8687c5d28bd123fa4dead3255e4"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/07_换装舞蹈说唱/conditions/image_02.png",
+      "width": 1376,
+      "height": 768,
+      "sha256": "9047c27e2df91ba596bdd1a5067c2d08eb834c20a822b8aeb59c5301dde88623"
+    },
+    {
+      "slot": 3,
+      "path": "参考生/07_换装舞蹈说唱/conditions/image_03.png",
+      "width": 1376,
+      "height": 768,
+      "sha256": "3447b49470085febf0b818dd5c14b4711746e3dc9f42f1b77d03b77305033d52"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 11.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "original_source_caption_after_two_terminal_RecaptionFailed",
+    "first_seed": 42,
+    "caption_sha256": "62ae27ef613423a56c9e3c90ec0d6e866f84e80421e1d428284f03cdb3565735",
+    "source_field": "recaption_4step_v038",
+    "source_record": "recvli8Mq6gqMu"
+  }
+}

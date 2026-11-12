@@ -1,0 +1,25 @@
+# Style and Tone
+A playful domestic pet cinematic live-action short video carries a lighthearted, cozy and comedic atmosphere with a pervading sense of mischief.
+
+# Subject and Scene
+<Subject1>: Short-haired black domestic cat with glossy solid-black fur, pale yellow-green eyes, upright pointed ears, long black tail, and white whiskers; compact, alert build.
+<Subject2>: Short-haired white domestic cat with dense pure-white fur, pale yellow-green eyes, pink inner ears and nose, long white whiskers, and a white tail; rounded, curious build.
+<Subject3>: Open rectangular brown corrugated cardboard box standing upright on the floor, empty inside, with folded top flaps pressed outward, visible corrugated edges, and a matte kraft-brown exterior.
+<Scene1>: Bright domestic living-room interior with warm honey-brown hardwood floorboards showing visible grain, a pale off-white back wall with a white baseboard, a light brown woven plant pot holding a broad-leaf green houseplant at the back left, a partial medium-brown wooden dresser with a dark round drawer knob at the far left, and soft beige and off-white draped curtains at the back right; soft natural daylight filters in from the right, casting gentle shadows across the wood floor.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+In a sunlit living room <Scene1>, a black cat <Subject1> and a white cat <Subject2> face each other across an upright cardboard box <Subject3>, peer over its rim, then leap into it together, tipping the box over and tumbling out onto the hardwood floor in a playful scuffle as the tracking camera follows the whole sequence.
+
+# Complete Description
+At 0.0 seconds, <soft indoor room tone with faint distant bird chirp outside the curtains>. A locked-off eye-level wide shot frames <Scene1> with <Subject3> centered on the hardwood floor, its open top facing upward and empty brown interior visible; <Subject1> sits upright on its haunches at frame left with both front paws resting on the left rim of the box, tail stretched straight out behind on the floor, head turned right to stare across the box at <Subject2>, while <Subject2> mirrors the pose at frame right with both white front paws hooked over the right rim, hind paws tucked beneath its body and tail laid out to the right, head turned left to meet <Subject1>'s gaze. Both cats hold still for a beat, ears forward and whiskers fanned, their eyes locked across the box width; then their hindquarters tense, tails twitch once, and the camera begins a smooth forward tracking move as both cats push off the floor with their back legs and launch upward over the rim in unison <light claw scrabbling on cardboard, two quick playful meows>. Their front paws clear the edge first, bodies arching over the open top, and they drop into the empty interior together, landing on the cardboard bottom with <soft thuds of paws on cardboard followed by a louder hollow thump> as the box rocks sharply backward under their combined weight.
+
+At 2.8 seconds, <cardboard scraping across wood, continuing playful meows and paw friction>. The camera stays with the action in a continuous side-on tracking shot that lowers and follows the tipping motion. <Subject3> tilts forward onto its front face, the open top rotating toward the floor as the back edge lifts; inside the tipping box, <Subject1> and <Subject2> tumble against one another in a tangle of black and white fur, paws scrambling against the corrugated walls <rapid claw scrabbling inside cardboard>. The leading edge of the box hits the floor and skids a short distance forward with a <rough cardboard scrape on hardwood>, then the whole box falls onto its side facing the camera, its open mouth now pointing toward the lens, and both cats spill out over the lowered rim in a rolling tumble: <Subject1> emerges first at frame left, landing on its side with a <soft muffled thud on wood> before righting itself, while <Subject2> rolls out just after at frame right, white fur ruffled, also landing with a <soft thud> and immediately pushing up onto its paws. The camera pulls back slightly and keeps both cats in frame as they recover on the floor in front of the now-horizontal box, facing each other again with ears alert and tails flicking; <light paw-pad friction on the floor, short playful chirps between the two cats> continue as they settle into a low playful crouch on either side of the overturned <Subject3>, and finally the frame holds on the two cats facing each other across the fallen box with the warm daylight still falling across the wood floor.
+
+# Additional Information
+## Duration
+8.0 seconds
+## Aspect Ratio
+16:9

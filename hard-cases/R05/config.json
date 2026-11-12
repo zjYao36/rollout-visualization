@@ -1,0 +1,57 @@
+{
+  "key": "R05",
+  "kind": "r2v",
+  "title": "太空竞技场对波",
+  "source_id": "refprod_c745cd2e51664175",
+  "difficulty": "困难",
+  "difficulty_reason": "双主体能量碰撞、护盾形变和多景别运镜",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvli8Mq6anrn",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/05_太空竞技场对波",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "史诗级科幻战斗场景，设定在巨大的圆形太空竞技场中（来自@图片2）。两名超能力战士分别站在竞技场平台两侧对峙。他们同时释放毁灭性能量攻击——一方凝聚旋转的青蓝色电磁漩涡伴随电弧闪烁，另一方爆发出狂暴的橙红色烈焰冲击波。两股力量在竞技场正中心猛烈碰撞（匹配@图片1的视觉效果）：强烈的蓝橙对比色、致盲的白热核心爆炸、晶体碎屑向外崩裂、粒子火花向四面八方喷射并带镜头光晕效果。竞技场的能量护盾在冲击压力下剧烈震颤并出现裂纹。运镜设计：起幅为两人全景建立镜头，然后快速推镜冲向碰撞点，切换为围绕爆炸漩涡的360度动态环绕镜头，在撞击巅峰时刻进入慢动作展示冲击波在太空中扩散的涟漪效果，随后快速拉远展示两名角色被震飞。附近小行星带的碎片被卷入能量湍流中翻滚。电影级3D动画风格，体积光渲染，远处恒星的耶稣光效，快速运动时的动态模糊，4K画质，时长10秒。",
+  "original_seed": 604111528,
+  "duration": 10.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/05_太空竞技场对波/conditions/image_01.jpg",
+      "width": 1376,
+      "height": 768,
+      "sha256": "824c51a35a4d39beaab58177fbfe4560e5f16a761ccdc0bd1404eb2160063a6c"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/05_太空竞技场对波/conditions/image_02.png",
+      "width": 1376,
+      "height": 768,
+      "sha256": "99b981ee42805c3eafae861b6337d6a2d7e0679af9b41231c7c358b5bf388075"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 10.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "51413be8bec5333f16246e136db283cdd9c7fee8afd949cd6f16689858846550"
+  }
+}

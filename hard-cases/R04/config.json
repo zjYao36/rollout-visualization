@@ -1,0 +1,57 @@
+{
+  "key": "R04",
+  "kind": "r2v",
+  "title": "雨夜屋顶剑斗",
+  "source_id": "refprod_993026d56308e2a5",
+  "difficulty": "困难",
+  "difficulty_reason": "动作与场景参考绑定、武器接触和慢动作",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvli8Mq6AbtJ",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/04_雨夜屋顶剑斗",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "图片1中的冷兵器格斗动作应用到图片2的场景，两名角色进行激烈剑斗，剑刃碰撞产生明亮火花，雨水随动作飞溅，湿润的衣物和瓦片带有真实的反光纹理。8秒镜头，动态手持跟拍动作，碰撞瞬间用1/3速慢动作.",
+  "original_seed": 815302369,
+  "duration": 8.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/04_雨夜屋顶剑斗/conditions/image_01.png",
+      "width": 1376,
+      "height": 768,
+      "sha256": "8dfd5003692c43be2abaca4a56f1e6c78633967de410c0d63ca847acfa50baf1"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/04_雨夜屋顶剑斗/conditions/image_02.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0dfcbf161c1e1ac3ddf3a4b3b22e9ac86215438b1e74f30fd2d922c0ea46f23e"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 8.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "93baddb0e00bee248ee08bc14191719e66a73b03639d65c6dda932d98ac907d1"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "key": "R13",
+  "kind": "r2v",
+  "title": "巨鲨破海环绕",
+  "source_id": "refprod_4a88af4a028f04ab",
+  "difficulty": "困难",
+  "difficulty_reason": "水下至水上连续运镜、巨鲨水花和舰队尺度",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvqoOx35HnKg",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/13_巨鲨破海环绕",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "一条巨大的鲨鱼怪物从图1帆船舰队旁的海面破水而出，张开满利齿的巨口直冲天际。镜头从海底仰拍开始，跟随鲨鱼向上的轨迹冲破水面，在鲨鱼达到最高点时旋转展现海天一色的全景，再随鲨鱼重重砸回海面，浪花四溅如暴雨倾泻，砸向船身。镜头切到船上的水手惊恐抓牢桅杆，白色横帆在海风中鼓胀，船身剧烈摇晃。写实风格，冷色调，体现震撼的航海遇难氛围。",
+  "original_seed": 174846379,
+  "duration": 10.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/13_巨鲨破海环绕/conditions/image_01.png",
+      "width": 2560,
+      "height": 1440,
+      "sha256": "4aef8d1c4216a05768abd417e23e371f10d0318b91143f276c4bff8f3d3a5e23"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/13_巨鲨破海环绕/conditions/image_02.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "641b74f3498ec43a655d7fe80846eeeb30dc28177f80e4af24dec0937d3199fb"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 10.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "cb84db6df324275ff4e902af00988a9bbd5fb27c58be4bc3f260d216cd063d66"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "key": "R08",
+  "kind": "r2v",
+  "title": "翠玉机房突围",
+  "source_id": "refprod_602a8441217eecdd",
+  "difficulty": "困难",
+  "difficulty_reason": "四图角色场景绑定、穿窗、雨中跳跃劈砍",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvmelKXUFyfP",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/08_翠玉机房突围",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "《JADE CHIMERA》电影级多镜头序列。\n\n镜头1：[@图3]竹林服务器机房内部，主角Yu-Lin [@图1]穿着黑色战术服潜行穿过发光的绿色垂直服务器柱。\n\n镜头2：她抽出双剑，翠绿色的剑刃反射着霓虹绿光。\n\n镜头3：Yu-Lin撞碎玻璃窗冲入大雨磅礴的磁悬浮广场[@图4]。\n\n镜头4：高速动作，Yu-Lin对一名白甲霸权哨兵[@图2]执行强力跳跃劈砍，碰撞瞬间爆发巨量橙色火花。背景中其他哨兵正举枪瞄准。\n\n视觉效果：持续的大雨，Unreal Engine 5高画质风格",
+  "original_seed": 125022243,
+  "duration": 8.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/08_翠玉机房突围/conditions/image_01.jpg",
+      "width": 981,
+      "height": 486,
+      "sha256": "d9a3f208152f9a98d56e73cc75c209b4a735357f145b02c0cfa730e64fb7ca36"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/08_翠玉机房突围/conditions/image_02.jpg",
+      "width": 981,
+      "height": 481,
+      "sha256": "16d4c4c23108df0e65ecf8c63bccde63929bc71d794db7aba909b187a3540650"
+    },
+    {
+      "slot": 3,
+      "path": "参考生/08_翠玉机房突围/conditions/image_03.jpg",
+      "width": 995,
+      "height": 549,
+      "sha256": "6d271e29eae83e7c4683f4ac1fa2b7a2edeaa317e25386eaa8f13d749ced089f"
+    },
+    {
+      "slot": 4,
+      "path": "参考生/08_翠玉机房突围/conditions/image_04.jpg",
+      "width": 987,
+      "height": 495,
+      "sha256": "c4a7e7c29bdd6b2d2ac2cbca70fbd62bb0859dd1a121403ff081437b89bbabf9"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 8.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "013f163add8fb0957cae3fcb63991bbe7a808f4d5e6be07a7d37399fd2d2f5be"
+  }
+}

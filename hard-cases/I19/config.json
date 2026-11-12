@@ -1,0 +1,118 @@
+{
+  "key": "I19",
+  "kind": "i2v",
+  "title": "魔法奔跑转舞台",
+  "source_id": "i2vprod_218c45b8993f643e",
+  "difficulty": "困难",
+  "difficulty_reason": "奔跑、群体变形与快速横移转场",
+  "source": {
+    "table": "总表",
+    "table_id": "tbl5qKHqftnd1cWJ",
+    "record_id": "recvmeEwJb4ZmC",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "图生/19_魔法奔跑转舞台",
+  "model": "vidu34_img2video_20260912",
+  "user_prompt": "镜头跟随主角双腿快速有力的朝着店铺跑去，门前的人们使用魔法变成红色绸缎惊慌逃窜，突然镜头快速朝右横推，捕捉到女人们在舞台上热情的跳舞，壮汉爬在围栏观看表演，随后开心的拿起酒葫芦，丝滑顺畅东方舞蹈，东方怪诞美学，厚涂笔触，动态模糊，非传统构图，打破常规，诡异又戏剧性夸张动画动作，极致张力表现，镜头语言惊艳。",
+  "original_seed": 58694,
+  "duration": 8.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "图生/19_魔法奔跑转舞台/conditions/image_01.png",
+      "width": 2560,
+      "height": 1440,
+      "sha256": "c1d1474448bf6393b240d1570b88d00097b634126bc1631f958950f0086d6d72"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "resolution": "area:960",
+      "duration": 8.0,
+      "fps": 24
+    },
+    "diffusion": {
+      "steps": 37,
+      "timeshift": 22.0,
+      "scheduler": "euler",
+      "guidance": {
+        "type": "CFG",
+        "scale": {
+          "type": "Stepwise",
+          "breakpoints": [
+            0.693636
+          ],
+          "values": [
+            6.0,
+            0.0
+          ]
+        }
+      },
+      "sparge_attn_topk": 1.0,
+      "sampling": {
+        "audio": {
+          "timeshift": 1.0,
+          "guidance": {
+            "type": "CFG",
+            "scale": 3.0
+          }
+        }
+      },
+      "ts": [
+        0.0,
+        0.027027027,
+        0.0540540541,
+        0.0810810811,
+        0.1081081081,
+        0.1351351351,
+        0.1621621622,
+        0.1891891892,
+        0.2162162162,
+        0.2432432432,
+        0.2702702703,
+        0.2972972973,
+        0.3243243243,
+        0.3513513514,
+        0.3783783784,
+        0.4054054054,
+        0.4324324324,
+        0.4594594595,
+        0.4864864865,
+        0.5135135135,
+        0.5405405405,
+        0.5675675676,
+        0.5945945946,
+        0.6216216216,
+        0.6486486486,
+        0.6756756757,
+        0.7027027027,
+        0.7297297297,
+        0.7567567568,
+        0.7837837838,
+        0.8108108108,
+        0.8378378378,
+        0.8648648649,
+        0.8918918919,
+        0.9189189189,
+        0.9459459459,
+        0.972972973,
+        1.0
+      ]
+    },
+    "negative_prompt": "# Style and Tone\nOver-smoothed AI-generated look, cheap synthetic texture, greasy plastic sheen, over-beautified, over-graded, low quality.\n\n# Subject and Scene\n<Subject1>: waxy skin, plastic skin, silicone-doll skin, airbrushed skin, pores erased, skin texture wiped flat, fine hair erased, blemishes fully retouched away, over-smoothed face, blurred facial features, soft mushy edges, micro-detail erased, AI mannequin face, over-symmetrical features, oversized eyes, pointed nose, thick lips, wrong facial proportions, wrong head-to-body ratio, deformed face, distorted body, warped anatomy, malformed hands, fused fingers, extra fingers, amputated limbs, cropped subject, duplicated subject, identity drift, inconsistent appearance across frames, dead eyes, vacant stare, asymmetric eye direction, uncanny valley, frozen expression, micro-expression frozen out, mask-like face, facial muscles decoupled from each other, rubbery body, unnatural elasticity, cut-out edges, halo outline, subject-background separation, unclear overall silhouette, broken contours, low resolution, low sharpness, unclear details, blurry, out of focus.\n<Scene1>: erased material texture, uniform material across all objects, fabric weave erased, wall grain erased, surface scratches polished away, background detail erased, over-clean, sterile, cheap CG surfaces, fake reflections, noisy background, cluttered background, compression artifacts, blocky noise, color banding, crushed blacks, clipped highlights, insufficient scene depth, flat compressed space, confused foreground-midground-background layering, collapsed near-far relationship, incoherent composition. The scene is lit by flat lighting, light-shadow contrast flattened away, uniform ambient light, light from all directions at once, light source inconsistent with shadows, shadows disobeying physics, blown-out highlights, blown-out speculars, mirror-like sheen, oily specular, overexposed, underexposed, extreme contrast, oversaturated, garish color, unnatural color cast, inconsistent colors, inconsistent lighting, color shift between frames, shadow flickering.\n\n# Overlays\nsubtitles, watermark, station logo, burned-in text, letterboxing, black bars.\n\n# Summary\nGreasy over-smoothed AI-looking clip: plastic skin with pores erased, mask-like frozen face, erased material texture, flat directionless light with physics-defying shadows, a flat depthless space with collapsed layering, stiff mechanical motion drained of weight, and flat monotone audio; every fault is present from the first frame to the last.\n\n# Complete Description\nAt 0.0 seconds, and persisting unchanged until the clip ends: stiff motion, mechanical joints, robotic movement, puppet-like motion, jerky motion, stuttering motion, motion discontinuity, teleporting pose, motion arcs flattened into straight lines, follow-through cut off, weightless body, inertia-free movement, floating body, feet sliding off the ground, ground contact lost, gravity anomaly, unnatural cloth physics, unnatural fluid physics, unnatural smoke physics, unnatural flame physics, micro-motion erased, fingers locked rigid, head locked rigid, over-regular movement, exaggerated overacted motion, repeated identical motion, temporal inconsistency, ghosting, frame mismatch, edge flicker, local contour drift, texture swimming, skin texture erased mid-motion, skin-swap between frames. The camera language is mechanical and unmotivated: robotic camera move, camera starting and stopping at full speed, unnatural camera path, camera physically impossible, camera drifting off the subject of interest, abrupt camera jump, mistimed camera move, editing rhythm off, cuts too fast or too slow. Throughout, <flat monotone speech, evenly-read delivery, stress flattened out of every word, breath sounds stripped out, mechanical pauses, constant speaking rate, phrasing ignoring meaning, emotion mismatched with the picture, lip-sync drift, unstable timbre, pitch and age shifting within one speaker, mispronounced characters and numerals>, <clogged thin sound effects, washed out, high-frequency detail stripped out, out of sync with the picture>, and [flat low-bitrate music bed, off-key, cutting in and out, left unresolved].\n"
+  },
+  "sampling_profile": "historical_i2v_delivery_0908_explicit_parameters",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "e97360a815a4749012a61e00767afae7e225513a5cf10b1b81c2af5ef8e8bffe"
+  }
+}

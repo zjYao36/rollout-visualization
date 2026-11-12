@@ -1,0 +1,64 @@
+{
+  "key": "R12",
+  "kind": "r2v",
+  "title": "高空玻璃幕墙特工",
+  "source_id": "refprod_a90db935aa6e0d87",
+  "difficulty": "困难",
+  "difficulty_reason": "高空悬索受力、人物蹬墙和玻璃空间关系",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvqovxQnnj09",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/12_高空玻璃幕墙特工",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "在数千米的高空中，阴天漫射光洒在图3摩天大楼外墙的金属清洁吊篮上。图1身穿战术背心的精壮男特工正死死抓住悬索，身体悬空。突然，特工的双脚猛蹬玻璃幕墙，第一人称主观视角随他的身体被钢索荡起，镜头产生剧烈晃动的旋转感，铅灰色的天空与地面高楼快速颠倒旋转。当视线重新对焦，图2身穿黑色防雨风衣的面具杀手在相邻的钢索上迎面荡来，他右手反握匕首，在空中向图1特工猛刺过去。特工抬起左手格挡，他的防割手套与钢索剧烈摩擦滑行，瞬间迸发出的一连串蓝色静电火花，照亮了玻璃上的无数雨痕（金属摩擦声与电流滋滋声）。两人的身体在空中交错而过，镜头跟随下落的雨滴滑向幽深的城市深渊。冷冽的金属质感、漫射的铅灰色光线与短路火花的冷光交织，营造出极度紧张的生死瞬间。",
+  "original_seed": 808764553,
+  "duration": 10.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/12_高空玻璃幕墙特工/conditions/image_01.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "cb877490ded618e76326b0339729baa72d4200d72ef24e1c4a4f0a224e7adf07"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/12_高空玻璃幕墙特工/conditions/image_02.jpg",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "4b33547c21342566a8350b59a89693b9754956b47d253450973081102122483b"
+    },
+    {
+      "slot": 3,
+      "path": "参考生/12_高空玻璃幕墙特工/conditions/image_03.jpg",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "2a53456617ee3252f0ad0614839a1008a2f980167ae086f14643ac4f3259cb22"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 10.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "760f0c0d952852b571c3034b1cd5a8a307c57b1d0b5e7c65a61733f42913c693"
+  }
+}

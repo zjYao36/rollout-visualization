@@ -1,0 +1,57 @@
+{
+  "key": "R20",
+  "kind": "r2v",
+  "title": "雕像激光材质扫描",
+  "source_id": "refprod_8cc35515bfde8a87",
+  "difficulty": "困难",
+  "difficulty_reason": "人物场景绑定、激光位置和材质质变边界",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvrBreQ4gMA4",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/20_雕像激光材质扫描",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "在夜晚昏暗的博物馆展厅里，大卫雕像静静立在聚光灯下。图1人物站在雕像旁，神情冷静专业，注视着扫描过程。加入图2激光扫描效果参考：一条极其纤薄的荧光绿色水平扫描激光从上到下缓慢扫过胸像。激光所过之处形成清晰的质变分界线，激光上方仍是粗糙哑光大理石，激光下方则变为极其光滑、带轻微反光质感的白色材质。要求扫描过渡干净、无缝且符合物理逻辑。电影感低调布光，柔和阴影，哑光与高光材质形成强烈对比，博物馆氛围克制优雅，构图精致，材质变化真实",
+  "original_seed": 541993397,
+  "duration": 10.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/20_雕像激光材质扫描/conditions/image_01.png",
+      "width": 2560,
+      "height": 1440,
+      "sha256": "6651e736bcb5386200a76e4ddcbaf95eb59c66e18f83007a5511d2818eb8888d"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/20_雕像激光材质扫描/conditions/image_02.png",
+      "width": 2560,
+      "height": 1440,
+      "sha256": "085092d9e1eefe4bd94ed7c3c4438d4573ce30bb0755beb45ae1c158d599f4e4"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 10.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "2fe3534f495f74b12ff5c67cd746ef4fcdb8e9e87db10c85d1d7228964c61404"
+  }
+}

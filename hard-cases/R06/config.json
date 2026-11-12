@@ -1,0 +1,71 @@
+{
+  "key": "R06",
+  "kind": "r2v",
+  "title": "炼金室魔法仪式",
+  "source_id": "refprod_abdfb4c9c8c35588",
+  "difficulty": "困难",
+  "difficulty_reason": "四图道具、连续四镜头和粒子爆发",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvli8Mq6jKI1",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/06_炼金室魔法仪式",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "15秒黑暗奇幻电影序列，4个无缝镜头：[0-3秒] 广角 - 兜帽巫师走进昏暗炼金室，桌上单支摇曳蜡烛，尘埃在琥珀色光中漂浮。[3-6秒] 中景 - 巫师走向桌子，触碰带发光紫色符文的魔法书，书翻开露出炼金圆阵，蓝色能量散发。[6-9秒] 特写 - 用红宝石短剑在魔法书上空进行仪式，水晶球旋转白雾，黄铜浑天仪转动，能量积聚。[9-15秒] 拉远 - 巫师双手高举，桌面上巨大的紫蓝色魔法爆炸，旋转光漩涡与火花四溅，剪影映衬光辉。体积光、粒子特效、35mm胶片品质。",
+  "original_seed": 26026084,
+  "duration": 15.0,
+  "aspect_ratio": "9:16",
+  "expected_ratio": 0.5625,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/06_炼金室魔法仪式/conditions/image_01.jpg",
+      "width": 4096,
+      "height": 4096,
+      "sha256": "65405efdf35c2d2d7ffec2dd04897bf48fed785db94d5eea2b4b8376ce260b57"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/06_炼金室魔法仪式/conditions/image_02.jpg",
+      "width": 4096,
+      "height": 4096,
+      "sha256": "02522c5877cfdf52130b059cb6459708947977ccc4ddda59b9f8bc855c4bcba9"
+    },
+    {
+      "slot": 3,
+      "path": "参考生/06_炼金室魔法仪式/conditions/image_03.jpg",
+      "width": 3072,
+      "height": 5504,
+      "sha256": "597c897134af6f02c4e74b0bfa24d4abd63216330e41dd13a95e534b223c68ff"
+    },
+    {
+      "slot": 4,
+      "path": "参考生/06_炼金室魔法仪式/conditions/image_04.jpg",
+      "width": 4096,
+      "height": 4096,
+      "sha256": "98a682cee90c6c081886e09c07185863505f6ea6fdf9bedb95d5a117ee26274a"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 15.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "9:16"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "5e58c51d701cea93c91411cebb0bbbeff2c3994cf4b0df2749877b25216e5058"
+  }
+}

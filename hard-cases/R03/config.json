@@ -1,0 +1,71 @@
+{
+  "key": "R03",
+  "kind": "r2v",
+  "title": "机械手能量对接",
+  "source_id": "refprod_dec5a0e1f8f2d6ae",
+  "difficulty": "困难",
+  "difficulty_reason": "四图物体绑定、机械关节和环绕运镜",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvlDkvIbxnXj",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/03_机械手能量对接",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "在图4的科幻场景中，图1主体悬浮于画面正中央，周围弥漫着冷色能量光晕。低沉而持续的能量嗡鸣充斥空间，空气中回荡着微弱的电子环境音。\n图2机械手稳定地握着图3主体，对准图1主体缓缓移动，金属关节发出精密而细微的机械运转声。镜头围绕两者平滑旋转，伴随着轻微的推进风声与逐渐增强的能量脉冲音，营造出紧张而高科技的科幻氛围。",
+  "original_seed": 234215727,
+  "duration": 8.0,
+  "aspect_ratio": "9:16",
+  "expected_ratio": 0.5625,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/03_机械手能量对接/conditions/image_01.png",
+      "width": 960,
+      "height": 960,
+      "sha256": "f1ec3550523aa344ffb94b68dabcb29665399ff5971fa1e61d00deb56e6b20be"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/03_机械手能量对接/conditions/image_02.png",
+      "width": 1282,
+      "height": 718,
+      "sha256": "9da6a9a3d939ac42887ef95ed9af2f4753ff7e1473467c319d1a3891c91a14c5"
+    },
+    {
+      "slot": 3,
+      "path": "参考生/03_机械手能量对接/conditions/image_03.png",
+      "width": 1282,
+      "height": 718,
+      "sha256": "a7f5bf7347114f17b297c2ce5430b3a41a10cbdeaca0118eeaa8b49bf0dd3375"
+    },
+    {
+      "slot": 4,
+      "path": "参考生/03_机械手能量对接/conditions/image_04.png",
+      "width": 5504,
+      "height": 3072,
+      "sha256": "548c1351c6ac26d1b810195724b7c6a82930c2605c4761845da7a6295115fd19"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 8.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "9:16"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "88296dae5504d149111bd8644ba02272c71a7edb1afab457b5cddf0a66e7cc0e"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "key": "R02",
+  "kind": "r2v",
+  "title": "精华滴落微距",
+  "source_id": "refprod_ae474c8880b660ee",
+  "difficulty": "困难",
+  "difficulty_reason": "液滴、玻璃接触、手部按摩与产品切镜",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvlz6Cd8Rpop",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/02_精华滴落微距",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "Soft, clinical skincare ad using the attached serum bottle. Macro close-ups intercut: dropper releasing a single golden drop, drop landing on a glass surface, hands gently massaging serum into porcelain skin, bottle rotating slowly under diffuse overhead light. Pale beige and ivory palette, gentle ambient piano, 8 seconds。",
+  "original_seed": 165877484,
+  "duration": 8.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/02_精华滴落微距/conditions/image_01.png",
+      "width": 1920,
+      "height": 1088,
+      "sha256": "aee43f44e115e5a050668253eda582610d8644a2add546e5a20620f33264d4af"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 8.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "9e06d266143f827d04e65e64b9b0d34a490c872c53e8eb7a3a4ca66f95e00a7d"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "key": "R17",
+  "kind": "r2v",
+  "title": "童话螺旋楼梯",
+  "source_id": "refprod_191bb671343a0054",
+  "difficulty": "困难",
+  "difficulty_reason": "平面拼贴空间、螺旋上升与主体连续性",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvqpJpBESCxk",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/17_童话螺旋楼梯",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "明朗的天蓝与芥末黄拼贴色块构建出充满法式童话感的平面视觉空间。第一镜头：从极低角度仰拍，视线沿着图2旋转楼梯的铁艺扶手弧度，以螺旋上升的轨迹匀速向上推移。在上方台阶的边缘，图1戴着红色贝雷帽的黑猫正优雅地弓起身体，准备向下跳跃。顺着旋涡般的楼梯结构，镜头持续以匀速螺旋上升的运动方式跟随着下跃的动态。图1黑猫在折线形的楼梯间轻盈地逐级下跳，当它的黑色爪子每次落地的瞬间，图3台阶上重叠的大块几何色块如同钢琴琴键一般，交替闪烁亮起（清脆的木琴敲击声，伴随着纸张摩擦声）。大块的芥末黄色块与天蓝色块在黑猫爪下产生了极富节奏感的律动。视线最终停留在楼梯最底部的转角处，图1黑猫在天蓝色与芥末黄色交织的背景中轻巧站定。它优雅地舔了舔爪子，头上的红色贝雷帽微微歪斜。整幅画面呈现出粗糙牛皮纸边缘的平面拼贴画质感，在柔和的无阴影漫反射光线下，散发着复古、诗意且慵懒的巴黎午后艺术氛围（微弱的八音盒余音渐弱淡出）。",
+  "original_seed": 527799150,
+  "duration": 8.0,
+  "aspect_ratio": "9:16",
+  "expected_ratio": 0.5625,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/17_童话螺旋楼梯/conditions/image_01.jpg",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "00d26c6420848b7120850eaf46f57d1f5c321ea288e5e6d046eb6b074d50b8ae"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/17_童话螺旋楼梯/conditions/image_02.jpg",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d9fc5472ff4a039fc848b1a520bd8344fe3469fb17f37d8ac92e7da17420f14a"
+    },
+    {
+      "slot": 3,
+      "path": "参考生/17_童话螺旋楼梯/conditions/image_03.jpg",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "0586827369c58bd340fb7b0a5bcee575a54fb83525c35a67bb9e3686241ae9c1"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 8.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "9:16"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "ce0fd514a3b5af8ba244fbd0f738d558cd47c0ba3e202f29114ec8b4608857dd"
+  }
+}

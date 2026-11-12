@@ -1,0 +1,64 @@
+{
+  "key": "R11",
+  "kind": "r2v",
+  "title": "手机水滴结构广告",
+  "source_id": "refprod_ca68927d2f2978d5",
+  "difficulty": "困难",
+  "difficulty_reason": "微距液滴、产品分解结构与广告镜头连续性",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvnwB1tuiLqN",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/11_手机水滴结构广告",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "商业广告风格展示一款智能手机，开篇以超慢动作微距镜头呈现单滴水珠撞击相机外壳并优美溅开的画面，场景过渡到透视分解视图，展示内部多层相机镜头和传感器结构与机身分离。随后镜头切换至手机完全浸入水中，屏幕显示文字叠加，接着镜头环绕展示正面屏幕上明亮的蓝色流体壁纸。紧接着是一段动态序列，通过显示屏上快速行驶的F1赛车强调高刷新率，随后是特写镜头，环绕式微距平移手机的金属边缘、深邃的相机模组和底部充电接口。最后镜头在纯净白色背景下从多角度展示手机，并显示品牌文字“oppo a6 pro”。灯光明亮且达到工作室级别，营造出清晰的反光效果，整体呈现电影感高端商业科技美学，采用简洁的白色和蓝色调色板，节奏动态且无缝。",
+  "original_seed": 75093946,
+  "duration": 16.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/11_手机水滴结构广告/conditions/image_01.png",
+      "width": 2560,
+      "height": 1440,
+      "sha256": "47add1153f698b38a6cf3b1a6cbff0df101b895021518bbbda67c85aec26b050"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/11_手机水滴结构广告/conditions/image_02.png",
+      "width": 2560,
+      "height": 1440,
+      "sha256": "2e8890fc65234e07931f1b969e4570a62f7d4dd7eab97e118e46072376708934"
+    },
+    {
+      "slot": 3,
+      "path": "参考生/11_手机水滴结构广告/conditions/image_03.png",
+      "width": 2560,
+      "height": 1440,
+      "sha256": "0d0c88d66fedf51d636b427544f579dc613ffdb0fbbbe18bb29a36bc5a6f6497"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 16.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "0639fe9cc8a05674289dbe9ef030eaad8598a2b222560c68350973a570ed2430"
+  }
+}
