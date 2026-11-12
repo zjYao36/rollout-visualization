@@ -41,10 +41,10 @@
       "id": "hard-cases",
       "title": "困难 case",
       "tag": "HARD / 4 SEEDS",
-      "description": "原表标注困难：图生与参考生各 20 组，固定 PE 对比四个 seed。 160 条已生成，原始视频逐步上传。",
+      "description": "原表标注困难：图生与参考生各 20 组，固定 PE 对比四个 seed。",
       "groups": 40,
       "jobs": 160,
-      "completed": 52
+      "completed": 160
     }
   ],
   "cases": [
@@ -4588,8 +4588,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I14/seed_42.mp4",
           "poster": "hard-cases/I14/posters/seed_42.jpg",
           "width": 1176,
           "height": 782,
@@ -4598,8 +4598,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I14/seed_123.mp4",
           "poster": "hard-cases/I14/posters/seed_123.jpg",
           "width": 1176,
           "height": 782,
@@ -4608,8 +4608,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I14/seed_2026.mp4",
           "poster": "hard-cases/I14/posters/seed_2026.jpg",
           "width": 1176,
           "height": 782,
@@ -4618,8 +4618,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I14/seed_3407.mp4",
           "poster": "hard-cases/I14/posters/seed_3407.jpg",
           "width": 1176,
           "height": 782,
@@ -4651,7 +4651,7 @@
           "path": "hard-cases/I15/conditions/image_01.jpg",
           "width": 1080,
           "height": 568,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I15/conditions/image_01.jpg",
           "is_preview": true,
           "original_sha256": "26aebf0720f7ab78bd5e84ef62c7dbb63318f8dc3b59fedf2b1b2adac6ebb924",
           "preview_sha256": "0fadfaf2c5a704e956afc8f6c604d151b8d24299771b5bea696c1c83cb336fde"
@@ -4660,8 +4660,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I15/seed_42.mp4",
           "poster": "hard-cases/I15/posters/seed_42.jpg",
           "width": 1322,
           "height": 696,
@@ -4670,8 +4670,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I15/seed_123.mp4",
           "poster": "hard-cases/I15/posters/seed_123.jpg",
           "width": 1322,
           "height": 696,
@@ -4680,8 +4680,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I15/seed_2026.mp4",
           "poster": "hard-cases/I15/posters/seed_2026.jpg",
           "width": 1322,
           "height": 696,
@@ -4690,8 +4690,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I15/seed_3407.mp4",
           "poster": "hard-cases/I15/posters/seed_3407.jpg",
           "width": 1322,
           "height": 696,
@@ -4723,7 +4723,7 @@
           "path": "hard-cases/I16/conditions/image_01.jpg",
           "width": 861,
           "height": 570,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I16/conditions/image_01.jpg",
           "is_preview": true,
           "original_sha256": "9e5890b94ab1ec581a7a4a226244f2128408203c6ab229d2d7906cbdb99cdff7",
           "preview_sha256": "848c9e9d330fa0bdfa5cfc65da0e1790f2c8b6fda2a757df3a95dd821b94f9c8"
@@ -4732,8 +4732,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I16/seed_42.mp4",
           "poster": "hard-cases/I16/posters/seed_42.jpg",
           "width": 1178,
           "height": 780,
@@ -4742,8 +4742,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I16/seed_123.mp4",
           "poster": "hard-cases/I16/posters/seed_123.jpg",
           "width": 1178,
           "height": 780,
@@ -4752,8 +4752,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I16/seed_2026.mp4",
           "poster": "hard-cases/I16/posters/seed_2026.jpg",
           "width": 1178,
           "height": 780,
@@ -4762,8 +4762,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I16/seed_3407.mp4",
           "poster": "hard-cases/I16/posters/seed_3407.jpg",
           "width": 1178,
           "height": 780,
@@ -4795,7 +4795,7 @@
           "path": "hard-cases/I17/conditions/image_01.jpg",
           "width": 1582,
           "height": 663,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I17/conditions/image_01.jpg",
           "is_preview": true,
           "original_sha256": "cb9ee626f61cacf84b1d8523c3b74b885c98670a8068367305f50db5b3af1aab",
           "preview_sha256": "5b0c1b7bd77a0d239d8b7443ddc969e426b4e21d967c2c012870968107bdebfb"
@@ -4804,8 +4804,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I17/seed_42.mp4",
           "poster": "hard-cases/I17/posters/seed_42.jpg",
           "width": 1482,
           "height": 620,
@@ -4814,8 +4814,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I17/seed_123.mp4",
           "poster": "hard-cases/I17/posters/seed_123.jpg",
           "width": 1482,
           "height": 620,
@@ -4824,8 +4824,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I17/seed_2026.mp4",
           "poster": "hard-cases/I17/posters/seed_2026.jpg",
           "width": 1482,
           "height": 620,
@@ -4834,8 +4834,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I17/seed_3407.mp4",
           "poster": "hard-cases/I17/posters/seed_3407.jpg",
           "width": 1482,
           "height": 620,
@@ -4867,7 +4867,7 @@
           "path": "hard-cases/I18/conditions/image_01.jpg",
           "width": 1666,
           "height": 944,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I18/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "a4f1242837c1b8a8a8297647d8852ef418089f5681feb74ec71932cb84e024a0",
           "preview_sha256": "f189d052e15466bcb6b578ff7458c3e73225ebeeb1f22ef5c3ee515b83442045"
@@ -4876,8 +4876,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I18/seed_42.mp4",
           "poster": "hard-cases/I18/posters/seed_42.jpg",
           "width": 1274,
           "height": 722,
@@ -4886,8 +4886,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I18/seed_123.mp4",
           "poster": "hard-cases/I18/posters/seed_123.jpg",
           "width": 1274,
           "height": 722,
@@ -4896,8 +4896,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I18/seed_2026.mp4",
           "poster": "hard-cases/I18/posters/seed_2026.jpg",
           "width": 1274,
           "height": 722,
@@ -4906,8 +4906,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I18/seed_3407.mp4",
           "poster": "hard-cases/I18/posters/seed_3407.jpg",
           "width": 1274,
           "height": 722,
@@ -4939,7 +4939,7 @@
           "path": "hard-cases/I19/conditions/image_01.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I19/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "c1d1474448bf6393b240d1570b88d00097b634126bc1631f958950f0086d6d72",
           "preview_sha256": "91f4916e253ba5543a800fd105a53aa36d0ac500f0a4bc9aa372b47b165fdcc3"
@@ -4948,8 +4948,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/I19/seed_42.mp4",
           "poster": "hard-cases/I19/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -4958,8 +4958,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I19/seed_123.mp4",
           "poster": "hard-cases/I19/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -4968,8 +4968,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I19/seed_2026.mp4",
           "poster": "hard-cases/I19/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -4978,8 +4978,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I19/seed_3407.mp4",
           "poster": "hard-cases/I19/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -5011,7 +5011,7 @@
           "path": "hard-cases/I20/conditions/image_01.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I20/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "da762c6e19270c6cb8b709f1b3264c7b4fe26046f1ffbb84bb5c98028cb5df87",
           "preview_sha256": "004201fd6fed204a49214b5844693dc4746a249755ed3ff3fa4139f587b9d022"
@@ -5020,8 +5020,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I20/seed_42.mp4",
           "poster": "hard-cases/I20/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -5030,8 +5030,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I20/seed_123.mp4",
           "poster": "hard-cases/I20/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -5040,8 +5040,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I20/seed_2026.mp4",
           "poster": "hard-cases/I20/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -5050,8 +5050,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/I20/seed_3407.mp4",
           "poster": "hard-cases/I20/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -5083,7 +5083,7 @@
           "path": "hard-cases/R01/conditions/image_01.jpg",
           "width": 1920,
           "height": 1088,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R01/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "56cc1f7ec111a6c0aab010d6b43244844829bf17376039a59f3141ad2ec9998c",
           "preview_sha256": "76e1f334fb649d66590b44ea1c43ab96e0e9d0695ca1e43486cf02310f025168"
@@ -5093,7 +5093,7 @@
           "path": "hard-cases/R01/conditions/image_02.jpg",
           "width": 1536,
           "height": 1024,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R01/conditions/image_02.png",
           "is_preview": true,
           "original_sha256": "902d580599c7c731aa4db74b8eb5b67ef1c785d4c5c1d5bfef00fd012925c729",
           "preview_sha256": "63930c5f83609541dd7b5fa424b421e5d4d940fb43bf21bb1da81c36c82ae855"
@@ -5102,8 +5102,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/71eff1a4aea81e03d179782977423f308d48d3f4/hard-cases/R01/seed_42.mp4",
           "poster": "hard-cases/R01/posters/seed_42.jpg",
           "width": 720,
           "height": 1280,
@@ -5112,8 +5112,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/71eff1a4aea81e03d179782977423f308d48d3f4/hard-cases/R01/seed_123.mp4",
           "poster": "hard-cases/R01/posters/seed_123.jpg",
           "width": 720,
           "height": 1280,
@@ -5122,8 +5122,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/71eff1a4aea81e03d179782977423f308d48d3f4/hard-cases/R01/seed_2026.mp4",
           "poster": "hard-cases/R01/posters/seed_2026.jpg",
           "width": 720,
           "height": 1280,
@@ -5132,8 +5132,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/71eff1a4aea81e03d179782977423f308d48d3f4/hard-cases/R01/seed_3407.mp4",
           "poster": "hard-cases/R01/posters/seed_3407.jpg",
           "width": 720,
           "height": 1280,
@@ -5165,7 +5165,7 @@
           "path": "hard-cases/R02/conditions/image_01.jpg",
           "width": 1920,
           "height": 1088,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R02/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "aee43f44e115e5a050668253eda582610d8644a2add546e5a20620f33264d4af",
           "preview_sha256": "3fdae6e775f73f93cd1fd4e210b48ee8984aa3c782887fa9259d354a57327622"
@@ -5174,8 +5174,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/71eff1a4aea81e03d179782977423f308d48d3f4/hard-cases/R02/seed_42.mp4",
           "poster": "hard-cases/R02/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -5184,8 +5184,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/71eff1a4aea81e03d179782977423f308d48d3f4/hard-cases/R02/seed_123.mp4",
           "poster": "hard-cases/R02/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -5194,8 +5194,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/71eff1a4aea81e03d179782977423f308d48d3f4/hard-cases/R02/seed_2026.mp4",
           "poster": "hard-cases/R02/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -5204,8 +5204,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/71eff1a4aea81e03d179782977423f308d48d3f4/hard-cases/R02/seed_3407.mp4",
           "poster": "hard-cases/R02/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -5237,7 +5237,7 @@
           "path": "hard-cases/R03/conditions/image_01.jpg",
           "width": 960,
           "height": 960,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R03/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "f1ec3550523aa344ffb94b68dabcb29665399ff5971fa1e61d00deb56e6b20be",
           "preview_sha256": "9b7fbb6cb597782f8f22d1606a27976fb36a9dbb4718b13d03ad1fde5c0d5029"
@@ -5247,7 +5247,7 @@
           "path": "hard-cases/R03/conditions/image_02.jpg",
           "width": 1282,
           "height": 718,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R03/conditions/image_02.png",
           "is_preview": true,
           "original_sha256": "9da6a9a3d939ac42887ef95ed9af2f4753ff7e1473467c319d1a3891c91a14c5",
           "preview_sha256": "f0a86ab3a337e6b17901833ad4283ef12b9fb597489a4ed62e2caf4978bdc12d"
@@ -5257,7 +5257,7 @@
           "path": "hard-cases/R03/conditions/image_03.jpg",
           "width": 1282,
           "height": 718,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R03/conditions/image_03.png",
           "is_preview": true,
           "original_sha256": "a7f5bf7347114f17b297c2ce5430b3a41a10cbdeaca0118eeaa8b49bf0dd3375",
           "preview_sha256": "26dde9b5c6aa49d6d67e5e969acfbb298913f1d53e3c6cd8f95afbb599838b57"
@@ -5267,7 +5267,7 @@
           "path": "hard-cases/R03/conditions/image_04.jpg",
           "width": 5504,
           "height": 3072,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R03/conditions/image_04.png",
           "is_preview": true,
           "original_sha256": "548c1351c6ac26d1b810195724b7c6a82930c2605c4761845da7a6295115fd19",
           "preview_sha256": "854f90bde75a0c9d82b45489ff6589685a0c1f0192144f6c315c963fecf9d5d3"
@@ -5276,8 +5276,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/72b3c5e75ca5392d09c00b903698a17689d2ce65/hard-cases/R03/seed_42.mp4",
           "poster": "hard-cases/R03/posters/seed_42.jpg",
           "width": 720,
           "height": 1280,
@@ -5286,8 +5286,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/72b3c5e75ca5392d09c00b903698a17689d2ce65/hard-cases/R03/seed_123.mp4",
           "poster": "hard-cases/R03/posters/seed_123.jpg",
           "width": 720,
           "height": 1280,
@@ -5296,8 +5296,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/72b3c5e75ca5392d09c00b903698a17689d2ce65/hard-cases/R03/seed_2026.mp4",
           "poster": "hard-cases/R03/posters/seed_2026.jpg",
           "width": 720,
           "height": 1280,
@@ -5306,8 +5306,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/72b3c5e75ca5392d09c00b903698a17689d2ce65/hard-cases/R03/seed_3407.mp4",
           "poster": "hard-cases/R03/posters/seed_3407.jpg",
           "width": 720,
           "height": 1280,
@@ -5339,7 +5339,7 @@
           "path": "hard-cases/R04/conditions/image_01.jpg",
           "width": 1376,
           "height": 768,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R04/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "8dfd5003692c43be2abaca4a56f1e6c78633967de410c0d63ca847acfa50baf1",
           "preview_sha256": "924eb0690c26c028c5809c896c19d4a2aa71c039f1cd9ee938450e9f7e1766b9"
@@ -5349,7 +5349,7 @@
           "path": "hard-cases/R04/conditions/image_02.jpg",
           "width": 1536,
           "height": 1024,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R04/conditions/image_02.png",
           "is_preview": true,
           "original_sha256": "0dfcbf161c1e1ac3ddf3a4b3b22e9ac86215438b1e74f30fd2d922c0ea46f23e",
           "preview_sha256": "6064b777082430577c1476bd4ddbb8d39912d8476fabd3862cc6ac0d6114cfd8"
@@ -5358,8 +5358,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/72b3c5e75ca5392d09c00b903698a17689d2ce65/hard-cases/R04/seed_42.mp4",
           "poster": "hard-cases/R04/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -5368,8 +5368,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/72b3c5e75ca5392d09c00b903698a17689d2ce65/hard-cases/R04/seed_123.mp4",
           "poster": "hard-cases/R04/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -5378,8 +5378,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/72b3c5e75ca5392d09c00b903698a17689d2ce65/hard-cases/R04/seed_2026.mp4",
           "poster": "hard-cases/R04/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -5388,8 +5388,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/72b3c5e75ca5392d09c00b903698a17689d2ce65/hard-cases/R04/seed_3407.mp4",
           "poster": "hard-cases/R04/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -5421,7 +5421,7 @@
           "path": "hard-cases/R05/conditions/image_01.jpg",
           "width": 1376,
           "height": 768,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R05/conditions/image_01.jpg",
           "is_preview": true,
           "original_sha256": "824c51a35a4d39beaab58177fbfe4560e5f16a761ccdc0bd1404eb2160063a6c",
           "preview_sha256": "30b4ad9c965ae39e8280fd128e874332148ae2a71a0ad396e046d8804db5f746"
@@ -5431,7 +5431,7 @@
           "path": "hard-cases/R05/conditions/image_02.jpg",
           "width": 1376,
           "height": 768,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R05/conditions/image_02.png",
           "is_preview": true,
           "original_sha256": "99b981ee42805c3eafae861b6337d6a2d7e0679af9b41231c7c358b5bf388075",
           "preview_sha256": "e67a91a7693a1940fe5e3de019b5188c5fa0bb4490dfddf8064e39b535b42ce2"
@@ -5440,8 +5440,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/349021c13f1fbce9f641f06b3627ccca9c46b137/hard-cases/R05/seed_42.mp4",
           "poster": "hard-cases/R05/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -5450,8 +5450,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/349021c13f1fbce9f641f06b3627ccca9c46b137/hard-cases/R05/seed_123.mp4",
           "poster": "hard-cases/R05/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -5460,8 +5460,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/349021c13f1fbce9f641f06b3627ccca9c46b137/hard-cases/R05/seed_2026.mp4",
           "poster": "hard-cases/R05/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -5470,8 +5470,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/349021c13f1fbce9f641f06b3627ccca9c46b137/hard-cases/R05/seed_3407.mp4",
           "poster": "hard-cases/R05/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -5503,7 +5503,7 @@
           "path": "hard-cases/R06/conditions/image_01.jpg",
           "width": 4096,
           "height": 4096,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R06/conditions/image_01.jpg",
           "is_preview": true,
           "original_sha256": "65405efdf35c2d2d7ffec2dd04897bf48fed785db94d5eea2b4b8376ce260b57",
           "preview_sha256": "0d07edfdbbb8a5e1a54452e9183fbab72e277b6a99078d2c37cc9c4a19d1298a"
@@ -5513,7 +5513,7 @@
           "path": "hard-cases/R06/conditions/image_02.jpg",
           "width": 4096,
           "height": 4096,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R06/conditions/image_02.jpg",
           "is_preview": true,
           "original_sha256": "02522c5877cfdf52130b059cb6459708947977ccc4ddda59b9f8bc855c4bcba9",
           "preview_sha256": "92f5ff322fb390e53eb502262277bc8f063dc3e0e187e99f142a9ceb492b0cba"
@@ -5523,7 +5523,7 @@
           "path": "hard-cases/R06/conditions/image_03.jpg",
           "width": 3072,
           "height": 5504,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R06/conditions/image_03.jpg",
           "is_preview": true,
           "original_sha256": "597c897134af6f02c4e74b0bfa24d4abd63216330e41dd13a95e534b223c68ff",
           "preview_sha256": "8fac48256d1415ef114657ffcea32d99a476fbebc16b88a0f4cd18e37cf5a6f7"
@@ -5533,7 +5533,7 @@
           "path": "hard-cases/R06/conditions/image_04.jpg",
           "width": 4096,
           "height": 4096,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R06/conditions/image_04.jpg",
           "is_preview": true,
           "original_sha256": "98a682cee90c6c081886e09c07185863505f6ea6fdf9bedb95d5a117ee26274a",
           "preview_sha256": "02acdb78a4eb231c0b66a87c9ed29929a1ba4f99bc0ab266b6dfaf71f5980fda"
@@ -5542,8 +5542,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/1a19c3870e93d60555332d5da7e8d25f025259cf/hard-cases/R06/seed_42.mp4",
           "poster": "hard-cases/R06/posters/seed_42.jpg",
           "width": 720,
           "height": 1280,
@@ -5552,8 +5552,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/1a19c3870e93d60555332d5da7e8d25f025259cf/hard-cases/R06/seed_123.mp4",
           "poster": "hard-cases/R06/posters/seed_123.jpg",
           "width": 720,
           "height": 1280,
@@ -5562,8 +5562,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/1a19c3870e93d60555332d5da7e8d25f025259cf/hard-cases/R06/seed_2026.mp4",
           "poster": "hard-cases/R06/posters/seed_2026.jpg",
           "width": 720,
           "height": 1280,
@@ -5572,8 +5572,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/1a19c3870e93d60555332d5da7e8d25f025259cf/hard-cases/R06/seed_3407.mp4",
           "poster": "hard-cases/R06/posters/seed_3407.jpg",
           "width": 720,
           "height": 1280,
@@ -5605,7 +5605,7 @@
           "path": "hard-cases/R07/conditions/image_01.jpg",
           "width": 1376,
           "height": 768,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R07/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "62c3e8c51b813ed1a23cae3f060fcfc88454b8687c5d28bd123fa4dead3255e4",
           "preview_sha256": "5bd3870df0387120f0dd63ab4883afd022a35fd4dae9fcc4b27247151a2fe83f"
@@ -5615,7 +5615,7 @@
           "path": "hard-cases/R07/conditions/image_02.jpg",
           "width": 1376,
           "height": 768,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R07/conditions/image_02.png",
           "is_preview": true,
           "original_sha256": "9047c27e2df91ba596bdd1a5067c2d08eb834c20a822b8aeb59c5301dde88623",
           "preview_sha256": "91f180b66f64ec10e53c2a1c7c550f66695608e6800a8ce599eb50220c4aea36"
@@ -5625,7 +5625,7 @@
           "path": "hard-cases/R07/conditions/image_03.jpg",
           "width": 1376,
           "height": 768,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R07/conditions/image_03.png",
           "is_preview": true,
           "original_sha256": "3447b49470085febf0b818dd5c14b4711746e3dc9f42f1b77d03b77305033d52",
           "preview_sha256": "207879f1d469ceeec37f9bbab1f80bddd4ef53f9ef22660b3915c1e4614fb6e7"
@@ -5634,8 +5634,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/1a19c3870e93d60555332d5da7e8d25f025259cf/hard-cases/R07/seed_42.mp4",
           "poster": "hard-cases/R07/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -5644,8 +5644,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/9185bbe45ec36d56def2778ac30fc53a1338a877/hard-cases/R07/seed_123.mp4",
           "poster": "hard-cases/R07/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -5654,8 +5654,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/9185bbe45ec36d56def2778ac30fc53a1338a877/hard-cases/R07/seed_2026.mp4",
           "poster": "hard-cases/R07/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -5664,8 +5664,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/9185bbe45ec36d56def2778ac30fc53a1338a877/hard-cases/R07/seed_3407.mp4",
           "poster": "hard-cases/R07/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -5697,7 +5697,7 @@
           "path": "hard-cases/R08/conditions/image_01.jpg",
           "width": 981,
           "height": 486,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R08/conditions/image_01.jpg",
           "is_preview": true,
           "original_sha256": "d9a3f208152f9a98d56e73cc75c209b4a735357f145b02c0cfa730e64fb7ca36",
           "preview_sha256": "d5f43ee0f2c81252fcec57bcadd1fa1c1b1e84438f1c5091fa3d7afc9f5e4034"
@@ -5707,7 +5707,7 @@
           "path": "hard-cases/R08/conditions/image_02.jpg",
           "width": 981,
           "height": 481,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R08/conditions/image_02.jpg",
           "is_preview": true,
           "original_sha256": "16d4c4c23108df0e65ecf8c63bccde63929bc71d794db7aba909b187a3540650",
           "preview_sha256": "cadd96de7f24eaab7eaacbc87e7f973bc821e227de1efeb5861c55f1ffd4faf7"
@@ -5717,7 +5717,7 @@
           "path": "hard-cases/R08/conditions/image_03.jpg",
           "width": 995,
           "height": 549,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R08/conditions/image_03.jpg",
           "is_preview": true,
           "original_sha256": "6d271e29eae83e7c4683f4ac1fa2b7a2edeaa317e25386eaa8f13d749ced089f",
           "preview_sha256": "63fda3ceec4ef0bb12515296fbc44f783b12f160dee32578170c7ef5276e5f12"
@@ -5727,7 +5727,7 @@
           "path": "hard-cases/R08/conditions/image_04.jpg",
           "width": 987,
           "height": 495,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R08/conditions/image_04.jpg",
           "is_preview": true,
           "original_sha256": "c4a7e7c29bdd6b2d2ac2cbca70fbd62bb0859dd1a121403ff081437b89bbabf9",
           "preview_sha256": "34cb71c33c9317c838985925a9bda69c914d3ef922e3650e1401676269fe12b8"
@@ -5736,8 +5736,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/9185bbe45ec36d56def2778ac30fc53a1338a877/hard-cases/R08/seed_42.mp4",
           "poster": "hard-cases/R08/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -5746,8 +5746,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/9185bbe45ec36d56def2778ac30fc53a1338a877/hard-cases/R08/seed_123.mp4",
           "poster": "hard-cases/R08/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -5756,8 +5756,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/9185bbe45ec36d56def2778ac30fc53a1338a877/hard-cases/R08/seed_2026.mp4",
           "poster": "hard-cases/R08/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -5766,8 +5766,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/9185bbe45ec36d56def2778ac30fc53a1338a877/hard-cases/R08/seed_3407.mp4",
           "poster": "hard-cases/R08/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -5799,7 +5799,7 @@
           "path": "hard-cases/R09/conditions/image_01.jpg",
           "width": 3072,
           "height": 5504,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R09/conditions/image_01.jpg",
           "is_preview": true,
           "original_sha256": "b6807e2d49a8b90060a656413cf89c81dabfb79569795ece98b4eab69eff3b70",
           "preview_sha256": "459c6dc2c82f700217c234e68da0e3465d28b41f033424f3d7bbdfafb702b60b"
@@ -5809,7 +5809,7 @@
           "path": "hard-cases/R09/conditions/image_02.jpg",
           "width": 3072,
           "height": 5504,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R09/conditions/image_02.jpg",
           "is_preview": true,
           "original_sha256": "039d3680af7211d919f8f67593117114becab62688a17c307c6c5053506410b7",
           "preview_sha256": "348b894ab119e6f203b25b15af35fcc1e685dde03bbf79c736162b3c706a0c54"
@@ -5819,7 +5819,7 @@
           "path": "hard-cases/R09/conditions/image_03.jpg",
           "width": 1440,
           "height": 2560,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R09/conditions/image_03.png",
           "is_preview": true,
           "original_sha256": "a05bec6e21a93322b020ea51d858d2456cbcb91b763b087512ce753c31fc6525",
           "preview_sha256": "f5b6e5c18594e05b32636e75e9e638d8d5cf8882c7685fc432af846448c7762e"
@@ -5829,7 +5829,7 @@
           "path": "hard-cases/R09/conditions/image_04.jpg",
           "width": 4096,
           "height": 4096,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R09/conditions/image_04.jpg",
           "is_preview": true,
           "original_sha256": "ec2438895acab0a018655d32148b59b5842f0db6a154426f16dbc57b87667580",
           "preview_sha256": "9a93c358792134206d3e2073dc3967cad641a60e44e36cde11e50dc11bf7824e"
@@ -5839,7 +5839,7 @@
           "path": "hard-cases/R09/conditions/image_05.jpg",
           "width": 1024,
           "height": 1024,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R09/conditions/image_05.jpg",
           "is_preview": true,
           "original_sha256": "eaf6c165fc64f51eeda0779f70b88cb1693725e480c48a685995c03d42c1727a",
           "preview_sha256": "2ac72121c040dd7c2ea2f17f5172e19f9eeb0d9a7145170d1236702e04b004e2"
@@ -5848,8 +5848,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a49c6c2e80a8be9336e13ac13b7dc282e5f3177e/hard-cases/R09/seed_42.mp4",
           "poster": "hard-cases/R09/posters/seed_42.jpg",
           "width": 720,
           "height": 1280,
@@ -5858,8 +5858,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a49c6c2e80a8be9336e13ac13b7dc282e5f3177e/hard-cases/R09/seed_123.mp4",
           "poster": "hard-cases/R09/posters/seed_123.jpg",
           "width": 720,
           "height": 1280,
@@ -5868,8 +5868,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a49c6c2e80a8be9336e13ac13b7dc282e5f3177e/hard-cases/R09/seed_2026.mp4",
           "poster": "hard-cases/R09/posters/seed_2026.jpg",
           "width": 720,
           "height": 1280,
@@ -5878,8 +5878,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a49c6c2e80a8be9336e13ac13b7dc282e5f3177e/hard-cases/R09/seed_3407.mp4",
           "poster": "hard-cases/R09/posters/seed_3407.jpg",
           "width": 720,
           "height": 1280,
@@ -5911,7 +5911,7 @@
           "path": "hard-cases/R10/conditions/image_01.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R10/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "266e60e4d8a9b39c2aba86820f0cfc24da359952739f7751e9200dba4d6cc7e5",
           "preview_sha256": "278ec4c583dc7d1b31f8506c4553f3af18078a8c02e91bf86d4c4c75eb1f0cba"
@@ -5921,7 +5921,7 @@
           "path": "hard-cases/R10/conditions/image_02.jpg",
           "width": 5504,
           "height": 3072,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R10/conditions/image_02.jpg",
           "is_preview": true,
           "original_sha256": "cac131c121ac8e9424d75fbbd4f9b497a7e19976d9447f4a55ce4581b812d4ad",
           "preview_sha256": "eda245e79406e0367eecd5d58ca1d0017d3ed40af96af5ae5548b352ced52ae5"
@@ -5931,7 +5931,7 @@
           "path": "hard-cases/R10/conditions/image_03.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R10/conditions/image_03.png",
           "is_preview": true,
           "original_sha256": "6d00b4c34425725444653974040e66cc8744e34a40f4783c9cc0b9f8239683ae",
           "preview_sha256": "bf8f95f7b1c2b6d72551e556e2bd2681848ddba2841691fe71eae1110648d234"
@@ -5940,8 +5940,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a49c6c2e80a8be9336e13ac13b7dc282e5f3177e/hard-cases/R10/seed_42.mp4",
           "poster": "hard-cases/R10/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -5950,8 +5950,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a49c6c2e80a8be9336e13ac13b7dc282e5f3177e/hard-cases/R10/seed_123.mp4",
           "poster": "hard-cases/R10/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -5960,8 +5960,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a49c6c2e80a8be9336e13ac13b7dc282e5f3177e/hard-cases/R10/seed_2026.mp4",
           "poster": "hard-cases/R10/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -5970,8 +5970,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a5d683ca3d97c3d4cad271bb9c8b907a0a7f40c2/hard-cases/R10/seed_3407.mp4",
           "poster": "hard-cases/R10/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -6003,7 +6003,7 @@
           "path": "hard-cases/R11/conditions/image_01.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R11/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "47add1153f698b38a6cf3b1a6cbff0df101b895021518bbbda67c85aec26b050",
           "preview_sha256": "858dbb517efe6fed8a9b85d6b4910deb126138a72c8905a98f2657076e1e79a0"
@@ -6013,7 +6013,7 @@
           "path": "hard-cases/R11/conditions/image_02.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R11/conditions/image_02.png",
           "is_preview": true,
           "original_sha256": "2e8890fc65234e07931f1b969e4570a62f7d4dd7eab97e118e46072376708934",
           "preview_sha256": "d2fbd65c13f057d7351d7d19f882598833fba4967ee798aa04c0213f10fb7d47"
@@ -6023,7 +6023,7 @@
           "path": "hard-cases/R11/conditions/image_03.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R11/conditions/image_03.png",
           "is_preview": true,
           "original_sha256": "0d0c88d66fedf51d636b427544f579dc613ffdb0fbbbe18bb29a36bc5a6f6497",
           "preview_sha256": "96b90c0e06210e1cdeedd388e6c214a5499af17e56b361d669a85b54a41c7776"
@@ -6032,8 +6032,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a5d683ca3d97c3d4cad271bb9c8b907a0a7f40c2/hard-cases/R11/seed_42.mp4",
           "poster": "hard-cases/R11/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -6042,8 +6042,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a5d683ca3d97c3d4cad271bb9c8b907a0a7f40c2/hard-cases/R11/seed_123.mp4",
           "poster": "hard-cases/R11/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -6052,8 +6052,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a5d683ca3d97c3d4cad271bb9c8b907a0a7f40c2/hard-cases/R11/seed_2026.mp4",
           "poster": "hard-cases/R11/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -6062,8 +6062,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a5d683ca3d97c3d4cad271bb9c8b907a0a7f40c2/hard-cases/R11/seed_3407.mp4",
           "poster": "hard-cases/R11/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -6095,7 +6095,7 @@
           "path": "hard-cases/R12/conditions/image_01.jpg",
           "width": 1024,
           "height": 1536,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R12/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "cb877490ded618e76326b0339729baa72d4200d72ef24e1c4a4f0a224e7adf07",
           "preview_sha256": "bc7861b122fb97a0737f35b626a11444c6a270496ff7cd1190378a49f15a2e1d"
@@ -6105,7 +6105,7 @@
           "path": "hard-cases/R12/conditions/image_02.jpg",
           "width": 1024,
           "height": 1536,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R12/conditions/image_02.jpg",
           "is_preview": true,
           "original_sha256": "4b33547c21342566a8350b59a89693b9754956b47d253450973081102122483b",
           "preview_sha256": "1802dbe37fa97bc782256f86a9d33a39d118a7b4d09a109445a50694988a75d6"
@@ -6115,7 +6115,7 @@
           "path": "hard-cases/R12/conditions/image_03.jpg",
           "width": 1024,
           "height": 1536,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R12/conditions/image_03.jpg",
           "is_preview": true,
           "original_sha256": "2a53456617ee3252f0ad0614839a1008a2f980167ae086f14643ac4f3259cb22",
           "preview_sha256": "77a3ffecf388e61dbb0b44a9d35e405d8cb79d7355c9247785b690984c416abd"
@@ -6124,8 +6124,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a5d683ca3d97c3d4cad271bb9c8b907a0a7f40c2/hard-cases/R12/seed_42.mp4",
           "poster": "hard-cases/R12/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -6134,8 +6134,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a5d683ca3d97c3d4cad271bb9c8b907a0a7f40c2/hard-cases/R12/seed_123.mp4",
           "poster": "hard-cases/R12/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -6144,8 +6144,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/a5d683ca3d97c3d4cad271bb9c8b907a0a7f40c2/hard-cases/R12/seed_2026.mp4",
           "poster": "hard-cases/R12/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -6154,8 +6154,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R12/seed_3407.mp4",
           "poster": "hard-cases/R12/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -6187,7 +6187,7 @@
           "path": "hard-cases/R13/conditions/image_01.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R13/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "4aef8d1c4216a05768abd417e23e371f10d0318b91143f276c4bff8f3d3a5e23",
           "preview_sha256": "2103e68349faa4b34e382f08209ba1510dfb64b2d6220e2fc83255af0a20e849"
@@ -6197,7 +6197,7 @@
           "path": "hard-cases/R13/conditions/image_02.jpg",
           "width": 1920,
           "height": 1080,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R13/conditions/image_02.png",
           "is_preview": true,
           "original_sha256": "641b74f3498ec43a655d7fe80846eeeb30dc28177f80e4af24dec0937d3199fb",
           "preview_sha256": "ae74fd34ea2e0616b2b6df5b5b14998f7db7eebc5749343fd96d54635e69293d"
@@ -6206,8 +6206,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R13/seed_42.mp4",
           "poster": "hard-cases/R13/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -6216,8 +6216,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R13/seed_123.mp4",
           "poster": "hard-cases/R13/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -6226,8 +6226,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R13/seed_2026.mp4",
           "poster": "hard-cases/R13/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -6236,8 +6236,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R13/seed_3407.mp4",
           "poster": "hard-cases/R13/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -6269,7 +6269,7 @@
           "path": "hard-cases/R14/conditions/image_01.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R14/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "35edddb93c475f54c39df16b12a9b451c006a56219a5902f71e67467031998ad",
           "preview_sha256": "881d570088065df82fbcd62000fc93d336106d93baebf33cbe88ccd2aa67a768"
@@ -6279,7 +6279,7 @@
           "path": "hard-cases/R14/conditions/image_02.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R14/conditions/image_02.png",
           "is_preview": true,
           "original_sha256": "43ea57fa8d06790ea8cd04f2b445f71d7e0a004e3e62126de609dd0d5a4693c9",
           "preview_sha256": "e0601d8f5efe0adee496e330c712c5cf80a4477967eed0fa46d7206ed0d37862"
@@ -6289,7 +6289,7 @@
           "path": "hard-cases/R14/conditions/image_03.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R14/conditions/image_03.png",
           "is_preview": true,
           "original_sha256": "6c74ca7df6ad74ee824c57fd15dd2a0bc057ed41541c87ddc0335b7de01cc80f",
           "preview_sha256": "d6ac048e32cc54fe9cf2c140e111f435ea09b69f32ae549097b3746fc6e40a7b"
@@ -6298,8 +6298,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R14/seed_42.mp4",
           "poster": "hard-cases/R14/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -6308,8 +6308,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R14/seed_123.mp4",
           "poster": "hard-cases/R14/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -6318,8 +6318,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R14/seed_2026.mp4",
           "poster": "hard-cases/R14/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -6328,8 +6328,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R14/seed_3407.mp4",
           "poster": "hard-cases/R14/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -6361,7 +6361,7 @@
           "path": "hard-cases/R15/conditions/image_01.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R15/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "7457b512c8e037cb2526a471ef9bd6ec4a395d0691eb82494438520556e7d6ef",
           "preview_sha256": "1852a842f2aae72b75adef062566681f3878ed31520f004926f882a31d07c7e8"
@@ -6371,7 +6371,7 @@
           "path": "hard-cases/R15/conditions/image_02.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R15/conditions/image_02.png",
           "is_preview": true,
           "original_sha256": "3a2461fb9e903d8a99cc001086a8d9f6dec1832dddd5c7ff12e10e164c7dd7d0",
           "preview_sha256": "201a42559a60894f5ecbadf1bd84726764778c69e6af3ed7ff8e02c116bdf769"
@@ -6381,7 +6381,7 @@
           "path": "hard-cases/R15/conditions/image_03.jpg",
           "width": 1024,
           "height": 1024,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R15/conditions/image_03.png",
           "is_preview": true,
           "original_sha256": "5c2cf7fc3de411aef9ea5035ba3adb8505549c7bac4ca7062166070d7390fa5e",
           "preview_sha256": "7f8f506c5ca0d22a156e720bdf1a5f3e1e85babd19050b2f8cd962240601f9c2"
@@ -6390,8 +6390,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R15/seed_42.mp4",
           "poster": "hard-cases/R15/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -6400,8 +6400,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R15/seed_123.mp4",
           "poster": "hard-cases/R15/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -6410,8 +6410,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R15/seed_2026.mp4",
           "poster": "hard-cases/R15/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -6420,8 +6420,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R15/seed_3407.mp4",
           "poster": "hard-cases/R15/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -6453,7 +6453,7 @@
           "path": "hard-cases/R16/conditions/image_01.jpg",
           "width": 1024,
           "height": 1536,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R16/conditions/image_01.jpg",
           "is_preview": true,
           "original_sha256": "d624a6e0b34874f95d034e522bc4a713389209e5f76bdbce69214d409208b1a4",
           "preview_sha256": "1204aa221dddf656deac3ca5537effdea5d46e915be00b7d24b6ef71aa389f78"
@@ -6463,7 +6463,7 @@
           "path": "hard-cases/R16/conditions/image_02.jpg",
           "width": 1536,
           "height": 1024,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R16/conditions/image_02.png",
           "is_preview": true,
           "original_sha256": "7aa8db8173dc94db8e8f2f02f805fdd8ff35068b5f91ff2478b5e5ca354f3a29",
           "preview_sha256": "b7c49d27352e2404692f0f9bb9a94b7968ef9727b3866b73b30675f903d63698"
@@ -6473,7 +6473,7 @@
           "path": "hard-cases/R16/conditions/image_03.jpg",
           "width": 1254,
           "height": 1254,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R16/conditions/image_03.jpg",
           "is_preview": true,
           "original_sha256": "91c125ec40744c5efa53e98063dc627151afdd4e036f242fc3eb79c740632158",
           "preview_sha256": "414489e5a5131747eeeab8be6b8b4a914bb49a1ded7301f9a20c49b127278172"
@@ -6482,8 +6482,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R16/seed_42.mp4",
           "poster": "hard-cases/R16/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -6492,8 +6492,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R16/seed_123.mp4",
           "poster": "hard-cases/R16/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -6502,8 +6502,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R16/seed_2026.mp4",
           "poster": "hard-cases/R16/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -6512,8 +6512,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R16/seed_3407.mp4",
           "poster": "hard-cases/R16/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -6545,7 +6545,7 @@
           "path": "hard-cases/R17/conditions/image_01.jpg",
           "width": 1024,
           "height": 1536,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R17/conditions/image_01.jpg",
           "is_preview": true,
           "original_sha256": "00d26c6420848b7120850eaf46f57d1f5c321ea288e5e6d046eb6b074d50b8ae",
           "preview_sha256": "80d7bae06cab696c42a981ddaa58746eb5591b78ab31a4337303877083357c87"
@@ -6555,7 +6555,7 @@
           "path": "hard-cases/R17/conditions/image_02.jpg",
           "width": 1024,
           "height": 1536,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R17/conditions/image_02.jpg",
           "is_preview": true,
           "original_sha256": "d9fc5472ff4a039fc848b1a520bd8344fe3469fb17f37d8ac92e7da17420f14a",
           "preview_sha256": "d93c0f32df0701066f9a91a4fcd956c42b2423de10a93712bcdf84c861b5b7e6"
@@ -6565,7 +6565,7 @@
           "path": "hard-cases/R17/conditions/image_03.jpg",
           "width": 1024,
           "height": 1536,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R17/conditions/image_03.jpg",
           "is_preview": true,
           "original_sha256": "0586827369c58bd340fb7b0a5bcee575a54fb83525c35a67bb9e3686241ae9c1",
           "preview_sha256": "7e7daf4c1f3fb7e3a9e114868b90793a58adec7ce430654ab3eb380fd1e8e868"
@@ -6574,8 +6574,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R17/seed_42.mp4",
           "poster": "hard-cases/R17/posters/seed_42.jpg",
           "width": 720,
           "height": 1280,
@@ -6584,8 +6584,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R17/seed_123.mp4",
           "poster": "hard-cases/R17/posters/seed_123.jpg",
           "width": 720,
           "height": 1280,
@@ -6594,8 +6594,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R17/seed_2026.mp4",
           "poster": "hard-cases/R17/posters/seed_2026.jpg",
           "width": 720,
           "height": 1280,
@@ -6604,8 +6604,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R17/seed_3407.mp4",
           "poster": "hard-cases/R17/posters/seed_3407.jpg",
           "width": 720,
           "height": 1280,
@@ -6637,7 +6637,7 @@
           "path": "hard-cases/R18/conditions/image_01.jpg",
           "width": 1536,
           "height": 1024,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R18/conditions/image_01.jpg",
           "is_preview": true,
           "original_sha256": "0a84eb1471248c8c2c7206968badac37210f228c4f8fcedda92654edbb59566f",
           "preview_sha256": "3fef59e6f1c1bb251bbb018733347c25b0cc81e87fc7211b5a107c869b076e2c"
@@ -6647,7 +6647,7 @@
           "path": "hard-cases/R18/conditions/image_02.jpg",
           "width": 1024,
           "height": 1536,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R18/conditions/image_02.jpg",
           "is_preview": true,
           "original_sha256": "bdc2e68beb0d0113e675c58960d7eae708de48b3674b0b5197bb472a18f50fbb",
           "preview_sha256": "185056f3dfd5aaff7ab2f1eb90fe74201d1156a3baf397cb1fae4d6b644880f9"
@@ -6657,7 +6657,7 @@
           "path": "hard-cases/R18/conditions/image_03.jpg",
           "width": 1254,
           "height": 1254,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R18/conditions/image_03.jpg",
           "is_preview": true,
           "original_sha256": "65ea96b6222f8383a4c758f8c08d32ce0712edb8d24457fcacc334d264de2a34",
           "preview_sha256": "576689c25bfb79278270adf291416f0dd07fcb59cffe6c063aa0bcce2e15fb30"
@@ -6666,8 +6666,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R18/seed_42.mp4",
           "poster": "hard-cases/R18/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -6676,8 +6676,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R18/seed_123.mp4",
           "poster": "hard-cases/R18/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -6686,8 +6686,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R18/seed_2026.mp4",
           "poster": "hard-cases/R18/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -6696,8 +6696,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/fbad35c0030c49296acb2e2637101f90609920c6/hard-cases/R18/seed_3407.mp4",
           "poster": "hard-cases/R18/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -6729,7 +6729,7 @@
           "path": "hard-cases/R19/conditions/image_01.jpg",
           "width": 1672,
           "height": 941,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R19/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "93851435094775ee532af7ee240f05860c6e8d7a80c41878a208bce7b7a54214",
           "preview_sha256": "5f0d74202365df2a8ac1fb3941cebbebb2f0aaa45a3442730674e1ce0e5c3257"
@@ -6739,7 +6739,7 @@
           "path": "hard-cases/R19/conditions/image_02.jpg",
           "width": 1672,
           "height": 460,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R19/conditions/image_02.png",
           "is_preview": true,
           "original_sha256": "57e95c4142cf1218239ac99ae0d3d5ef167721549cb4785317a35569a45e6d05",
           "preview_sha256": "9f70714e85bc02da3174307ba576881dab0d1fd0bf42afb624bc215a1b4349c6"
@@ -6749,7 +6749,7 @@
           "path": "hard-cases/R19/conditions/image_03.jpg",
           "width": 1672,
           "height": 941,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R19/conditions/image_03.png",
           "is_preview": true,
           "original_sha256": "e25285c68533fd2f7f72f47c603c0ef153944746013af50969fb4b31137f4e0d",
           "preview_sha256": "a2d139eabd3cd384c77804af2ebd8b4b199087aa86a53bb04f8a62d9c747cbe3"
@@ -6758,8 +6758,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R19/seed_42.mp4",
           "poster": "hard-cases/R19/posters/seed_42.jpg",
           "width": 720,
           "height": 1280,
@@ -6768,8 +6768,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R19/seed_123.mp4",
           "poster": "hard-cases/R19/posters/seed_123.jpg",
           "width": 720,
           "height": 1280,
@@ -6778,8 +6778,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R19/seed_2026.mp4",
           "poster": "hard-cases/R19/posters/seed_2026.jpg",
           "width": 720,
           "height": 1280,
@@ -6788,8 +6788,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R19/seed_3407.mp4",
           "poster": "hard-cases/R19/posters/seed_3407.jpg",
           "width": 720,
           "height": 1280,
@@ -6821,7 +6821,7 @@
           "path": "hard-cases/R20/conditions/image_01.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R20/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "6651e736bcb5386200a76e4ddcbaf95eb59c66e18f83007a5511d2818eb8888d",
           "preview_sha256": "28f46908097cf00c4df10a05561c2d43373b86e8769becedc82d2a798b50ff14"
@@ -6831,7 +6831,7 @@
           "path": "hard-cases/R20/conditions/image_02.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R20/conditions/image_02.png",
           "is_preview": true,
           "original_sha256": "085092d9e1eefe4bd94ed7c3c4438d4573ce30bb0755beb45ae1c158d599f4e4",
           "preview_sha256": "f813fc70b5b88f6b48fb4e53c382c22ee50df50ef5c05fd5c33a7a8017493266"
@@ -6840,8 +6840,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R20/seed_42.mp4",
           "poster": "hard-cases/R20/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -6850,8 +6850,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R20/seed_123.mp4",
           "poster": "hard-cases/R20/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -6860,8 +6860,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R20/seed_2026.mp4",
           "poster": "hard-cases/R20/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -6870,8 +6870,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/7a6c90f19c8874a1b3a9626a046289d8d249bcb0/hard-cases/R20/seed_3407.mp4",
           "poster": "hard-cases/R20/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -6886,8 +6886,8 @@
   "summary": {
     "groups": 92,
     "jobs": 350,
-    "completed": 242,
-    "pending": 108,
-    "updated_at": 1794462095.3288398
+    "completed": 350,
+    "pending": 0,
+    "updated_at": 1794469746.8423202
   }
 }
