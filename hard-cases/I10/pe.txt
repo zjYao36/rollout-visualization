@@ -1,0 +1,25 @@
+# Style and Tone
+The wuxia action cinematic live-action short film carries a tense, solemn and thrilling atmosphere with a pervading sense of impending confrontation.
+
+# Subject and Scene
+<Subject1>: Young adult male swordsman in his early twenties with a lean build, pale skin, sharp dark brows, deep brown eyes, black hair tied in a high ponytail with loose strands falling across his face, and a thin fresh red cut on his left cheek; he wears a pale grey-white layered robe with dark grey woven geometric trim at the collar and dark grey leather shoulder straps fastened with silver rivets, and carries a long straight sword at his waist.
+<Subject2>: Heavily built adult male warrior seen primarily from behind, with dark curly hair, a dark beard at the jawline, and a deep red martial robe over black studded armor straps fitted with round brass rivets across the back and shoulders.
+<Subject3>: Young adult woman with dark hair pinned up with a pale floral hair ornament, fair skin, wide dark eyes, and a pale green robe, partially hidden behind bamboo stalks.
+<Scene1>: Dense green bamboo grove interior with tall vertical stalks, long slender green leaves, dappled daylight filtering through the canopy, soft green-tinted shadows on the forest floor, and layered depth from foreground leaves and background stalks.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+Deep in a bamboo grove <Scene1>, the white-robed swordsman <Subject1> slowly draws his blade and speaks a solemn line to the red-armored warrior <Subject2>, who charges at him; <Subject1> raises his sword to meet the charge, the hidden young woman <Subject3> gasps behind the bamboo, and the blades finally collide in a burst of sparks.
+
+# Complete Description
+At 0.0 seconds, [a low, somber bamboo-flute melody begins over sustained ambient sound]. An over-the-shoulder shot from behind <Subject2> frames <Scene1>: <Subject2>'s red-robed, stud-armored back fills the left and lower foreground in soft focus, his dark curly hair and ear visible at the upper left, while across the bamboo <Subject1> stands at frame right in three-quarter profile facing left toward him, his high ponytail and loose strands stirred by a faint breeze, the thin red cut visible on his left cheek, and long green bamboo leaves crossing the foreground at the lower right; deeper in the grove at frame right, <Subject3> peeks from behind a stalk, her pale floral hair ornament and green robe half-occluded by leaves <dry bamboo leaves rustle continuously>. <Subject1>'s right hand moves slowly to the sword at his waist, his fingers closing around the hilt; he draws the blade in a steady controlled motion, the polished steel sliding free with a long metallic ring and catching streaks of green bamboo light along its length as it rises before him, and in a low, calm, resolute adult male voice he says {今日一战，无关恩怨，只求道义。}; finally the drawn sword rests angled before him, its green reflections sliding along the blade.
+
+At 4.6 seconds, [the low bamboo-flute melody continues]. <Subject2> surges forward from the foreground toward <Subject1>, his red-robed shoulder driving across the lower frame as heavy bootfalls pound the leaf-littered ground <rapid crunching footsteps over dry leaves>, and the camera pushes in fast past his advancing shoulder into a frontal close view of <Subject1>; <Subject1>'s brows tighten, his jaw sets, and both hands lift the drawn sword to meet the incoming charge, the blade rising diagonally across his chest with green bamboo reflections racing along its edge while loose strands of hair sweep across his face. A hard cut jumps to a view from behind a bamboo stalk at frame left, where <Subject3> presses her back against the green culm, both hands flying up to cover her mouth as her eyes widen and she lets out a sharp, stifled gasp <a short, muffled cry of alarm>, leaves trembling around her. A hard cut then slams into an extreme close-up of the colliding blades: <Subject1>'s bright steel meets <Subject2>'s weapon edge-to-edge at the center of the frame, and a shower of sharp golden sparks bursts outward from the impact point <a loud, ringing metallic clash>, the spark light flaring across the polished surfaces and green bamboo reflections while the flute melody holds a sustained low note; finally the crossed blades lock together, trembling under the impact as sparks fade and the frame holds on the glowing collision point.
+
+# Additional Information
+## Duration
+10.0 seconds
+## Aspect Ratio
+3:2

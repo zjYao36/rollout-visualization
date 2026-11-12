@@ -1,0 +1,21 @@
+# Style and Tone
+The surreal psychological thriller cinematic live-action short film carries a dreamlike, disorienting, unsettling atmosphere with a pervading sense of vertigo.
+
+# Subject and Scene
+<Subject1>: An adult man in a dark tailored suit, white dress shirt collar visible, dark bowler-style hat, and polished dark dress shoes; seen from behind as a silhouetted figure standing upright with arms relaxed at his sides.
+<Scene1>: A long, symmetric interior hotel corridor with dark brown paneled wooden doors fitted with polished brass doorknobs and round brass room-number plates on both sides, muted brown damask-patterned wallpaper, layered cream crown molding along the ceiling, a continuous row of frosted white bowl-shaped ceiling light fixtures spaced evenly down the center, a dark-framed picture hung on the left wall, and a wide patterned carpet runner in warm brown and tan tones with dark parallel border stripes running the full length of the hall; warm tungsten light pools beneath each ceiling fixture and casts long symmetrical shadows down the carpet, with deep shadow filling the far vanishing point.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+In the long symmetric hotel corridor <Scene1>, the silhouetted man <Subject1> remains fixed at the far vanishing point while the camera performs a smooth 360-degree barrel roll around the central axis, rotating the walls, ceiling lights, carpet, and doors around him as heavy sub-bass cinematic sound builds a vertiginous, gravity-loss dream effect.
+
+# Complete Description
+At 0.0 seconds, [a low, sustained cinematic drone anchored in heavy sub-bass begins, layered with a slow rising tonal swell]. A locked-off eye-level symmetrical full shot frames <Scene1> down the exact central axis of the corridor: <Subject1> stands as a dark silhouette at the far vanishing point with his back to the camera, arms hanging at his sides and feet together on the carpet runner, while the dark wooden doors with brass knobs line both walls in mirroring rows, the frosted bowl ceiling lights recede in a perfectly centered vertical line overhead, the dark-framed picture hangs on the left wall in the near foreground, and the patterned carpet with dark border stripes runs straight toward the figure beneath warm tungsten pools and deep symmetrical shadows. The camera immediately begins a smooth 360-degree barrel roll around the corridor's central longitudinal axis, rotating at an even pace without panning, tilting, dollying, or breaking the centered vanishing point; as the roll progresses, the left wall with its doors and framed picture climbs upward across the frame, the ceiling with its line of glowing bowl fixtures sweeps diagonally from top center toward the right, the right wall with its matching doors descends, and the carpet runner rotates beneath the figure, while the warm pools of light from each fixture travel across the wallpaper, door panels, and carpet pile in keeping with the new orientation, shadows stretching and re-angling naturally as the surfaces turn. <a deep, resonant sub-bass throb pulses in time with the rotation, joined by a faint high-frequency shimmer that rises as the spin passes the inverted point>. The figure of <Subject1> remains pinned at the center of the vanishing point throughout, his silhouette staying upright relative to the rotating corridor so that the hall appears to turn around him rather than him turning with it, reinforcing the gravity-loss dream sensation; the brass doorknobs catch the warm light as they rotate past, the crown molding traces a continuous circling line around the frame edges, and the carpet pattern sweeps in a broad arc without losing its symmetrical run toward the far end. Finally the barrel roll completes a full 360-degree revolution and settles back into the original upright symmetrical composition, with <Subject1> still standing motionless at the far end of <Scene1>, the ceiling lights restored to their centered overhead line, the doors and wallpaper level on both sides, and the carpet running straight beneath the figure as the heavy sub-bass drone sustains to the end.
+
+# Additional Information
+## Duration
+8.0 seconds
+## Aspect Ratio
+3:2

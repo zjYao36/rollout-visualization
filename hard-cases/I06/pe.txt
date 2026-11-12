@@ -1,0 +1,24 @@
+# Style and Tone
+The awards ceremony cinematic live-action short video carries a poised, warm and dignified atmosphere with a pervading sense of professional celebration.
+
+# Subject and Scene
+<Subject1>: Middle-aged East Asian woman with long wavy black hair falling past her shoulders, fair skin, a composed smile, wearing a black formal dress with short lace-trimmed cap sleeves featuring intricate black floral lace at the shoulders and a fitted bodice with a draped ruffle detail at the hip, and a slim silver bracelet on her left wrist.
+<Subject2>: Middle-aged Caucasian woman with short wavy dark brown hair styled close to her head, fair skin, a warm smile, wearing a tailored long-sleeved black dress with a defined waistline, a delicate silver necklace, small drop earrings, a wristwatch with a dark strap and silver case on her left wrist, a ring on her left hand, and holding a tan kraft paper envelope in her left hand.
+<Scene1>: Indoor awards ceremony stage with a matte dark charcoal backdrop printed with large white sans-serif text reading 【TOP 20 MOST POWERFUL WOMEN IN FINANCE AWARDS 2026】 and a white hollow circular logo at the upper left; a light grey podium stands at frame left with a black gooseneck microphone angled upward and matching printed text 【20 WOMEN IN FINANCE AWARDS 2026】 on its front face; even cool-white stage lighting illuminates the subjects with soft, clean shadows, and the floor is a dark polished stage surface.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+On the awards stage <Scene1>, two formally dressed middle-aged professional women <Subject1> and <Subject2> walk toward each other with composed smiles, shake hands in greeting, then turn side by side to face the audience camera and bow together while saying {谢谢大家}.
+
+# Complete Description
+At 0.0 seconds, <soft ambient room tone of a large ceremony hall with distant audience murmur>. A locked-off eye-level medium two-shot frames <Subject1> at frame left and <Subject2> at frame right on the stage of <Scene1>, both in profile facing each other with warm composed smiles; <Subject1> stands near the light grey podium with her left arm relaxed at her side and her right arm partially obscured by the podium edge, while <Subject2> holds the tan envelope in her left hand at hip height with her right arm resting at her side, and the large white backdrop text 【TOP 20 MOST POWERFUL WOMEN IN FINANCE AWARDS 2026】 fills the dark wall behind them. Both women begin walking slowly toward each other, their steps shortening the gap between them as their shoulders stay relaxed and their smiles hold; <Subject1>'s left hand swings gently with her stride and <Subject2>'s right hand begins to lift away from her dress, the tan envelope staying pressed against her left hip. As they close to arm's length, each extends her right hand forward, they meet in a firm natural handshake centered between them, their forearms forming a straight line while their left hands remain at their sides, and they hold the clasp for a brief moment with eye contact and easy smiles <the soft rustle of formal fabric>. Finally they release the handshake, their right hands lowering smoothly back to their sides.
+
+At 3.0 seconds, <the ambient room tone continues under a quiet attentive hush from the audience>. The same locked-off medium two-shot holds as <Subject1> and <Subject2> pivot in unison on the spot, turning from their facing profile positions to stand shoulder to shoulder facing directly toward the camera at the audience side of the stage; <Subject2> keeps the tan envelope held in her left hand at her hip as they settle into aligned posture, their feet set parallel and their shoulders level. Together they bow forward from the waist in a synchronized, measured motion, their upper bodies inclining toward the audience with straight backs and sincere soft smiles, and in unison they speak {谢谢大家} in clear, warm, grateful tones; they hold the bow for a beat, then rise smoothly back to upright standing posture, their expressions remaining warm and composed as they face forward. Finally the frame holds on the two women standing side by side facing the camera, the podium at frame left and the full awards backdrop text visible behind them as the video ends.
+
+# Additional Information
+## Duration
+5.0 seconds
+## Aspect Ratio
+3:2

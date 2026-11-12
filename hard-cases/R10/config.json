@@ -1,0 +1,64 @@
+{
+  "key": "R10",
+  "kind": "r2v",
+  "title": "飞船黑洞能量波",
+  "source_id": "refprod_eeb61a8084aed03c",
+  "difficulty": "困难",
+  "difficulty_reason": "角色驾驶舱黑洞绑定、操纵动作与快速剪辑",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvmeEUB0vBh0",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/10_飞船黑洞能量波",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "一段拯救宇宙的戏剧性电影级片段。在[Image 2]的高科技飞船驾驶舱内，来自[Image 1]的仿生人主角推下了核心操纵杆。镜头捕捉到他脸上带有精细金属缝线的坚毅面容，反射着控制台的橙色光芒。透过视窗，[Image 3]中的巨大黑洞正步步逼近。突然，飞船释放出一股巨大的亮橙色能量波与黑洞相撞，爆炸成一个由发光粒子和金色宇宙尘埃组成的壮观漩涡。场景采用快速、有节奏的剪辑。音频：紧张、不断高涨的无源电子管弦乐配乐。",
+  "original_seed": 352137544,
+  "duration": 10.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/10_飞船黑洞能量波/conditions/image_01.png",
+      "width": 2560,
+      "height": 1440,
+      "sha256": "266e60e4d8a9b39c2aba86820f0cfc24da359952739f7751e9200dba4d6cc7e5"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/10_飞船黑洞能量波/conditions/image_02.jpg",
+      "width": 5504,
+      "height": 3072,
+      "sha256": "cac131c121ac8e9424d75fbbd4f9b497a7e19976d9447f4a55ce4581b812d4ad"
+    },
+    {
+      "slot": 3,
+      "path": "参考生/10_飞船黑洞能量波/conditions/image_03.png",
+      "width": 2560,
+      "height": 1440,
+      "sha256": "6d00b4c34425725444653974040e66cc8744e34a40f4783c9cc0b9f8239683ae"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 10.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "594663a58ea21c12904a1e640fcad790bd28e10d0288f022505c3f0995635ea2"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "key": "R18",
+  "kind": "r2v",
+  "title": "黏土森林多镜头",
+  "source_id": "refprod_08202fd4b3b9419f",
+  "difficulty": "困难",
+  "difficulty_reason": "微缩材质、移轴微距和多景别切换",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvqousmDfTCu",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/18_黏土森林多镜头",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "暮色笼罩着微缩的童话森林，黏土质感交织着梦幻的柔焦微距美学。第一镜头，移轴微距镜头将地平线压在画面最下方，镜头水平慢速横移，扫过图1微型黏土树屋，暖黄色的烛光从树洞窗户中透出来，局部微距移轴令画面边缘呈现朦胧感（音效：微风拂过落叶的沙沙声）。第二镜头，画面顺畅切至中景，图3巨型发光蘑菇孢子在暮色森林的阴影里呼吸起伏，无数发光的蘑菇孢子如同成群的萤火虫，在树屋群的空隙间缓缓升起、飘散，在空气中划出金灿灿的光弧。第三镜头，推镜推向一柄近景的湿润草叶，图2发光的黏土蜗牛正在草叶边缘蠕动，它那半透明的黏土螺壳散发着幽蓝色冷光，随着它缓慢的移动，在草叶上留下一条、折射着烛光的黏液轨迹（音效：极其细微的黏湿滑行声）。第四镜头，从第三镜快速甩镜甩过来，然后缓缓拉远并微微仰拍，将近处的图2的黏土蜗牛与远处图1中的树屋及空中图3巨型发光蘑菇孢子同框，暖黄烛光与幽蓝荧光在粗糙黏土表面交织反射，营造出一种极其静谧治愈、充满手工温度的3D黏土动画大场景氛围。",
+  "original_seed": 897160511,
+  "duration": 15.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/18_黏土森林多镜头/conditions/image_01.jpg",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0a84eb1471248c8c2c7206968badac37210f228c4f8fcedda92654edbb59566f"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/18_黏土森林多镜头/conditions/image_02.jpg",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "bdc2e68beb0d0113e675c58960d7eae708de48b3674b0b5197bb472a18f50fbb"
+    },
+    {
+      "slot": 3,
+      "path": "参考生/18_黏土森林多镜头/conditions/image_03.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "65ea96b6222f8383a4c758f8c08d32ce0712edb8d24457fcacc334d264de2a34"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 15.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "f515e44387611b37e556b383bb041c18b12660e4eaeef4ba399efc6051d0ba32"
+  }
+}

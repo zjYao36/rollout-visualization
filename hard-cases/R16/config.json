@@ -1,0 +1,64 @@
+{
+  "key": "R16",
+  "kind": "r2v",
+  "title": "神木兽微距运镜",
+  "source_id": "refprod_16525a8101a7692c",
+  "difficulty": "困难",
+  "difficulty_reason": "手绘材质、三图物体绑定和森林空间运镜",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvqpJpBEeyjf",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/16_神木兽微距运镜",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "赛璐珞手绘风格的晨雾森林里，高饱和水粉绿与淡金晨光交织，边缘勾勒着粗糙铅笔描边。在[图2]那棵参天神木下，[图1]树栖兽正背着[图3]药罐，小心翼翼地攀在低矮的树枝上，用爪尖引导一片绿叶上的晶莹露水。顺着风的轨迹，低机位大广角仰拍，镜头跟随一片飘落的树叶呈螺旋状快速下降，穿过层层淡金色的晨光，直落向布满青苔的地面水洼，展现出森林宏大而静谧的空间感。待落叶归地，镜头快速切至近景，那滴晶莹的露水在重力作用下完美地滴落进[图3]药罐中。碰触液面的瞬间，药罐内水面泛起七彩斑斓的幻彩涟漪。涟漪扩散开来，一团半透明的彩色光晕在空气中幻化为一只散发微光的蝴蝶，它扇动着翅膀从药罐上方飞出，绕着[图1]树栖兽的鼻尖轻盈起舞。整体画面冷暖对比鲜明，逆光渲染出温暖梦幻的童话氛围。（风吹树叶的沙沙声，水滴滴落声，清脆的魔法音效，悠扬的笛声BGM）",
+  "original_seed": 367271397,
+  "duration": 8.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/16_神木兽微距运镜/conditions/image_01.jpg",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d624a6e0b34874f95d034e522bc4a713389209e5f76bdbce69214d409208b1a4"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/16_神木兽微距运镜/conditions/image_02.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7aa8db8173dc94db8e8f2f02f805fdd8ff35068b5f91ff2478b5e5ca354f3a29"
+    },
+    {
+      "slot": 3,
+      "path": "参考生/16_神木兽微距运镜/conditions/image_03.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "91c125ec40744c5efa53e98063dc627151afdd4e036f242fc3eb79c740632158"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 8.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "0822e2d6b195f17a433c2be1d1ba99af32af215892fb806ab0ba50bb71c7a1c6"
+  }
+}

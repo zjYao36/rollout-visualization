@@ -1,0 +1,22 @@
+# Style and Tone
+The supernatural urban thriller cinematic live-action short film carries a tense, ominous atmosphere with a pervading sense of impending danger.
+
+# Subject and Scene
+<Subject1>: Young adult woman with pale skin, dark wavy hair falling from under a deep red knit beanie, wide anxious eyes and parted lips; wearing a thick dark teal knitted scarf, a dark blue jacket, dark trousers, and dark knee-high boots; she holds a small white-cased phone in her right hand and a long grey coat draped over her left arm.
+<Subject2>: White sedan with a yellow roof strip, dark-tinted windshield, white side mirror, a partial orange circular logo and black lettering on the driver's door panel; its front-left corner is crushed and fused into the glowing pavement pattern, with charred, glowing orange cracks spreading from the impact point.
+<Scene1>: Outdoor asphalt parking lot at night, marked with faded white rectangular parking lines and a square dark utility patch on the tarmac; a large circular maze-like rune pattern is burned into the pavement, its dark charred grooves glowing with molten orange light and shedding bright ember particles, while cool blue-grey ambient light mixes with the warm orange glow from the cracks and a thin haze hangs over the asphalt.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+In a glowing rune-marked parking lot <Scene1>, a young woman in a red beanie <Subject1> stands inside the burning circular pattern and looks anxiously upward as the camera descends, while a white sedan <Subject2> sits crushed into the pattern's edge and showers of glowing orange particles burst outward; she shields her eyes from the flying embers, turns toward frame left, and whispers {Something's coming... I can feel it.} as the glowing residue drifts around her.
+
+# Complete Description
+At 0.0 seconds, <a low resonant hum from the glowing pavement, faint crackling embers, and distant wind>. A high-angle overhead full shot frames <Scene1> from directly above: the large circular glowing rune pattern fills the center of the dark asphalt, its charred maze-like grooves glowing molten orange, <Subject1> stands slightly left of the pattern's center with her head tilted upward toward the camera, mouth parted and eyes wide, the white phone in her right hand and the grey coat over her left arm, and <Subject2> sits at the lower-right edge of the circle with its crushed front-left corner fused into the glowing pavement, orange cracks radiating from the impact. The camera begins a steady vertical descent from this overhead height toward a medium shot, the rune circle growing larger in frame as the asphalt lines and utility patch recede toward the edges; bright orange light fragments and ember particles continuously burst from the crushed car front and the glowing grooves nearest it, scattering outward in arcing trails across the tarmac <crackling bursts of shattering light and skittering particle impacts>. As the descent continues, <Subject1> lifts her right arm, still holding the phone, and raises the forearm across her brow and eyes to shield her face from incoming glowing particles, her head turning slightly away from the lower-right burst while her gaze remains lifted; then she rotates her body toward frame left, lowering the shielding arm a little, and in a low, tight, breath-tinged voice says {Something's coming... I can feel it.}, her eyes wide and her lips tight with tension as drifting ember trails and fine glowing residue hang in the air around her. Finally the camera settles into a medium overhead shot that holds <Subject1> at the center of the glowing circle, <Subject2> still fused into the pattern's lower-right edge with fresh orange particles continuing to spray and fade around the wrecked corner, and the woman's anxious face turned toward frame left amid the drifting light fragments.
+
+# Additional Information
+## Duration
+8.0 seconds
+## Aspect Ratio
+199:82

@@ -1,0 +1,23 @@
+# Style and Tone
+A soft, clinical skincare advertisement shot as live-action with macro close-ups, a pale beige-and-ivory palette, diffused overhead lighting, and a calm, luxurious tone in 16:9 framing.
+
+# Subject and Scene
+<Subject1>: References the Aura Glow Serum bottle in <Image1>. A clear glass serum bottle with a matte white label reading "AURA · GLOW · SERUM" in dark grey sans-serif, thin gold metallic bands at the label's top and bottom, a shiny gold cylindrical collar, and a white rubber dropper bulb; the bottle holds pale golden serum and has a glossy, reflective finish.
+<Scene1>: Loosely references the bright clinical skincare studio in <Image1>. A bright clinical skincare studio with a polished pale marble surface, softly out-of-focus glass lab flasks in the background, diffused overhead lighting, and a clean pale beige-and-ivory colour grade with soft highlights and gentle reflections.
+
+# Overlays
+None.
+
+# Summary
+References the Aura Glow Serum bottle in <Image1> as <Subject1> (bottle). Loosely references the bright clinical skincare studio in <Image1> as <Scene1> (studio). The Aura Glow Serum bottle, <Subject1> (bottle), rotates slowly under soft light in a bright clinical studio, <Scene1> (studio), as intercut macro shots show the dropper releasing a single golden drop, the drop landing on glass, and hands massaging serum into smooth porcelain skin, accompanied by gentle ambient piano.
+
+# Complete Description
+0.0–1.8 seconds, Wide macro shot, eye-level, camera slowly dollying in toward <Subject1> (bottle) centered on the polished marble surface of <Scene1> (studio), with out-of-focus glass flasks glowing softly in the pale ivory background. <Subject1> (bottle) begins a slow clockwise rotation under diffuse overhead light, its gold collar and glass base catching soft highlights while a faint reflection pools beneath it. [gentle ambient piano enters softly, warm and sparse]
+
+1.8–3.6 seconds, Tight macro close-up, shallow depth of field, camera locked off as <Subject1> (bottle)'s dropper is raised above frame and a single glossy golden serum drop forms at the pipette tip; the drop swells, stretches, and releases cleanly downward, catching the overhead light with a warm amber glint. <pipette rubber squeak, soft liquid tension> [piano sustains a single held note]
+
+3.6–5.2 seconds, Cut to an extreme macro top-down angle on a clear glass surface within <Scene1> (studio); the golden drop lands with a soft impact, spreading into a tiny, shimmering pool that ripples gently and reflects the pale light, edges beading smoothly on the glass. <soft liquid plink, delicate ripple> [piano arpeggio rises lightly]
+
+5.2–6.8 seconds, Cut to a soft-focus close-up of a pair of hands with smooth, porcelain-toned skin in <Scene1> (studio); fingertips glide in slow circular motions over the cheek and jaw area, massaging the clear golden serum into the skin until it absorbs, leaving a dewy, luminous sheen under the diffused light. <faint skin-on-skin glide> [piano continues gentle, airy melody]
+
+6.8–8.0 seconds, Cut back to <Subject1> (bottle) centered in <Scene1> (studio), now completing its slow rotation with the label facing forward; the camera holds a steady macro framing as the gold bands and dropper bulb glow softly, the bottle's reflection settling on the marble surface while the background flasks remain softly blurred. [piano resolves on a soft final chord and fades]

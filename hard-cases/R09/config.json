@@ -1,0 +1,78 @@
+{
+  "key": "R09",
+  "kind": "r2v",
+  "title": "街头足球世界杯",
+  "source_id": "refprod_b8c04c85ee1b8fac",
+  "difficulty": "困难",
+  "difficulty_reason": "五图球员足球绑定、停球射门扑救和跨场景切镜",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvmea1tm6A3j",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/09_街头足球世界杯",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "开场是图2少年在阳光照耀的非洲街头球场带球奔跑，紧接着特写帆布鞋击中图4足球的传球画面，尘土与草屑慢动作飞起。画面切换到世界杯现场，观众山呼海啸，各国旗帜挥舞，强烈的球场灯光照亮赛场。图5足球在空中划出弧线，图1前锋高速插上，胸部停球后凌空抽射。图3守门员身穿深绿色球衣飞身扑救，指尖碰到足球但未能改变轨迹。足球直挂球门死角，全场瞬间沸腾，队友冲上前将图1球员团团围住庆祝，球迷慢动作欢呼。随后画面正中出现\"One Ball, One World\"的标语。",
+  "original_seed": 957755756,
+  "duration": 8.0,
+  "aspect_ratio": "9:16",
+  "expected_ratio": 0.5625,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/09_街头足球世界杯/conditions/image_01.jpg",
+      "width": 3072,
+      "height": 5504,
+      "sha256": "b6807e2d49a8b90060a656413cf89c81dabfb79569795ece98b4eab69eff3b70"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/09_街头足球世界杯/conditions/image_02.jpg",
+      "width": 3072,
+      "height": 5504,
+      "sha256": "039d3680af7211d919f8f67593117114becab62688a17c307c6c5053506410b7"
+    },
+    {
+      "slot": 3,
+      "path": "参考生/09_街头足球世界杯/conditions/image_03.png",
+      "width": 1440,
+      "height": 2560,
+      "sha256": "a05bec6e21a93322b020ea51d858d2456cbcb91b763b087512ce753c31fc6525"
+    },
+    {
+      "slot": 4,
+      "path": "参考生/09_街头足球世界杯/conditions/image_04.jpg",
+      "width": 4096,
+      "height": 4096,
+      "sha256": "ec2438895acab0a018655d32148b59b5842f0db6a154426f16dbc57b87667580"
+    },
+    {
+      "slot": 5,
+      "path": "参考生/09_街头足球世界杯/conditions/image_05.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "eaf6c165fc64f51eeda0779f70b88cb1693725e480c48a685995c03d42c1727a"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 8.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "9:16"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "83bc63cfcac41da34beca5e3da795e32c63bf0c23b4f42ce0c73e5708aefd815"
+  }
+}

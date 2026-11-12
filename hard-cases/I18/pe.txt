@@ -1,0 +1,23 @@
+# Style and Tone
+A playful marble-run toy showcase short video, photorealistic live-action footage, carries a bright, lively, satisfying atmosphere with a pervading sense of smooth kinetic flow.
+
+# Subject and Scene
+<Subject1>: A clear glass marble with a polished spherical surface, containing a swirling internal ribbon of deep blue that curves around a bright lime-yellow streak, catching light into sharp star-shaped highlights and casting a refracted caustic on the wood beneath it.
+<Scene1>: An elaborate indoor wooden marble-run chain track built from light natural-grain timber, with a long central U-shaped trough running from the foreground toward the background, flanked by raised wooden rails; to the left of the trough sit interlocking bright plastic gears in blue, green, orange and yellow, a tall blue spiked gear wheel, a green base plate, and small yellow and orange plastic components; to the right runs a row of upright black rectangular domino blocks set in a line beside the rail, with additional wooden supports, yellow and blue plastic pieces, and further track sections receding into a softly blurred exhibition-hall background lit by warm overhead spotlights that produce round bokeh highlights.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+On the elaborate wooden chain track <Scene1>, the clear blue-and-yellow swirled glass marble <Subject1> rolls rapidly down the central trough in a continuous smooth tracking shot, passing colorful plastic gears and a line of black domino blocks as the camera follows it along the run.
+
+# Complete Description
+At 0.0 seconds, <a low, steady wooden rolling hum fills the track, layered with faint plastic gear clicks from the background>. A low eye-level close shot, locked onto the central trough of <Scene1>, frames <Subject1> resting in the foreground center of the light wooden channel, its blue and yellow internal swirl catching the overhead spotlights and throwing a bright refracted caustic onto the grain beneath it; the tall blue spiked gear, green and orange gear cluster, and yellow plastic pieces sit softly out of focus at frame left, while the upright black domino blocks line frame right and the trough narrows into the blurred distance. Immediately the marble begins rolling away from the camera down the center of the channel, and the camera starts a smooth forward tracking follow that keeps <Subject1> in the lower center of the frame; the marble accelerates along the straight trough, its clear surface spinning so that the blue and yellow ribbon rotates continuously inside the glass, and the raised wooden rails slide past on both sides while the colorful gears at frame left and the black dominoes at frame right sweep by in soft parallax <a crisp, continuous glass-on-wood rolling sound that rises in pace as speed builds>. Around 3.5 seconds the trough curves gently to the right, the camera eases right with the bend while maintaining the same low tracking height, and the line of black domino blocks at frame right blurs past in rapid succession as the marble holds the center of the groove without touching the side rails; the background wooden supports and distant colored plastic pieces stretch into soft motion trails while the overhead spot bokeh drifts across the upper frame.
+
+At 6.8 seconds, <the rolling hum continues, joined by a sharper rattle as the marble crosses a short jointed section>. The same continuous tracking shot follows <Subject1> as the trough straightens again and dips slightly, the marble lifting a fraction over a small rounded wooden ridge in the channel before settling back into the groove, its refracted caustic dancing across the wood grain; the colorful gear cluster at frame left recedes behind the foreground rail, and additional yellow and blue plastic components come into view along the right side of the track while the black domino line ends and gives way to more wooden support blocks. The camera keeps pace precisely with the marble, neither pulling ahead nor falling behind, so that <Subject1> remains the sharp focal point while the surrounding track structure blurs with motion; finally the trough begins a gentle leftward bend, the marble rides the curve with a faint tilt against the inner rail <a brief, higher-pitched glass contact tick>, and the shot holds on the marble still rolling rapidly down the lighted wooden channel as the track structure continues to recede into the bokeh-lit background.
+
+# Additional Information
+## Duration
+12.0 seconds
+## Aspect Ratio
+833:472

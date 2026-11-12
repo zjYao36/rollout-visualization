@@ -1,0 +1,64 @@
+{
+  "key": "R14",
+  "kind": "r2v",
+  "title": "地铁穿厢追逐",
+  "source_id": "refprod_fbc03e81a7e626fa",
+  "difficulty": "困难",
+  "difficulty_reason": "双角色身份、穿门遮挡与车厢追逐",
+  "source": {
+    "table": "数据表",
+    "table_id": "tblKbFnb1pWBIeeM",
+    "record_id": "recvqoOXbN5Tu8",
+    "difficulty_field": "难易程度"
+  },
+  "folder": "参考生/14_地铁穿厢追逐",
+  "model": "vidu34_character2video_20261106",
+  "user_prompt": "在图3的废弃地铁站台上，荧光灯闪烁不定，列车门敞开，地面积水倒映着灯光。图2的橙色风衣女子在列车车厢内穿梭，推开连接门钻过一节又一节车厢，回头张望时眼神紧张。图1的红发女生从站台一端全速奔跑追赶，脚步踏在积水中溅起水花。红发女跃入车厢，在狭窄的过道中不断追逐。图2女生猛地侧身闪出车厢门，红发女紧随其后跳回站台。两人在站台两端喘息对视，列车缓缓启动，车门开始关闭。写实风格，冷色调荧光照明，压迫感十足。",
+  "original_seed": 767983944,
+  "duration": 8.0,
+  "aspect_ratio": "16:9",
+  "expected_ratio": 1.7777777777777777,
+  "images": [
+    {
+      "slot": 1,
+      "path": "参考生/14_地铁穿厢追逐/conditions/image_01.png",
+      "width": 2560,
+      "height": 1440,
+      "sha256": "35edddb93c475f54c39df16b12a9b451c006a56219a5902f71e67467031998ad"
+    },
+    {
+      "slot": 2,
+      "path": "参考生/14_地铁穿厢追逐/conditions/image_02.png",
+      "width": 2560,
+      "height": 1440,
+      "sha256": "43ea57fa8d06790ea8cd04f2b445f71d7e0a004e3e62126de609dd0d5a4693c9"
+    },
+    {
+      "slot": 3,
+      "path": "参考生/14_地铁穿厢追逐/conditions/image_03.png",
+      "width": 2560,
+      "height": 1440,
+      "sha256": "6c74ca7df6ad74ee824c57fd15dd2a0bc057ed41541c87ddc0335b7de01cc80f"
+    }
+  ],
+  "seeds": [
+    42,
+    123,
+    2026,
+    3407
+  ],
+  "params": {
+    "video": {
+      "duration": 8.0,
+      "resolution": "area:960",
+      "fps": 24,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "sampling_profile": "model_deployment_default_diffusion",
+  "pe": {
+    "mode": "automatic_first_seed_then_frozen",
+    "first_seed": 42,
+    "caption_sha256": "c388efa1f9efa5da6a4eeecaed12d9894df32465208e5bcc33775bfe5b8a4cd6"
+  }
+}

@@ -1,0 +1,23 @@
+# Style and Tone
+The fantasy apocalypse next-gen realistic 3D animated short film carries a colossal, menacing, awe-striking atmosphere with a pervading sense of cataclysm.
+
+# Subject and Scene
+<Subject1>: A colossal lava titan formed from fused dark basalt and volcanic rock, with a broad barrel chest, thick slab-like arms, and a featureless helmet-shaped head crisscrossed by glowing vertical magma fissures; bright orange-yellow lava glows through cracks across its chest, shoulders, arms and fists, molten rock drips from its limbs, and loose cinders and rock shards shed from its surface as it moves.
+<Scene1>: A vast volcanic wasteland of jagged black basalt ridges and cracked lava fields, with glowing orange lava rivers and pools at the titan's feet, scattered boulders and rock spires along the horizon, and a stormy sky choked with roiling ash clouds lit from below by fire and lava glow; thick orange smoke and embers fill the air, and the ground trembles under the titan's weight.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+In the ash-choked volcanic wasteland <Scene1>, the colossal lava titan <Subject1> rises fully, speaks in a deep tectonic rumble, and smashes its fist into a ridge, shattering the earth and throwing lava and basalt into the air while the camera pulls back to reveal the burning landscape.
+
+# Complete Description
+At 0.0 seconds, <deep tectonic rumbling, a low ground-shaking ambient drone, and roaring lava sound begin>. A low-angle wide shot frames <Subject1> in <Scene1>, its massive stone body rising from the lava field with its right fist thrust forward toward the camera at frame left, its left arm braced lower at frame right, and its fissured head tilted slightly above broad shoulders; glowing orange lava seeps through cracks across its chest and arms, molten drips fall from its knuckles, and cinders and small rock fragments hang in the smoky air around it. The titan completes its rise, straightening its torso and lifting its chest higher as the camera begins a steady backward pull; its enormous stone chest rises and falls in heavy volcanic breaths, each expansion widening the glowing fissures across its sternum and sending thick plumes of black smoke curling upward from its shoulders and back into the red-tinged storm clouds, while loose basalt shards tumble down its flanks and embers swirl in the heated updraft. A deep, earth-shaking voice, grinding like shifting crustal plates, resonates through the air as the titan looms over the ridge: {大地记得一切……它正陷入愤怒。}; finally the titan stands fully upright with its chest heaving and smoke billowing overhead as the backward camera move continues.
+
+At 5.4 seconds, <the tectonic rumble swells into deafening mountain collapse, roaring lava, and heavy stone impacts>. The same continuous low-angle wide shot keeps pulling back in <Scene1> as <Subject1> draws back its right fist, the glowing cracks along its forearm and knuckles flaring brighter and molten lava streaming down its arm in glowing cascades, then drives the fist downward toward the black basalt ridge directly in front of it. The fist connects with the ridge in a crushing impact; the ground splits open in radiating fissures, huge jagged basalt blocks tear loose and hurl upward into the smoky sky, and pressurized lava erupts in tall bright orange fountains from the cracks, splashing molten rock and glowing embers across the foreground ridges while shockwaves ripple through the ash clouds above. Lava drips from the titan's arm in thick glowing streams like waterfalls of fire, and the continuing backward pull of the camera reveals the wider landscape beyond: lava fields blazing across the broken plain, distant rock spires silhouetted against fire-lit smoke, and the entire earth around <Subject1> consumed in flame and churning black smoke; finally the frame holds on the titan standing amid the shattered, burning terrain with lava fountains still jetting around its fist and basalt debris falling back to the cracked ground.
+
+# Additional Information
+## Duration
+10.0 seconds
+## Aspect Ratio
+16:9

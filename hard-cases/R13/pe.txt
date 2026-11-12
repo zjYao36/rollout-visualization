@@ -1,0 +1,25 @@
+# Style and Tone
+Realistic live-action maritime monster cinema, cold desaturated blue-grey palette, dramatic low-angle and aerial camerawork, terrifying and awe-inspiring shipwreck-disaster tone, 16:9 framing.
+
+# Subject and Scene
+<Subject1>: References the giant shark monster in <Image1>, but not the dark empty backdrop of <Image1>. A colossal great-white-like shark monster with a massive streamlined body, dark slate-blue dorsal skin and pale ash-grey underbelly crisscrossed with scars and scratches, wet glossy skin catching light, a tall triangular dorsal fin, broad dark pectoral fins, a broad crescent tail, small jet-black eyes, and an enormous mouth lined with multiple rows of large serrated triangular white teeth and a dark red fleshy gullet.
+<Scene1>: References the open ocean with a sailing fleet in <Image2>. A wide open deep-blue ocean under a partly cloudy sky with bright blue patches and large billowing white cumulus clouds; a fleet of historical tall wooden sailing ships with dark hulls, cream-coloured billowing square sails, rigging, masts, crow's nests, and British-style flags sails across the choppy sea; cold blue-grey colour grade with crisp daylight from above and darker tones beneath the surface, white foam and spray on wave crests.
+
+# Overlays
+None.
+
+# Summary
+References the giant shark monster in <Image1> as <Subject1> (shark monster); does not take the dark empty backdrop of <Image1>. References the open ocean with a sailing fleet in <Image2> as <Scene1> (ocean). A colossal shark monster, <Subject1> (shark monster), erupts from the ocean beside a sailing fleet, <Scene1> (ocean),, rockets upward with jaws wide open, is shown in a spinning aerial panorama at its peak, then crashes back down onto the sea, sending a deluge of spray onto the ships as terrified sailors cling to the rigging while the sails billow and the hulls heave violently.
+
+# Complete Description
+0.0–1.8 seconds, The shot opens underwater in a low-angle upward view inside <Scene1> (ocean), dark cold blue water filling the frame with faint light filtering from the surface above and the dark silhouettes of ship hulls gliding far overhead; bubbles and particulate drift as <Subject1> (shark monster) surges upward from the deep directly beneath the camera, its massive scarred body closing the distance fast. <deep water rumble, distant hull creak>
+
+1.8–3.6 seconds, The camera tracks straight up with <Subject1> (shark monster) as it accelerates toward the surface; its snout punches through the waterline first, then its whole head and dorsal fin burst out in an explosion of white spray, jaws already gaping wide to reveal rows of serrated teeth and the dark red interior of its mouth, water streaming off its glossy skin. <water whoosh, explosive splash>
+
+3.6–5.4 seconds, Continuing upward in a low-angle shot from just above the surface, <Subject1> (shark monster) launches skyward, mouth stretched open toward the top of the frame, pectoral fins spread, body angled steeply up; droplets and spray rain down around it while the masts and white sails of the fleet in <Scene1> (ocean) become visible behind and below it against the bright blue sky with towering clouds. [low brass drone builds] <wind rush, spray patter>
+
+5.4–7.0 seconds, At the apex of the leap the camera spins in a smooth arcing rotation around <Subject1> (shark monster), revealing a full panoramic view of <Scene1> (ocean): deep blue sea stretching in every direction, the scattered fleet of tall ships with billowing cream sails positioned around the eruption point, and the bright partly cloudy sky merging with the horizon in a vast seascape; the shark hangs suspended for an instant, jaws still wide, before gravity takes over. <cable-like whoosh on camera rotation, distant sail snap>
+
+7.0–8.4 seconds, The camera dives back down with <Subject1> (shark monster) as it plummets toward the sea; its massive body slams heavily into the ocean surface directly beside the lead ship, sending an enormous wall of white water and spray exploding outward and upward like a torrential downpour, sheets of water arcing through the air and crashing onto the nearby vessel's deck and hull. [thunderous impact boom] <cacophonous splash, torrential rain-like water hammer>
+
+8.4–10.0 seconds, The shot cuts to deck level aboard one of the ships in <Scene1> (ocean); terrified sailors in period clothing grip the mast and rigging with white knuckles, bodies braced against the violent rocking of the hull, faces turned toward the chaos off the starboard side, while the tall white square sails above them bulge and snap taut in the sea wind and the deck pitches sharply underfoot, spray drenching the wood and ropes. <wooden hull groan, rigging creak, wind howl through sails, sailors' shouts of panic>
