@@ -698,5 +698,21 @@
   "hard-cases/R04/seed_3407.mp4": {
     "size": 7195211,
     "sha256": "9c3a1db62b64fffb5d13e6cbea4d4b315adacbb6a617096d109ba0a039b875bf"
+  },
+  "hard-cases/R05/seed_42.mp4": {
+    "size": 11079325,
+    "sha256": "718ff7c321152304b58cc94d13f6a108f41e6e18db6aeccc2931e8e24cddd3b3"
+  },
+  "hard-cases/R05/seed_123.mp4": {
+    "size": 11025158,
+    "sha256": "fa97723525f4eaf8e62dfe41b7c63902935a1769a4aff2cec9374a783920b32d"
+  },
+  "hard-cases/R05/seed_2026.mp4": {
+    "size": 11342333,
+    "sha256": "49263a24048e622e77149396c9ba35a9a9fe206cb17b668a30f068845811d43d"
+  },
+  "hard-cases/R05/seed_3407.mp4": {
+    "size": 10267966,
+    "sha256": "95fad56e446ff1691ecfbf30a8121dba36511448c1fe1180e034ba8bd00a9b04"
   }
 }
