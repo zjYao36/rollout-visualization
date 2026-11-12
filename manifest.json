@@ -714,5 +714,25 @@
   "hard-cases/R05/seed_3407.mp4": {
     "size": 10267966,
     "sha256": "95fad56e446ff1691ecfbf30a8121dba36511448c1fe1180e034ba8bd00a9b04"
+  },
+  "hard-cases/R06/seed_42.mp4": {
+    "size": 9739922,
+    "sha256": "7ef47f064066840fc3ad8edf26d0e2b3e622cadea166c9b4ce8079b12b5eaca9"
+  },
+  "hard-cases/R06/seed_123.mp4": {
+    "size": 9618592,
+    "sha256": "1de5c57b436d7d78209078b39f2032561d1bd620a89623e77a6b48dd98223ab1"
+  },
+  "hard-cases/R06/seed_2026.mp4": {
+    "size": 9744094,
+    "sha256": "0cf99c8721afad7b226e68255890da1a294727421c07bc886511138413b6bbaf"
+  },
+  "hard-cases/R06/seed_3407.mp4": {
+    "size": 9737787,
+    "sha256": "999324e65f1b8f20766334bd4d69f503a244a46618e08d98ae4ae260407eceb1"
+  },
+  "hard-cases/R07/seed_42.mp4": {
+    "size": 6826727,
+    "sha256": "ff7c76cece63eb1046b62da7a9a1350bda608db001d5647645c5b1005b2317bf"
   }
 }
