@@ -762,5 +762,33 @@
   "hard-cases/R08/seed_3407.mp4": {
     "size": 6237723,
     "sha256": "96874dbcd74b13e13ecdd766abf06b1dbda84d3ae077c884bba63e18f550205d"
+  },
+  "hard-cases/R09/seed_42.mp4": {
+    "size": 6796939,
+    "sha256": "3e3067d2d3037c19be436dc3acc53c74b16dece00e68a0d6a5e478bf52d84ef5"
+  },
+  "hard-cases/R09/seed_123.mp4": {
+    "size": 6765674,
+    "sha256": "8bce7836c7e25c4bd52fff1b72894dfe28de0b474415e21f3c89c4e8f79f52d7"
+  },
+  "hard-cases/R09/seed_2026.mp4": {
+    "size": 6600890,
+    "sha256": "57d68d9acbe6a89527b55e1fe722cb5f2fe6314a41ce30b55647c06d15c3721b"
+  },
+  "hard-cases/R09/seed_3407.mp4": {
+    "size": 6843334,
+    "sha256": "91c7a07e9329cdd919cbcd25dcfbdaa984b91a1f0f6fdc425ccc4f27878bed5f"
+  },
+  "hard-cases/R10/seed_42.mp4": {
+    "size": 5773798,
+    "sha256": "87ec2dc7ea7317bfde2b002500e41f0b951c199e570855d0886bda548c9b7869"
+  },
+  "hard-cases/R10/seed_123.mp4": {
+    "size": 6179513,
+    "sha256": "d15d7b62718edac2e18052ec2c977423f75c460a5e77caec14a3305cc78c86eb"
+  },
+  "hard-cases/R10/seed_2026.mp4": {
+    "size": 6509066,
+    "sha256": "c9d951bc1ebd5aa32691f012e3e78e9b05998a0a140aa977100089ebbb45a44d"
   }
 }
