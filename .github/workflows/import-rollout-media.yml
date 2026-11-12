@@ -1,0 +1,119 @@
+name: Import verified rollout media
+"on":
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Probe source access or import the verified native files
+        required: true
+        default: probe
+        type: choice
+        options: [probe, import]
+permissions:
+  contents: write
+concurrency:
+  group: rollout-native-import-20261112
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    env:
+      IMPORT_MODE: ${{ inputs.mode }}
+      IMPORT_PUSH_TOKEN: ${{ github.token }}
+      MANIFEST_A: ${{ secrets.ORCA_HARD_20261112_A }}
+      MANIFEST_B: ${{ secrets.ORCA_HARD_20261112_B }}
+      MANIFEST_C: ${{ secrets.ORCA_HARD_20261112_C }}
+      MANIFEST_D: ${{ secrets.ORCA_HARD_20261112_D }}
+    steps:
+      - name: Fetch and verify original media
+        shell: bash
+        run: |
+          set -eu
+          export TASK_CACHE="/pfs/pfsm34/yaozhengjian/zjYao_cache/github-native-import-${GITHUB_RUN_ID}"
+          sudo mkdir -p "$TASK_CACHE"
+          sudo chown "$(id -u):$(id -g)" "$TASK_CACHE"
+          export TMPDIR="$TASK_CACHE/tmp"
+          export TMP="$TMPDIR" TEMP="$TMPDIR"
+          mkdir -p "$TMPDIR"
+          python3 - <<'PY'
+          import base64, concurrent.futures, gzip, hashlib, json, os, pathlib, subprocess, time, urllib.parse, urllib.request
+          cache = pathlib.Path(os.environ["TASK_CACHE"])
+          mode = os.environ["IMPORT_MODE"]
+          assert mode in ("probe", "import")
+          packed = "".join(os.environ.get("MANIFEST_" + part, "") for part in "ABCD")
+          assert packed, "Missing import manifest"
+          manifest = json.loads(gzip.decompress(base64.b64decode(packed)))
+          items = manifest["files"]
+          assert len(items) >= 160
+          for item in items:
+              name = pathlib.PurePosixPath(item["name"])
+              assert str(name).startswith("hard-cases/") and not name.is_absolute() and ".." not in name.parts
+              host = urllib.parse.urlsplit(item["url"]).hostname
+              assert host and (host.endswith(".bcebos.com") or host == "raw.githubusercontent.com")
+              assert urllib.parse.urlsplit(item["url"]).scheme == "https"
+          def sha256(path):
+              digest = hashlib.sha256()
+              with path.open("rb") as stream:
+                  for block in iter(lambda: stream.read(1024 * 1024), b""):
+                      digest.update(block)
+              return digest.hexdigest()
+          def download(item, root):
+              target = root / item["name"]
+              target.parent.mkdir(parents=True, exist_ok=True)
+              if target.exists() and target.stat().st_size == item["size"] and sha256(target) == item["sha256"]:
+                  return False
+              for attempt in range(3):
+                  partial = target.with_name(target.name + ".partial")
+                  try:
+                      request = urllib.request.Request(item["url"], headers={"Accept-Encoding": "identity"})
+                      with urllib.request.urlopen(request, timeout=180) as response, partial.open("wb") as output:
+                          while True:
+                              block = response.read(1024 * 1024)
+                              if not block:
+                                  break
+                              output.write(block)
+                      assert partial.stat().st_size == item["size"] and sha256(partial) == item["sha256"], "Content check failed"
+                      partial.replace(target)
+                      return True
+                  except Exception:
+                      partial.unlink(missing_ok=True)
+                      if attempt == 2:
+                          raise RuntimeError("Download failed for " + item["name"]) from None
+                      time.sleep(2 ** attempt)
+          if mode == "probe":
+              selected = [next(i for i in items if i["name"].endswith(".mp4")), next(i for i in items if "/conditions/" in i["name"])]
+              started = time.time()
+              for item in selected:
+                  download(item, cache / "probe")
+              print("Source access verified:", len(selected), "files;", sum(i["size"] for i in selected), "bytes;", round(time.time() - started, 2), "seconds")
+          else:
+              repo = cache / "media"
+              repo.mkdir(exist_ok=True)
+              def git(*args):
+                  return subprocess.run(["git", "-C", str(repo), *args], check=True, capture_output=True, text=True).stdout.strip()
+              helper = cache / "credential-helper.sh"
+              helper.write_text("#!/bin/sh\nif [ \"$1\" = get ]; then printf 'username=x-access-token\\npassword=%s\\n' \"$IMPORT_PUSH_TOKEN\"; fi\n")
+              helper.chmod(0o700)
+              git("init", "-b", "hard-rollout-20261112")
+              git("config", "credential.helper", str(helper))
+              git("config", "user.name", "Rollout media importer")
+              git("config", "user.email", "noreply@github.com")
+              git("config", "pack.window", "0")
+              git("config", "pack.threads", "2")
+              git("remote", "add", "origin", "https://github.com/zjYao36/rollout-visualization.git")
+              git("fetch", "--depth=1", "origin", "hard-rollout-20261112")
+              git("checkout", "-B", "hard-rollout-20261112", "FETCH_HEAD")
+              started = time.time()
+              with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+                  changed = sum(pool.map(lambda item: download(item, repo), items))
+              for item in items:
+                  path = repo / item["name"]
+                  assert path.stat().st_size == item["size"] and sha256(path) == item["sha256"]
+              (repo / "manifest.json").write_text(json.dumps({i["name"]: {"size": i["size"], "sha256": i["sha256"]} for i in items}, indent=2) + "\n")
+              git("add", "--", "hard-cases", "manifest.json")
+              if git("diff", "--cached", "--name-only"):
+                  git("commit", "-m", "Import all 160 verified native difficult-case videos and original conditions")
+                  git("-c", "http.postBuffer=536870912", "-c", "pack.useSparse=false", "-c", "pack.compression=1", "push", "origin", "hard-rollout-20261112")
+              print("Native media import verified:", len(items), "files;", changed, "downloaded;", sum(i["size"] for i in items), "bytes;", round(time.time() - started, 2), "seconds; commit", git("rev-parse", "HEAD"))
+          
+          PY
