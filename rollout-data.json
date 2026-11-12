@@ -44,7 +44,7 @@
       "description": "原表标注困难：图生与参考生各 20 组，固定 PE 对比四个 seed。 160 条已生成，原始视频逐步上传。",
       "groups": 40,
       "jobs": 160,
-      "completed": 37
+      "completed": 44
     }
   ],
   "cases": [
@@ -4310,8 +4310,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3c162ccd38009a753936f8ee1e2db3e95dd360ff/hard-cases/I10/seed_123.mp4",
           "poster": "hard-cases/I10/posters/seed_123.jpg",
           "width": 1174,
           "height": 782,
@@ -4320,8 +4320,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3c162ccd38009a753936f8ee1e2db3e95dd360ff/hard-cases/I10/seed_2026.mp4",
           "poster": "hard-cases/I10/posters/seed_2026.jpg",
           "width": 1174,
           "height": 782,
@@ -4330,8 +4330,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3c162ccd38009a753936f8ee1e2db3e95dd360ff/hard-cases/I10/seed_3407.mp4",
           "poster": "hard-cases/I10/posters/seed_3407.jpg",
           "width": 1174,
           "height": 782,
@@ -4372,8 +4372,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3c162ccd38009a753936f8ee1e2db3e95dd360ff/hard-cases/I11/seed_42.mp4",
           "poster": "hard-cases/I11/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -4382,8 +4382,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3c162ccd38009a753936f8ee1e2db3e95dd360ff/hard-cases/I11/seed_123.mp4",
           "poster": "hard-cases/I11/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -4392,8 +4392,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3c162ccd38009a753936f8ee1e2db3e95dd360ff/hard-cases/I11/seed_2026.mp4",
           "poster": "hard-cases/I11/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -4402,8 +4402,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/3c162ccd38009a753936f8ee1e2db3e95dd360ff/hard-cases/I11/seed_3407.mp4",
           "poster": "hard-cases/I11/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -6886,8 +6886,8 @@
   "summary": {
     "groups": 92,
     "jobs": 350,
-    "completed": 227,
-    "pending": 123,
-    "updated_at": 1794459668.4239123
+    "completed": 234,
+    "pending": 116,
+    "updated_at": 1794460585.2286522
   }
 }
