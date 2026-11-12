@@ -44,7 +44,7 @@
       "description": "原表标注困难：图生与参考生各 20 组，固定 PE 对比四个 seed。 160 条已生成，原始视频逐步上传。",
       "groups": 40,
       "jobs": 160,
-      "completed": 10
+      "completed": 37
     }
   ],
   "cases": [
@@ -3662,8 +3662,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/6a76e902b39c86ce2d9b8f685c76e14fd4c20d88/hard-cases/I01/seed_123.mp4",
           "poster": "hard-cases/I01/posters/seed_123.jpg",
           "width": 1274,
           "height": 722,
@@ -3672,8 +3672,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/6a76e902b39c86ce2d9b8f685c76e14fd4c20d88/hard-cases/I01/seed_2026.mp4",
           "poster": "hard-cases/I01/posters/seed_2026.jpg",
           "width": 1274,
           "height": 722,
@@ -3682,8 +3682,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/6a76e902b39c86ce2d9b8f685c76e14fd4c20d88/hard-cases/I01/seed_3407.mp4",
           "poster": "hard-cases/I01/posters/seed_3407.jpg",
           "width": 1274,
           "height": 722,
@@ -3734,8 +3734,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/6a76e902b39c86ce2d9b8f685c76e14fd4c20d88/hard-cases/I02/seed_123.mp4",
           "poster": "hard-cases/I02/posters/seed_123.jpg",
           "width": 1174,
           "height": 782,
@@ -3744,8 +3744,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/6a76e902b39c86ce2d9b8f685c76e14fd4c20d88/hard-cases/I02/seed_2026.mp4",
           "poster": "hard-cases/I02/posters/seed_2026.jpg",
           "width": 1174,
           "height": 782,
@@ -3754,8 +3754,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/6a76e902b39c86ce2d9b8f685c76e14fd4c20d88/hard-cases/I02/seed_3407.mp4",
           "poster": "hard-cases/I02/posters/seed_3407.jpg",
           "width": 1174,
           "height": 782,
@@ -3806,8 +3806,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/6a76e902b39c86ce2d9b8f685c76e14fd4c20d88/hard-cases/I03/seed_123.mp4",
           "poster": "hard-cases/I03/posters/seed_123.jpg",
           "width": 1494,
           "height": 616,
@@ -3816,8 +3816,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/6a76e902b39c86ce2d9b8f685c76e14fd4c20d88/hard-cases/I03/seed_2026.mp4",
           "poster": "hard-cases/I03/posters/seed_2026.jpg",
           "width": 1494,
           "height": 616,
@@ -3826,8 +3826,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/6a76e902b39c86ce2d9b8f685c76e14fd4c20d88/hard-cases/I03/seed_3407.mp4",
           "poster": "hard-cases/I03/posters/seed_3407.jpg",
           "width": 1494,
           "height": 616,
@@ -3878,8 +3878,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/452fbf7c87a30b872d24b6d32fe812d0e6d21525/hard-cases/I04/seed_123.mp4",
           "poster": "hard-cases/I04/posters/seed_123.jpg",
           "width": 1284,
           "height": 716,
@@ -3888,8 +3888,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/452fbf7c87a30b872d24b6d32fe812d0e6d21525/hard-cases/I04/seed_2026.mp4",
           "poster": "hard-cases/I04/posters/seed_2026.jpg",
           "width": 1284,
           "height": 716,
@@ -3898,8 +3898,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/452fbf7c87a30b872d24b6d32fe812d0e6d21525/hard-cases/I04/seed_3407.mp4",
           "poster": "hard-cases/I04/posters/seed_3407.jpg",
           "width": 1284,
           "height": 716,
@@ -3950,8 +3950,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/452fbf7c87a30b872d24b6d32fe812d0e6d21525/hard-cases/I05/seed_123.mp4",
           "poster": "hard-cases/I05/posters/seed_123.jpg",
           "width": 1274,
           "height": 722,
@@ -3960,8 +3960,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/452fbf7c87a30b872d24b6d32fe812d0e6d21525/hard-cases/I05/seed_2026.mp4",
           "poster": "hard-cases/I05/posters/seed_2026.jpg",
           "width": 1274,
           "height": 722,
@@ -3970,8 +3970,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/452fbf7c87a30b872d24b6d32fe812d0e6d21525/hard-cases/I05/seed_3407.mp4",
           "poster": "hard-cases/I05/posters/seed_3407.jpg",
           "width": 1274,
           "height": 722,
@@ -4032,8 +4032,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/452fbf7c87a30b872d24b6d32fe812d0e6d21525/hard-cases/I06/seed_2026.mp4",
           "poster": "hard-cases/I06/posters/seed_2026.jpg",
           "width": 1174,
           "height": 782,
@@ -4042,8 +4042,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/452fbf7c87a30b872d24b6d32fe812d0e6d21525/hard-cases/I06/seed_3407.mp4",
           "poster": "hard-cases/I06/posters/seed_3407.jpg",
           "width": 1174,
           "height": 782,
@@ -4084,8 +4084,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/452fbf7c87a30b872d24b6d32fe812d0e6d21525/hard-cases/I07/seed_42.mp4",
           "poster": "hard-cases/I07/posters/seed_42.jpg",
           "width": 1174,
           "height": 782,
@@ -4094,8 +4094,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/452fbf7c87a30b872d24b6d32fe812d0e6d21525/hard-cases/I07/seed_123.mp4",
           "poster": "hard-cases/I07/posters/seed_123.jpg",
           "width": 1174,
           "height": 782,
@@ -4104,8 +4104,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/452fbf7c87a30b872d24b6d32fe812d0e6d21525/hard-cases/I07/seed_2026.mp4",
           "poster": "hard-cases/I07/posters/seed_2026.jpg",
           "width": 1174,
           "height": 782,
@@ -4114,8 +4114,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/181c3d523c71de19d06d1213a0ab215c3522b2ae/hard-cases/I07/seed_3407.mp4",
           "poster": "hard-cases/I07/posters/seed_3407.jpg",
           "width": 1174,
           "height": 782,
@@ -4166,8 +4166,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/181c3d523c71de19d06d1213a0ab215c3522b2ae/hard-cases/I08/seed_123.mp4",
           "poster": "hard-cases/I08/posters/seed_123.jpg",
           "width": 1174,
           "height": 782,
@@ -4176,8 +4176,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/181c3d523c71de19d06d1213a0ab215c3522b2ae/hard-cases/I08/seed_2026.mp4",
           "poster": "hard-cases/I08/posters/seed_2026.jpg",
           "width": 1174,
           "height": 782,
@@ -4186,8 +4186,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/181c3d523c71de19d06d1213a0ab215c3522b2ae/hard-cases/I08/seed_3407.mp4",
           "poster": "hard-cases/I08/posters/seed_3407.jpg",
           "width": 1174,
           "height": 782,
@@ -4238,8 +4238,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/181c3d523c71de19d06d1213a0ab215c3522b2ae/hard-cases/I09/seed_123.mp4",
           "poster": "hard-cases/I09/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -4248,8 +4248,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/181c3d523c71de19d06d1213a0ab215c3522b2ae/hard-cases/I09/seed_2026.mp4",
           "poster": "hard-cases/I09/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -4258,8 +4258,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/181c3d523c71de19d06d1213a0ab215c3522b2ae/hard-cases/I09/seed_3407.mp4",
           "poster": "hard-cases/I09/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -6886,8 +6886,8 @@
   "summary": {
     "groups": 92,
     "jobs": 350,
-    "completed": 200,
-    "pending": 150,
-    "updated_at": 1794458222.5425625
+    "completed": 227,
+    "pending": 123,
+    "updated_at": 1794459590.7733335
   }
 }
