@@ -1,0 +1,23 @@
+# Style and Tone
+The parkour action cinematic live-action short video carries a dynamic, energetic atmosphere with a pervading sense of freedom and sunlit momentum.
+
+# Subject and Scene
+<Subject1>: Young adult man with a lean athletic build, short dark hair, light brown skin, and a focused expression; wearing a black short-sleeved shirt with white shoulder panels and a small white chest logo, loose light-grey wide-leg denim jeans, a brown leather belt, and white sneakers with black and grey accents.
+<Scene1>: Sun-drenched exterior courtyard between tall matte terracotta-pink plaster buildings, with a raised light-grey stone platform edged in matching pink plaster, large dark weathered metal double doors with a grid of raised studs on the left wall, projecting square lattice ventilation boxes with honeycomb grilles, small square perforated openings, a circular vent, and a narrow vertical gap between buildings through which bright overexposed midday sun streams, casting long sharp-edged shadows across the stone paving; warm golden-pink daylight with strong lens flare and high contrast between sunlit stone and deep shadow.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+In the sunlit terracotta courtyard <Scene1>, the young man <Subject1> completes a one-handed flip, lands on the raised stone platform, and immediately launches into a parkour run forward through the narrow building gap as the camera follows closely behind him.
+
+# Complete Description
+At 0.0 seconds, [an upbeat, rhythmic lo-fi hip-hop track with a strong beat begins]. A low-angle eye-level wide shot frames <Subject1> mid-movement on the raised platform of <Scene1>, balanced on his left hand planted flat on the sunlit stone with his right arm raised overhead, torso tilted horizontally, left leg kicked high toward the top of frame and right leg extended out to the side, his shadow stretched long across the bright paving toward the lower right while the overexposed sun glows between the pink building walls at his back. He continues the rotation from this one-handed pose, swinging his raised right leg downward and across his body while his supporting left hand pushes off the stone, his torso twisting upright as both legs sweep beneath him; the camera begins a smooth forward tracking move that keeps him centered as his feet descend toward the platform, sneakers meeting the sunlit stone in a controlled two-point landing with knees bent to absorb the impact <a soft rubber-on-stone slap and a faint exhale>, his right arm dropping forward for balance and his shadow shortening beneath him as he settles into a low athletic crouch facing the narrow gap between the buildings.
+
+At 2.4 seconds, [the upbeat lo-fi hip-hop track continues]. Without a cut, the same low-angle tracking shot stays with <Subject1> as he drives out of the crouch into a forward parkour run: his upper body rises, his right leg extends into the first stride off the raised platform edge onto the lower courtyard paving, and his left arm pumps forward while his right arm pulls back, loose jeans swinging with each step and sneakers striking the stone in quick succession <rapid, crisp footfalls on stone>. The camera follows directly behind and slightly to his side at a matching pace, keeping him in the lower center of the frame as he sprints toward the vertical gap between the pink walls; bright sun flares over the building edges, his shadow stretches ahead of him across the paving, and the lattice ventilation boxes, studded metal doors, and perforated wall openings glide past on both sides. He maintains a steady forward sprint, shoulders relaxed and gaze fixed ahead, his stride lengthening as he approaches the narrow passage; finally the camera continues moving with him as he runs into the sunlit gap between the buildings, his figure silhouetted against the bright light while the beat carries through to the end.
+
+# Additional Information
+## Duration
+8.0 seconds
+## Aspect Ratio
+2:3
