@@ -1,0 +1,23 @@
+# Style and Tone
+The pirate duel cinematic live-action short film carries a tense, thrilling and rugged atmosphere with a pervading sense of confrontation.
+
+# Subject and Scene
+<Subject1>: A middle-aged adult male pirate with a shaved head, short dark goatee and weathered tanned skin, wearing a dark long-sleeved linen shirt dusted with sand, dark fitted trousers tucked into tall black leather boots, and a wide studded leather belt with an ornate metal buckle; he wields a curved cutlass with a brass D-guard hilt and a polished steel blade.
+<Subject2>: A middle-aged adult male pirate with long wavy dark hair, a thick dark beard, a bleeding cut above his left eye and tanned weathered skin, wearing a dark loose linen shirt, a wide studded leather belt over a red sash, dark patterned breeches tucked into tall scuffed black leather boots, a metal gorget with a crescent pendant at his neck, a black leather gauntlet on his right hand, and rings on his left hand; he wields a slender straight smallsword with a silver crossguard.
+<Subject3>: A dense crowd of pirate onlookers made up of adult men in tattered period shirts, sleeveless vests, rough trousers, boots and sashes, some wearing bandanas, tricorn hats, beaded necklaces or leather baldrics, several holding flintlock pistols or sheathed blades, all standing shoulder to shoulder with fixed attention on the duel.
+<Scene1>: An open sunlit beach with pale trampled sand marked by deep boot prints and kicked ridges, a bright washed-out pale blue sky overhead, and harsh overhead tropical sunlight casting sharp dark shadows across the sand and throwing bright highlights off the steel blades.
+
+# Overlays
+No persistent subtitles, watermarks, on-screen text, UI elements, or overlays appear in the video.
+
+# Summary
+On the sun-scorched beach <Scene1>, the long-haired pirate <Subject2> lunges with his smallsword at the shaved-headed pirate <Subject1>, who shifts his weight back and swings his cutlass upward to meet the thrust; the blades clash with a metallic crack as sand sprays into the air while the watching pirate crowd <Subject3> holds still around the dueling circle.
+
+# Complete Description
+At 0.0 seconds, <distant ocean surf and a low murmur from the gathered crowd>. A locked-off eye-level wide two-shot frames <Subject1> at frame left and <Subject2> at frame right in the center of <Scene1>, with <Subject3> packed shoulder to shoulder in a semicircle behind them and the bright bleached sky filling the upper frame. <Subject1> stands in a low fencing stance facing frame right, knees bent, left boot planted forward and right boot set back in the sand, his left fist clenched low at his side and his right arm extended forward holding the curved cutlass at chest height with the blade angled up toward <Subject2>; <Subject2> faces him in a wide stance with both boots sunk into the sand, his right arm extended in a black gauntlet holding the smallsword pointed directly at <Subject1>'s chest and his left hand resting on his hip near his belt, a trickle of blood visible at his left temple. Fine sand grains hang suspended in the air between them, and the onlookers hold their positions with eyes fixed on the two blades. Immediately after the opening frame, <Subject2> drives his lead boot forward in a sharp lunge, his right knee bending deeper and his torso leaning toward frame left as he extends the smallsword in a straight thrust aimed at <Subject1>'s chest, the silver blade cutting a bright line through the sunlight; <Subject1> answers by rocking his weight back onto his rear foot, his right boot digging a fresh furrow into the sand and kicking up a pale spray, while his right wrist rotates and lifts the cutlass from its lower ready position in a fast upward sweep to meet the incoming point. The curved steel rises to meet the straight blade between the two fighters, and the edges collide with <a sharp, ringing metallic crack> that sends a bright spark and a shock ripple up both blades; sand kicked loose by the lunge and the back-step bursts upward in a pale dusty cloud around their boots, catching the harsh sunlight as it hangs between them and then drifts outward. The crowd <Subject3> remains planted in place around the dueling circle, heads turned and eyes locked on the crossed blades, with no one stepping forward or breaking the ring; finally the two fighters hold the locked-blade position, <Subject2>'s thrust arrested just short of <Subject1>'s chest and <Subject1>'s cutlass braced upward against the smallsword, while scattered sand grains settle back onto the boot-marked sand and the bright sky glows overhead.
+
+# Additional Information
+## Duration
+8.0 seconds
+## Aspect Ratio
+2400:1597
