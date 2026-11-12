@@ -44,7 +44,7 @@
       "description": "原表标注困难：图生与参考生各 20 组，固定 PE 对比四个 seed。 160 条已生成，原始视频逐步上传。",
       "groups": 40,
       "jobs": 160,
-      "completed": 44
+      "completed": 52
     }
   ],
   "cases": [
@@ -4435,7 +4435,7 @@
           "path": "hard-cases/I12/conditions/image_01.jpg",
           "width": 2560,
           "height": 1440,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/5ae22636c7baac531e5911bd8aa4faa02ce8187e/hard-cases/I12/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "95faa1d28673f955374514f2f06028f0d5c42d780494774c8416137ef5647aff",
           "preview_sha256": "33757019f65b550780caded805b08e243927984bef9d5613ebe885f221230ed6"
@@ -4444,8 +4444,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/5ae22636c7baac531e5911bd8aa4faa02ce8187e/hard-cases/I12/seed_42.mp4",
           "poster": "hard-cases/I12/posters/seed_42.jpg",
           "width": 1280,
           "height": 720,
@@ -4454,8 +4454,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/5ae22636c7baac531e5911bd8aa4faa02ce8187e/hard-cases/I12/seed_123.mp4",
           "poster": "hard-cases/I12/posters/seed_123.jpg",
           "width": 1280,
           "height": 720,
@@ -4464,8 +4464,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/5ae22636c7baac531e5911bd8aa4faa02ce8187e/hard-cases/I12/seed_2026.mp4",
           "poster": "hard-cases/I12/posters/seed_2026.jpg",
           "width": 1280,
           "height": 720,
@@ -4474,8 +4474,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/5ae22636c7baac531e5911bd8aa4faa02ce8187e/hard-cases/I12/seed_3407.mp4",
           "poster": "hard-cases/I12/posters/seed_3407.jpg",
           "width": 1280,
           "height": 720,
@@ -4507,7 +4507,7 @@
           "path": "hard-cases/I13/conditions/image_01.jpg",
           "width": 4000,
           "height": 6000,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/5ae22636c7baac531e5911bd8aa4faa02ce8187e/hard-cases/I13/conditions/image_01.jpg",
           "is_preview": true,
           "original_sha256": "4454885bf6433544849e871c8e132b0ccddb556ae262e85ed07ab03fde7ee19d",
           "preview_sha256": "5141e1f7cde65c7f9de0ff6ae112d05d92acfbcaf0b8b7d34412af066625fbee"
@@ -4516,8 +4516,8 @@
       "videos": [
         {
           "seed": 42,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/87f4ff7330a3e2b043e0821713551efbce34d6c9/hard-cases/I13/seed_42.mp4",
           "poster": "hard-cases/I13/posters/seed_42.jpg",
           "width": 782,
           "height": 1174,
@@ -4526,8 +4526,8 @@
         },
         {
           "seed": 123,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/87f4ff7330a3e2b043e0821713551efbce34d6c9/hard-cases/I13/seed_123.mp4",
           "poster": "hard-cases/I13/posters/seed_123.jpg",
           "width": 782,
           "height": 1174,
@@ -4536,8 +4536,8 @@
         },
         {
           "seed": 2026,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/87f4ff7330a3e2b043e0821713551efbce34d6c9/hard-cases/I13/seed_2026.mp4",
           "poster": "hard-cases/I13/posters/seed_2026.jpg",
           "width": 782,
           "height": 1174,
@@ -4546,8 +4546,8 @@
         },
         {
           "seed": 3407,
-          "status": "publishing",
-          "url": null,
+          "status": "success",
+          "url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/87f4ff7330a3e2b043e0821713551efbce34d6c9/hard-cases/I13/seed_3407.mp4",
           "poster": "hard-cases/I13/posters/seed_3407.jpg",
           "width": 782,
           "height": 1174,
@@ -4579,7 +4579,7 @@
           "path": "hard-cases/I14/conditions/image_01.jpg",
           "width": 7200,
           "height": 4791,
-          "original_url": null,
+          "original_url": "https://raw.githubusercontent.com/zjYao36/rollout-visualization/87f4ff7330a3e2b043e0821713551efbce34d6c9/hard-cases/I14/conditions/image_01.png",
           "is_preview": true,
           "original_sha256": "276b8a235c49b27542d2e58d09245e140e343e1e7ea0361f17e1da11715327b6",
           "preview_sha256": "7ef190522feed05b9af5a88209a31be1283ef76a63a545ec2043b833722bd147"
@@ -6886,8 +6886,8 @@
   "summary": {
     "groups": 92,
     "jobs": 350,
-    "completed": 234,
-    "pending": 116,
-    "updated_at": 1794460585.2286522
+    "completed": 242,
+    "pending": 108,
+    "updated_at": 1794462095.3288398
   }
 }
